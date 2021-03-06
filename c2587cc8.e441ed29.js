@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[682],{745:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"moq","name":"moq","count":4,"permalink":"/blog.johnnyreilly.com/tags/moq"}')}}]);

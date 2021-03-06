@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[568],{632:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"coded-ui","name":"coded ui","count":2,"permalink":"/blog.johnnyreilly.com/tags/coded-ui"}')}}]);

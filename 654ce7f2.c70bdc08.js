@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[361],{420:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"developer","name":"developer","count":1,"permalink":"/blog.johnnyreilly.com/tags/developer"}')}}]);

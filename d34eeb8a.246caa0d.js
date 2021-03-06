@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[730],{794:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"semantic-versioning","name":"semantic versioning","count":2,"permalink":"/tags/semantic-versioning"}')}}]);

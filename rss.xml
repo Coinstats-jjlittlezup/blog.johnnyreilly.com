@@ -9,1491 +9,1491 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Goodbye Client Affinity, Hello Data Protection with Azure]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/02/27/goodbye-client-affinity-hello-data-protection-with-azure</link>
+            <link>https://johnnyreilly.github.io/2021/02/27/goodbye-client-affinity-hello-data-protection-with-azure</link>
             <guid>Goodbye Client Affinity, Hello Data Protection with Azure</guid>
             <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I've written lately about zero downtime releases with Azure App Service. Zero downtime releases are only successful if your authentication mechanism survives a new deployment. We looked in my last post at how to achieve this with Azure's in-built authentication mechanism; Easy Auth.]]></description>
         </item>
         <item>
             <title><![CDATA[Making Easy Auth tokens survive releases on Linux Azure App Service]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/02/16/easy-auth-tokens-survive-releases-on-linux-azure-app-service</link>
+            <link>https://johnnyreilly.github.io/2021/02/16/easy-auth-tokens-survive-releases-on-linux-azure-app-service</link>
             <guid>Making Easy Auth tokens survive releases on Linux Azure App Service</guid>
             <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I wrote recently about zero downtime deployments on Azure App Service. Many applications require authentication, and ours is no exception. In our case we're using Azure Active Directory facilitated by "Easy Auth" which provides authentication to our App Service.]]></description>
         </item>
         <item>
             <title><![CDATA[Azure App Service, Health checks and zero downtime deployments]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/02/11/azure-app-service-health-checks-and-zero-downtime-deployments</link>
+            <link>https://johnnyreilly.github.io/2021/02/11/azure-app-service-health-checks-and-zero-downtime-deployments</link>
             <guid>Azure App Service, Health checks and zero downtime deployments</guid>
             <pubDate>Thu, 11 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I've been working recently on zero downtime deployments using Azure App Service. They're facilitated by a combination of Health checks and deployment slots. This post will talk about why this is important and how it works.]]></description>
         </item>
         <item>
             <title><![CDATA[ARM templates, security, role assignments and magic GUIDs]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/02/08/arm-templates-security-role-assignments</link>
+            <link>https://johnnyreilly.github.io/2021/02/08/arm-templates-security-role-assignments</link>
             <guid>ARM templates, security, role assignments and magic GUIDs</guid>
             <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[If you're deploying to Azure, there's a good chance you're using ARM templates to do so. Once you've got past "Hello World", you'll probably find yourself in a situation when you're deploying multiple types of resource to make your solution. For instance, you may be deploying an App Service alongside Key Vault and Storage.]]></description>
         </item>
         <item>
             <title><![CDATA[ASP.NET, Serilog and Application Insights]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/01/30/aspnet-serilog-and-application-insights</link>
+            <link>https://johnnyreilly.github.io/2021/01/30/aspnet-serilog-and-application-insights</link>
             <guid>ASP.NET, Serilog and Application Insights</guid>
             <pubDate>Sat, 30 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[If you're deploying an ASP.NET application to Azure App Services, there's a decent chance you'll also be using the fantastic Serilog and will want to plug it into Azure's Application Insights.]]></description>
         </item>
         <item>
             <title><![CDATA[Surfacing Azure Pipelines Build Info in a .NET React SPA]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/01/29/surfacing-azure-pipelines-build-info-in</link>
+            <link>https://johnnyreilly.github.io/2021/01/29/surfacing-azure-pipelines-build-info-in</link>
             <guid>Surfacing Azure Pipelines Build Info in a .NET React SPA</guid>
             <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[The title of this post is hugely specific, but the idea is simple. We want to answer the question "Hey! I'm version 1.2.3.4 of your app; built from this commit hash, I was built on Wednesday, I was the nineth build that day and I was built from the main branch. And I'm an Aries." Or something like that.]]></description>
         </item>
         <item>
             <title><![CDATA[Azure Easy Auth and Roles with .NET and Microsoft.Identity.Web]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/01/17/azure-easy-auth-and-roles-with-net-and-microsoft-identity-web</link>
+            <link>https://johnnyreilly.github.io/2021/01/17/azure-easy-auth-and-roles-with-net-and-microsoft-identity-web</link>
             <guid>Azure Easy Auth and Roles with .NET and Microsoft.Identity.Web</guid>
             <pubDate>Sun, 17 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I wrote recently about how to get Azure Easy Auth to work with roles. This involved borrowing the approach used by MaximeRouiller.Azure.AppService.EasyAuth.]]></description>
         </item>
         <item>
             <title><![CDATA[Azure Easy Auth and Roles with .NET (and .NET Core)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/01/14/azure-easy-auth-and-roles-with-dotnet-and-core</link>
+            <link>https://johnnyreilly.github.io/2021/01/14/azure-easy-auth-and-roles-with-dotnet-and-core</link>
             <guid>Azure Easy Auth and Roles with .NET (and .NET Core)</guid>
             <pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[If this post is interesting to you, you may also want to look at this one where we try to use Microsoft.Identity.Web for the same purpose.]]></description>
         </item>
         <item>
             <title><![CDATA[Strongly typing react-querys useQueries]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/01/03/strongly-typing-react-query-s-usequeries</link>
+            <link>https://johnnyreilly.github.io/2021/01/03/strongly-typing-react-query-s-usequeries</link>
             <guid>Strongly typing react-querys useQueries</guid>
             <pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[If you haven't used react-query then I heartily recommend it. It provides (to quote the docs):]]></description>
         </item>
         <item>
             <title><![CDATA[Create React App with ts-loader and CRACO]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/01/02/create-react-app-with-ts-loader-and-craco</link>
+            <link>https://johnnyreilly.github.io/2021/01/02/create-react-app-with-ts-loader-and-craco</link>
             <guid>Create React App with ts-loader and CRACO</guid>
             <pubDate>Sat, 02 Jan 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Create React App is a fantastic way to get up and running building a web app with React. It also supports using TypeScript with React. Simply entering the following:]]></description>
         </item>
         <item>
             <title><![CDATA[Azure Pipelines meet Jest]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/12/30/azure-pipelines-meet-jest</link>
+            <link>https://johnnyreilly.github.io/2020/12/30/azure-pipelines-meet-jest</link>
             <guid>Azure Pipelines meet Jest</guid>
             <pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[This post explains how to integrate the tremendous test runner Jest with the continuous integration platform Azure Pipelines. Perhaps we're setting up a new project and we've created a new React app with Create React App. This ships with Jest support out of the box. How do we get that plugged into Pipelines such that:]]></description>
         </item>
         <item>
             <title><![CDATA[Prettier your CSharp with dotnet-format and lint-staged]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/12/22/prettier-your-csharp-with-dotnet-format-and-lint-staged</link>
+            <link>https://johnnyreilly.github.io/2020/12/22/prettier-your-csharp-with-dotnet-format-and-lint-staged</link>
             <guid>Prettier your CSharp with dotnet-format and lint-staged</guid>
             <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Consistent formatting is a good thing. It makes code less confusing to newcomers and it allows whoever is working on the codebase to reliably focus on the task at hand. Not "fixing curly braces because Janice messed them up with her last commit". (A git commit message that would be tragic in so many ways.)]]></description>
         </item>
         <item>
             <title><![CDATA[How to make Azure AD 403]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/12/21/how-to-make-azure-ad-403</link>
+            <link>https://johnnyreilly.github.io/2020/12/21/how-to-make-azure-ad-403</link>
             <guid>How to make Azure AD 403</guid>
             <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[This post is about how you can customise ASP.NETs integration with Azure Active Directory to customise the behaviour that redirects unauthorized requests to the AccessDenied endpoint. If you're using the tremendous Azure Active Directory for authentication with ASP.NET then there's a good chance you're using the Microsoft.Identity.Web library. It's this that allows us to drop the following statement into the ConfigureServices method of our Startup class:]]></description>
         </item>
         <item>
             <title><![CDATA[Nullable reference types; CSharp's very own strictNullChecks]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/12/20/nullable-reference-types-csharp-strictnullchecks</link>
+            <link>https://johnnyreilly.github.io/2020/12/20/nullable-reference-types-csharp-strictnullchecks</link>
             <guid>Nullable reference types; CSharp's very own strictNullChecks</guid>
             <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA['Tis the season to play with new compiler settings! I'm a very keen TypeScript user and have been merrily using strictNullChecks since it shipped. I was dimly aware that C# was also getting a similar feature by the name of nullable reference types.]]></description>
         </item>
         <item>
             <title><![CDATA[azure-pipelines-task-lib and isOutput setVariable]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/12/09/azure-pipelines-task-lib-and-isoutput-setvariable</link>
+            <link>https://johnnyreilly.github.io/2020/12/09/azure-pipelines-task-lib-and-isoutput-setvariable</link>
             <guid>azure-pipelines-task-lib and isOutput setVariable</guid>
             <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Some blog posts are insightful treatises on the future of web development, some are "here's how I solved my problem". This is most assuredly the latter.]]></description>
         </item>
         <item>
             <title><![CDATA[Images in MarkDown for the Azure DevOps Marketplace!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/11/28/images-in-markdown-for-azure-devops-marketplace</link>
+            <link>https://johnnyreilly.github.io/2020/11/28/images-in-markdown-for-azure-devops-marketplace</link>
             <guid>Images in MarkDown for the Azure DevOps Marketplace!</guid>
             <pubDate>Sat, 28 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[I've recently found myself developing custom pipelines task extensions for Azure DevOps. The extensions being developed end up in the Azure DevOps Marketplace. What you see there when you look at existing extensions is some pretty lovely documentation.]]></description>
         </item>
         <item>
             <title><![CDATA[Bulletproof uniq with TypeScript generics (yay code reviews!)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/11/14/bulletproof-uniq-with-typescript</link>
+            <link>https://johnnyreilly.github.io/2020/11/14/bulletproof-uniq-with-typescript</link>
             <guid>Bulletproof uniq with TypeScript generics (yay code reviews!)</guid>
             <pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Never neglect the possibilities of a code review. There are times when you raise a PR and all you want is for everyone to hit approve so you can merge, merge and ship, ship! This can be a missed opportunity. For as much as I'd like to imagine my code is perfect, it's patently not. There's always scope for improvement.]]></description>
         </item>
         <item>
             <title><![CDATA[Throttling data requests with React Hooks]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/11/10/throttle-data-requests-with-react-hooks</link>
+            <link>https://johnnyreilly.github.io/2020/11/10/throttle-data-requests-with-react-hooks</link>
             <guid>Throttling data requests with React Hooks</guid>
             <pubDate>Tue, 10 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[When an application loads data, typically relatively few HTTP requests will be made. For example, if we imagine we're making a student administration application, then a "view" screen might make a single HTTP request to load that student's data before displaying it.]]></description>
         </item>
         <item>
             <title><![CDATA[Azure DevOps Node API: The missing episodes]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/10/31/azure-devops-node-api-missing-episodes</link>
+            <link>https://johnnyreilly.github.io/2020/10/31/azure-devops-node-api-missing-episodes</link>
             <guid>Azure DevOps Node API: The missing episodes</guid>
             <pubDate>Sat, 31 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[I've been taking a good look at the REST API for Azure DevOps. I'm delighted to say that it's a very full API. However, there's quirks.]]></description>
         </item>
         <item>
             <title><![CDATA[The Mysterious Case of Safari and the Empty Download]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/10/19/safari-empty-download-content-type</link>
+            <link>https://johnnyreilly.github.io/2020/10/19/safari-empty-download-content-type</link>
             <guid>The Mysterious Case of Safari and the Empty Download</guid>
             <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[TL;DR 0. Without this, Safari can attempt to trigger an empty download. Don't argue; just go with it; some browsers are strange.]]></description>
         </item>
         <item>
             <title><![CDATA[Autofac 6, integration tests and .NET generic hosting]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/10/02/autofac-6-integration-tests-and-generic-hosting</link>
+            <link>https://johnnyreilly.github.io/2020/10/02/autofac-6-integration-tests-and-generic-hosting</link>
             <guid>Autofac 6, integration tests and .NET generic hosting</guid>
             <pubDate>Fri, 02 Oct 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[I blogged a little while ago around to support integration tests using Autofac. This was specific to Autofac but documented a workaround for a long standing issue with ConfigureTestContainer that was introduced into .NET core 3.0 which affects all third-party containers that use ConfigureTestContainer in their tests.]]></description>
         </item>
         <item>
             <title><![CDATA[Why your team needs a newsfeed]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/09/04/why-your-team-needs-newsfeed</link>
+            <link>https://johnnyreilly.github.io/2020/09/04/why-your-team-needs-newsfeed</link>
             <guid>Why your team needs a newsfeed</guid>
             <pubDate>Fri, 04 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm part of a team that builds an online platform. I'm often preoccupied by how to narrow the gap between our users and "us" - the people that build the platform. It's important we understand how people use and interact with what we've built. If we don't then we're liable to waste our time and energy building the wrong things. Or the wrong amount of the right things.]]></description>
         </item>
         <item>
             <title><![CDATA[Devcontainers AKA performance in a secure sandbox]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/08/09/devcontainers-aka-performance-in-secure</link>
+            <link>https://johnnyreilly.github.io/2020/08/09/devcontainers-aka-performance-in-secure</link>
             <guid>Devcontainers AKA performance in a secure sandbox</guid>
             <pubDate>Sun, 09 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Many corporate machines arrive in engineers hands with a preponderance of pre-installed background tools; from virus checkers to backup utilities to port blockers; the list is long.]]></description>
         </item>
         <item>
             <title><![CDATA[Devcontainers and SSL interception]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/07/11/devcontainers-and-ssl-interception</link>
+            <link>https://johnnyreilly.github.io/2020/07/11/devcontainers-and-ssl-interception</link>
             <guid>Devcontainers and SSL interception</guid>
             <pubDate>Sat, 11 Jul 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Devcontainers are cool. They are the infrastructure as code equivalent for developing software.]]></description>
         </item>
         <item>
             <title><![CDATA[Task.WhenAll / Select is a footgun 👟🔫]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/06/21/taskwhenall-select-is-footgun</link>
+            <link>https://johnnyreilly.github.io/2020/06/21/taskwhenall-select-is-footgun</link>
             <guid>Task.WhenAll / Select is a footgun 👟🔫</guid>
             <pubDate>Sun, 21 Jun 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[This post differs from my typical fayre. Most often I write "here's how to do a thing". This is not that. It's more "don't do this thing I did". And maybe also, "how can we avoid a situation like this happening again in future?". On this topic I very much don't have all the answers - but by putting my thoughts down maybe I'll learn and maybe others will educate me. I would love that!]]></description>
         </item>
         <item>
             <title><![CDATA[Autofac, WebApplicationFactory and integration tests]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/05/21/autofac-webapplicationfactory-and</link>
+            <link>https://johnnyreilly.github.io/2020/05/21/autofac-webapplicationfactory-and</link>
             <guid>Autofac, WebApplicationFactory and integration tests</guid>
             <pubDate>Thu, 21 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Updated 2nd Oct 2020: for an approach that works with Autofac 6 see this post.]]></description>
         </item>
         <item>
             <title><![CDATA[From react-window to react-virtual]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/05/10/from-react-window-to-react-virtual</link>
+            <link>https://johnnyreilly.github.io/2020/05/10/from-react-window-to-react-virtual</link>
             <guid>From react-window to react-virtual</guid>
             <pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[The tremendous Tanner Linsley recently released react-virtual. react-virtual provides "hooks for virtualizing scrollable elements in React".]]></description>
         </item>
         <item>
             <title><![CDATA[Up to the clouds!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/04/04/up-to-clouds</link>
+            <link>https://johnnyreilly.github.io/2020/04/04/up-to-clouds</link>
             <guid>Up to the clouds!</guid>
             <pubDate>Sat, 04 Apr 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[This last four months has been quite the departure for me. Most typically I find myself building applications; for this last period of time I've been taking the platform that I work on, and been migrating it from running on our on premise servers to running in the cloud.]]></description>
         </item>
         <item>
             <title><![CDATA[Offline storage in a PWA]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/03/29/offline-storage-in-pwa</link>
+            <link>https://johnnyreilly.github.io/2020/03/29/offline-storage-in-pwa</link>
             <guid>Offline storage in a PWA</guid>
             <pubDate>Sun, 29 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[When you are building any kind of application it's typical to want to store information which persists beyond a single user session. Sometimes that will be information that you'll want to live in some kind of centralised database, but not always.]]></description>
         </item>
         <item>
             <title><![CDATA[Dual boot authentication with ASP.Net Core]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/03/22/dual-boot-authentication-with-aspnetcore</link>
+            <link>https://johnnyreilly.github.io/2020/03/22/dual-boot-authentication-with-aspnetcore</link>
             <guid>Dual boot authentication with ASP.Net Core</guid>
             <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a post about having two kinds of authentication working at the same time in ASP.Net Core. But choosing which authentication method to use dynamically at runtime; based upon the criteria of your choice.]]></description>
         </item>
         <item>
             <title><![CDATA[Web Workers, comlink, TypeScript and React]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/02/21/web-workers-comlink-typescript-and-react</link>
+            <link>https://johnnyreilly.github.io/2020/02/21/web-workers-comlink-typescript-and-react</link>
             <guid>Web Workers, comlink, TypeScript and React</guid>
             <pubDate>Fri, 21 Feb 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[JavaScript is famously single threaded. However, if you're developing for the web, you may well know that this is not quite accurate. There are Web Workers:]]></description>
         </item>
         <item>
             <title><![CDATA[From create-react-app to PWA]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/01/31/from-create-react-app-to-pwa</link>
+            <link>https://johnnyreilly.github.io/2020/01/31/from-create-react-app-to-pwa</link>
             <guid>From create-react-app to PWA</guid>
             <pubDate>Fri, 31 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Progressive Web Apps are a (terribly named) wonderful idea. You can build an app once using web technologies which serves all devices and form factors. It can be accessible over the web, but also surface on the home screen of your Android / iOS device. That app can work offline, have a splash screen when it launches and have notifications too.]]></description>
         </item>
         <item>
             <title><![CDATA[LICENSE to kill your PWA]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/01/21/license-to-kill-your-pwa</link>
+            <link>https://johnnyreilly.github.io/2020/01/21/license-to-kill-your-pwa</link>
             <guid>LICENSE to kill your PWA</guid>
             <pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Update: 26/01/2020 - LICENSE to kill revoked!]]></description>
         </item>
         <item>
             <title><![CDATA[EF Core 3.1 breaks left join with no navigation property]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2020/01/02/ef-core-31-breaks-left-join-with-no-navigation-property</link>
+            <link>https://johnnyreilly.github.io/2020/01/02/ef-core-31-breaks-left-join-with-no-navigation-property</link>
             <guid>EF Core 3.1 breaks left join with no navigation property</guid>
             <pubDate>Thu, 02 Jan 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Just recently my team took on the challenge of upgrading our codebase from .NET Core 2.2 to .NET Core 3.1. Along the way we encountered a quirky issue which caused us much befuddlement. Should you be befuddled too, then maybe this can help you.]]></description>
         </item>
         <item>
             <title><![CDATA[Automating Teams Notifications]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/12/18/automating-teams-notifications-recently</link>
+            <link>https://johnnyreilly.github.io/2019/12/18/automating-teams-notifications-recently</link>
             <guid>Automating Teams Notifications</guid>
             <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Recently, my team transitioned from using Slack to using Microsoft Teams. It's fair to say that the team had a lot of love for Slack. Teams is a poorer product from the perspective of UI / UX. Maybe as you read this in the future that's all changed. But here on December 18th 2019, Teams is a solid 2 stars out of 5.]]></description>
         </item>
         <item>
             <title><![CDATA[Definitely Typed: The Movie]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/10/08/definitely-typed-movie</link>
+            <link>https://johnnyreilly.github.io/2019/10/08/definitely-typed-movie</link>
             <guid>Definitely Typed: The Movie</guid>
             <pubDate>Tue, 08 Oct 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[I'd like to tell you a story. It's the tale of the ecosystem that grew up around a language: TypeScript. TypeScript is, for want of a better description, JavaScript after a trip to Saville Row. Essentially the same language, but a little more together, a little less wild west. JS with a decent haircut and a new suit. These days, the world seems to be written in TypeScript. And when you pause to consider just how young the language is, well, that's kind of amazing.]]></description>
         </item>
         <item>
             <title><![CDATA[Start Me Up: ts-loader meet .tsbuildinfo]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/09/30/start-me-up-ts-loader-meet-tsbuildinfo</link>
+            <link>https://johnnyreilly.github.io/2019/09/30/start-me-up-ts-loader-meet-tsbuildinfo</link>
             <guid>Start Me Up: ts-loader meet .tsbuildinfo</guid>
             <pubDate>Mon, 30 Sep 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[With TypeScript 3.4, a new behaviour landed and a magical new file type appeared; .tsbuildinfo]]></description>
         </item>
         <item>
             <title><![CDATA[Coming Soon: Definitely Typed]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/09/14/coming-soon-definitely-typed</link>
+            <link>https://johnnyreilly.github.io/2019/09/14/coming-soon-definitely-typed</link>
             <guid>Coming Soon: Definitely Typed</guid>
             <pubDate>Sat, 14 Sep 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[A long time ago (well, 2012) in a galaxy far, far away (okay; Plovdiv, Bulgaria)....]]></description>
         </item>
         <item>
             <title><![CDATA[Symbiotic Definitely Typed]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/08/17/symbiotic-definitely-typed</link>
+            <link>https://johnnyreilly.github.io/2019/08/17/symbiotic-definitely-typed</link>
             <guid>Symbiotic Definitely Typed</guid>
             <pubDate>Sat, 17 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[I did ponder calling this post "how to enable a good TypeScript developer experience for npm modules that aren't written in TypeScript"... Not exactly pithy though.]]></description>
         </item>
         <item>
             <title><![CDATA[Hard-coding a Claim in Development Mode in ASP.Net Core]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/08/02/hard-coding-claim-in-development-mode</link>
+            <link>https://johnnyreilly.github.io/2019/08/02/hard-coding-claim-in-development-mode</link>
             <guid>Hard-coding a Claim in Development Mode in ASP.Net Core</guid>
             <pubDate>Fri, 02 Aug 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[I was recently part of a hackathon team that put together an API in just 30 hours. We came second. (Not bitter, not bitter...)]]></description>
         </item>
         <item>
             <title><![CDATA[Using TypeScript and ESLint with webpack (fork-ts-checker-webpack-plugin new feature!)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/07/13/typescript-and-eslint-meet-fork-ts-checker-webpack-plugin</link>
+            <link>https://johnnyreilly.github.io/2019/07/13/typescript-and-eslint-meet-fork-ts-checker-webpack-plugin</link>
             <guid>Using TypeScript and ESLint with webpack (fork-ts-checker-webpack-plugin new feature!)</guid>
             <pubDate>Sat, 13 Jul 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[The fork-ts-checker-webpack-plugin has, since its inception, performed two classes of checking:]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript / webpack - you down with PnP? Yarn, you know me!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/06/07/typescript-webpack-you-down-with-pnp</link>
+            <link>https://johnnyreilly.github.io/2019/06/07/typescript-webpack-you-down-with-pnp</link>
             <guid>TypeScript / webpack - you down with PnP? Yarn, you know me!</guid>
             <pubDate>Fri, 07 Jun 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Yarn PnP is an innovation by the Yarn team designed to speed up module resolution by node. To quote the (excellent) docs:]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript and high CPU usage - watch don't stare!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/05/23/typescript-and-high-cpu-usage-watch</link>
+            <link>https://johnnyreilly.github.io/2019/05/23/typescript-and-high-cpu-usage-watch</link>
             <guid>TypeScript and high CPU usage - watch don't stare!</guid>
             <pubDate>Thu, 23 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm one of the maintainers of the fork-ts-checker-webpack-plugin. Hi there!]]></description>
         </item>
         <item>
             <title><![CDATA[react-select with less typing lag]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/04/27/react-select-with-less-typing-lag</link>
+            <link>https://johnnyreilly.github.io/2019/04/27/react-select-with-less-typing-lag</link>
             <guid>react-select with less typing lag</guid>
             <pubDate>Sat, 27 Apr 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is going out to all those people using react-select with 1000+ items to render. To those people typing into the select and saying out loud "it's so laggy.... This can't be... It's 2019... I mean, right?" To the people who read this GitHub issue top to bottom 30 times and still came back unsure of what to do. This is for you.]]></description>
         </item>
         <item>
             <title><![CDATA[Template Tricks for a Dainty DOM]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/03/24/template-tricks-for-dainty-dom</link>
+            <link>https://johnnyreilly.github.io/2019/03/24/template-tricks-for-dainty-dom</link>
             <guid>Template Tricks for a Dainty DOM</guid>
             <pubDate>Sun, 24 Mar 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm somewhat into code golf. Placing restrictions on what you're "allowed" to do in code and seeing what the happens as a result. I'd like to share with you something that came out of some recent dabblings.]]></description>
         </item>
         <item>
             <title><![CDATA[Google Analytics API and ASP.Net Core]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/03/22/google-analytics-api-and-aspnet-core</link>
+            <link>https://johnnyreilly.github.io/2019/03/22/google-analytics-api-and-aspnet-core</link>
             <guid>Google Analytics API and ASP.Net Core</guid>
             <pubDate>Fri, 22 Mar 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Some of my posts are meaningful treaties on the nature of software development. Some are detailed explanations of approaches you can use. Some are effectively code dumps. This is one of those.]]></description>
         </item>
         <item>
             <title><![CDATA[The Big One Point Oh]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/03/06/the-big-one-point-oh</link>
+            <link>https://johnnyreilly.github.io/2019/03/06/the-big-one-point-oh</link>
             <guid>The Big One Point Oh</guid>
             <pubDate>Wed, 06 Mar 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[It's time for the first major version of fork-ts-checker-webpack-plugin. It's been a long time coming :-)]]></description>
         </item>
         <item>
             <title><![CDATA[WhiteList Proxying with ASP.Net Core]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/02/22/whitelist-proxying-with-aspnet-core</link>
+            <link>https://johnnyreilly.github.io/2019/02/22/whitelist-proxying-with-aspnet-core</link>
             <guid>WhiteList Proxying with ASP.Net Core</guid>
             <pubDate>Fri, 22 Feb 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Once upon a time there lived a young team who were building a product. They were ready to go live with their beta and so they set off on a journey to a mystical land they had heard tales of. This magical kingdom was called "Production". However, Production was a land with walls and but one gate. That gate was jealously guarded by a defender named "InfoSec". InfoSec was there to make sure that only the the right people, noble of thought and pure of deed were allowed into the promised land. InfoSec would ask questions like "are you serving over HTTPS" and "what are you doing about cross site scripting"?]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript and webpack: Watch It]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/01/13/typescript-and-webpack-watch-it</link>
+            <link>https://johnnyreilly.github.io/2019/01/13/typescript-and-webpack-watch-it</link>
             <guid>TypeScript and webpack: Watch It</guid>
             <pubDate>Sun, 13 Jan 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[All I ask for is a compiler and a tight feedback loop. Narrowing the gap between making a change to a program and seeing the effect of that is a productivity boon. The TypeScript team are wise cats and dig this. They've taken strides to improve the developer experience of TypeScript users by introducing a "watch" API which can be leveraged by other tools. To quote the docs:]]></description>
         </item>
         <item>
             <title><![CDATA[GitHub Actions and Yarn]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2019/01/05/github-actions-and-yarn</link>
+            <link>https://johnnyreilly.github.io/2019/01/05/github-actions-and-yarn</link>
             <guid>GitHub Actions and Yarn</guid>
             <pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[I'd been meaning to automate the npm publishing of ts-loader for the longest time. I had attempted to use Travis to do this in the same way as fork-ts-checker-webpack-plugin. Alas using secure environment variables in Travis has unfortunate implications for ts-loader's test pack.]]></description>
         </item>
         <item>
             <title><![CDATA[You Might Not Need thread-loader]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/12/22/you-might-not-need-thread-loader</link>
+            <link>https://johnnyreilly.github.io/2018/12/22/you-might-not-need-thread-loader</link>
             <guid>You Might Not Need thread-loader</guid>
             <pubDate>Sat, 22 Dec 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[It all started with a GitHub issue. Ernst Ammann reported:]]></description>
         </item>
         <item>
             <title><![CDATA[Cache Rules Everything Around Me]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/12/10/cache-rules-everything-around-me</link>
+            <link>https://johnnyreilly.github.io/2018/12/10/cache-rules-everything-around-me</link>
             <guid>Cache Rules Everything Around Me</guid>
             <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[One thing that ASP.Net Core really got right was caching. IMemoryCache is a caching implementation that does just what I want. I love it. I take it everywhere. I've introduced it to my family.]]></description>
         </item>
         <item>
             <title><![CDATA[Snapshot Testing for C#]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/11/17/snapshot-testing-for-c</link>
+            <link>https://johnnyreilly.github.io/2018/11/17/snapshot-testing-for-c</link>
             <guid>Snapshot Testing for C#</guid>
             <pubDate>Sat, 17 Nov 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[If you're a user of Jest, you've no doubt heard of and perhaps made use of snapshot testing.]]></description>
         </item>
         <item>
             <title><![CDATA[Making a Programmer]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/10/27/making-a-programmer</link>
+            <link>https://johnnyreilly.github.io/2018/10/27/making-a-programmer</link>
             <guid>Making a Programmer</guid>
             <pubDate>Sat, 27 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I recently had the good fortune to help run a coding bootcamp. The idea was simple: there are many people around us who are interested in programming but don't know where to start. Let's take some folk who do and share the knowledge.]]></description>
         </item>
         <item>
             <title><![CDATA[Brand New Fonting Awesomeness]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/10/07/font-awesome-brand-icons-react</link>
+            <link>https://johnnyreilly.github.io/2018/10/07/font-awesome-brand-icons-react</link>
             <guid>Brand New Fonting Awesomeness</guid>
             <pubDate>Sun, 07 Oct 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Love me some Font Awesome. Absolutely wonderful. However, I came a cropper when following the instructions on using the all new Font Awesome 5 with React. The instructions for standard icons work fine. But if you want to use brand icons then this does not help you out much. There's 2 problems:]]></description>
         </item>
         <item>
             <title><![CDATA[ts-loader Project References: First Blood]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/09/23/ts-loader-project-references-first-blood</link>
+            <link>https://johnnyreilly.github.io/2018/09/23/ts-loader-project-references-first-blood</link>
             <guid>ts-loader Project References: First Blood</guid>
             <pubDate>Sun, 23 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[So project references eh? They shipped with TypeScript 3. We've just shipped initial support for project references in ts-loader v5.2.0. All the hard work was done by the amazing Andrew Branch. In fact I'd recommend taking a gander at the PR. Yay Andrew!]]></description>
         </item>
         <item>
             <title><![CDATA[Ivan Drago and Definitely Typed]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/09/15/ivan-drago-and-definitely-typed</link>
+            <link>https://johnnyreilly.github.io/2018/09/15/ivan-drago-and-definitely-typed</link>
             <guid>Ivan Drago and Definitely Typed</guid>
             <pubDate>Sat, 15 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[This a tale of things that are and things that aren't. It's a tale of semantic versioning, the lack thereof and heartbreak. It's a story of terror and failing builds. But it has a bittersweet ending wherein our heroes learn a lesson and understand the need for compromise. We all come out better and wiser people. Hopefully there's something for everybody; let's start with an exciting opener and see where it goes...]]></description>
         </item>
         <item>
             <title><![CDATA[💣ing Relative Paths with TypeScript and webpack]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/08/21/killing-relative-paths-with-typescript-and</link>
+            <link>https://johnnyreilly.github.io/2018/08/21/killing-relative-paths-with-typescript-and</link>
             <guid>💣ing Relative Paths with TypeScript and webpack</guid>
             <pubDate>Tue, 21 Aug 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I write a lot of TypeScript. Because I like modularity, I split up my codebases into discreet modules and import from them as necessary.]]></description>
         </item>
         <item>
             <title><![CDATA[Docker and Configuration on Azure Web App for Containers: Whither Colons?]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/07/28/configuring-docker-azure-web-app-containers</link>
+            <link>https://johnnyreilly.github.io/2018/07/28/configuring-docker-azure-web-app-containers</link>
             <guid>Docker and Configuration on Azure Web App for Containers: Whither Colons?</guid>
             <pubDate>Sat, 28 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[App Services have long been a super simple way to spin up a web app in Azure. The barrier to entry is low, maintenance is easy. It just works. App Services recently got a turbo boost in the form of Azure App Service on Linux. Being able to deploy to Linux is exciting enough; but the real reason this is notable because you can deploy Docker images that will be run as app services.]]></description>
         </item>
         <item>
             <title><![CDATA[Cypress and Auth0]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/07/09/cypress-and-auth0</link>
+            <link>https://johnnyreilly.github.io/2018/07/09/cypress-and-auth0</link>
             <guid>Cypress and Auth0</guid>
             <pubDate>Mon, 09 Jul 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Cypress is a fantastic way to write UI tests for your web apps. Just world class. Wait, no. Galaxy class. I'm going to go one further: universe class. You get my drift.]]></description>
         </item>
         <item>
             <title><![CDATA[VSTS and EF Core Migrations]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/06/24/vsts-and-ef-core-migrations</link>
+            <link>https://johnnyreilly.github.io/2018/06/24/vsts-and-ef-core-migrations</link>
             <guid>VSTS and EF Core Migrations</guid>
             <pubDate>Sun, 24 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Let me start by telling you a dirty secret. I have an ASP.Net Core project that I build with VSTS. It is deployed to Azure through a CI / CD setup in VSTS. That part I'm happy with. Proud of even. Now to the sordid hiddenness: try as I might, I've never found a nice way to deploy Entity Framework database migrations as part of the deployment flow. So I have [blushes with embarrassment] been using the Startup of my ASP.Net core app to run the migrations on my database. There. I said it. You all know. Absolutely filthy. Don't judge me.]]></description>
         </item>
         <item>
             <title><![CDATA[VSTS... YAML up!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/06/16/vsts-yaml-up</link>
+            <link>https://johnnyreilly.github.io/2018/06/16/vsts-yaml-up</link>
             <guid>VSTS... YAML up!</guid>
             <pubDate>Sat, 16 Jun 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[For the longest time I've been using the likes of Travis and AppVeyor to build open source projects that I work on. They rock. I've also recently been dipping my toes back in the water of Visual Studio Team Services. VSTS offers a whole stack of stuff, but my own area of interest has been the Continuous Integration / Continuous Deployment offering.]]></description>
         </item>
         <item>
             <title><![CDATA[Compromising: A Guide for Developers]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/05/13/compromising-guide-for-developers</link>
+            <link>https://johnnyreilly.github.io/2018/05/13/compromising-guide-for-developers</link>
             <guid>Compromising: A Guide for Developers</guid>
             <pubDate>Sun, 13 May 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[It is a truth universally acknowledged, that a single developer, will not be short of an opinion. Opinions on tabs vs spaces. Upon OOP vs FP. Upon classes vs functions. Just opinions, opinions, opinions. Opinions that are felt with all the sincerity of a Witchfinder General. And, alas, not always the same level of empathy.]]></description>
         </item>
         <item>
             <title><![CDATA[Using Reflection to Identify Unwanted Dependencies]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/04/28/using-reflection-to-identify-unwanted-dependencies</link>
+            <link>https://johnnyreilly.github.io/2018/04/28/using-reflection-to-identify-unwanted-dependencies</link>
             <guid>Using Reflection to Identify Unwanted Dependencies</guid>
             <pubDate>Sat, 28 Apr 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I having a web app which is fairly complex. It's made up of services, controllers and all sorts of things. So far, so unremarkable. However, I needed to ensure that the controllers did not attempt to access the database via any of their dependencies. Or their dependencies, dependencies. Or their dependencies. You get my point.]]></description>
         </item>
         <item>
             <title><![CDATA[It's Not Dead 2: mobx-react-devtools and the undead]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/03/26/its-not-dead-2-mobx-react-devtools-and-the-undead</link>
+            <link>https://johnnyreilly.github.io/2018/03/26/its-not-dead-2-mobx-react-devtools-and-the-undead</link>
             <guid>It's Not Dead 2: mobx-react-devtools and the undead</guid>
             <pubDate>Mon, 26 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I spent today digging through our webpack 4 config trying to work out why a production bundle contained code like this:]]></description>
         </item>
         <item>
             <title><![CDATA[Uploading Images to Cloudinary with the Fetch API]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/03/25/uploading-images-to-cloudinary-with-fetch</link>
+            <link>https://johnnyreilly.github.io/2018/03/25/uploading-images-to-cloudinary-with-fetch</link>
             <guid>Uploading Images to Cloudinary with the Fetch API</guid>
             <pubDate>Sun, 25 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I was recently checking out a very good post which explained how to upload images using React Dropzone and SuperAgent to Cloudinary.]]></description>
         </item>
         <item>
             <title><![CDATA[It's Not Dead: webpack and dead code elimination limitations]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/03/07/its-not-dead-webpack-and-dead-code</link>
+            <link>https://johnnyreilly.github.io/2018/03/07/its-not-dead-webpack-and-dead-code</link>
             <guid>It's Not Dead: webpack and dead code elimination limitations</guid>
             <pubDate>Wed, 07 Mar 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Every now and then you can be surprised. Your assumptions turn out to be wrong.]]></description>
         </item>
         <item>
             <title><![CDATA[ts-loader 4 / fork-ts-checker-webpack-plugin 0.4]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/02/25/ts-loader-400-fork-ts-checker-webpack</link>
+            <link>https://johnnyreilly.github.io/2018/02/25/ts-loader-400-fork-ts-checker-webpack</link>
             <guid>ts-loader 4 / fork-ts-checker-webpack-plugin 0.4</guid>
             <pubDate>Sun, 25 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[webpack 4 has shipped!]]></description>
         </item>
         <item>
             <title><![CDATA[finding webpack 4 (use a Map)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/01/29/finding-webpack-4-use-map</link>
+            <link>https://johnnyreilly.github.io/2018/01/29/finding-webpack-4-use-map</link>
             <guid>finding webpack 4 (use a Map)</guid>
             <pubDate>Mon, 29 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Update: 03/02/2018]]></description>
         </item>
         <item>
             <title><![CDATA[webpack 4 - ts-loader / fork-ts-checker-webpack-plugin betas]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/01/28/webpack-4-ts-loader-fork-ts-checker</link>
+            <link>https://johnnyreilly.github.io/2018/01/28/webpack-4-ts-loader-fork-ts-checker</link>
             <guid>webpack 4 - ts-loader / fork-ts-checker-webpack-plugin betas</guid>
             <pubDate>Sun, 28 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[The first webpack 4 beta dropped on Friday. Very exciting! Following hot on the heels of those announcements, I've some news to share too. Can you guess what it is?]]></description>
         </item>
         <item>
             <title><![CDATA[Auth0, TypeScript and ASP.NET Core]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2018/01/14/auth0-typescript-and-aspnet-core</link>
+            <link>https://johnnyreilly.github.io/2018/01/14/auth0-typescript-and-aspnet-core</link>
             <guid>Auth0, TypeScript and ASP.NET Core</guid>
             <pubDate>Sun, 14 Jan 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[Most applications I write have some need for authentication and perhaps authorisation too. In fact, most apps most people write fall into that bracket. Here's the thing: Auth done well is a \big\ chunk of work. And the minute you start thinking about that you almost invariably lose focus on the thing you actually want to build and ship.]]></description>
         </item>
         <item>
             <title><![CDATA[ts-loader 2017 retrospective]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/12/24/ts-loader-2017-retrospective</link>
+            <link>https://johnnyreilly.github.io/2017/12/24/ts-loader-2017-retrospective</link>
             <guid>ts-loader 2017 retrospective</guid>
             <pubDate>Sun, 24 Dec 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[2017 is drawing to a close, and it's been a big, big year in webpack-land. It's been a big year for ts-loader too. At the start of the year v1.3.3 was the latest version available, officially supporting webpack 1. (Old school!) We end the year with ts-loader sitting pretty at v3.2.0 and supporting webpack 2 and 3.]]></description>
         </item>
         <item>
             <title><![CDATA[The TypeScript webpack PWA]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/11/19/the-typescript-webpack-pwa</link>
+            <link>https://johnnyreilly.github.io/2017/11/19/the-typescript-webpack-pwa</link>
             <guid>The TypeScript webpack PWA</guid>
             <pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[So, there you sit, conflicted. You've got a lovely build setup; it's a thing of beauty. Precious, polished like a diamond, sharpened like a circular saw. There at the core of your carefully crafted setup sits webpack. Heaving, mysterious... powerful.]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript Definitions, webpack and Module Types]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/10/20/typescript-definitions-webpack-and-module-types</link>
+            <link>https://johnnyreilly.github.io/2017/10/20/typescript-definitions-webpack-and-module-types</link>
             <guid>TypeScript Definitions, webpack and Module Types</guid>
             <pubDate>Fri, 20 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[A funny thing happened on the way to the registry the other day. Something changed in an npm package I was using and confusion arose. You can read my unfiltered confusion here but here's the slightly clearer explanation.]]></description>
         </item>
         <item>
             <title><![CDATA[Working with Extrahop on webpack and ts-loader]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/10/19/working-with-extrahop-on-webpack-and-ts</link>
+            <link>https://johnnyreilly.github.io/2017/10/19/working-with-extrahop-on-webpack-and-ts</link>
             <guid>Working with Extrahop on webpack and ts-loader</guid>
             <pubDate>Thu, 19 Oct 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm quite proud of this//www.extrahop.com/company/blog/2017/extrahop-webpack-accelerating-build-times/]]></description>
         </item>
         <item>
             <title><![CDATA[fork-ts-checker-webpack-plugin code clickability]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/09/12/fork-ts-checker-webpack-plugin-code</link>
+            <link>https://johnnyreilly.github.io/2017/09/12/fork-ts-checker-webpack-plugin-code</link>
             <guid>fork-ts-checker-webpack-plugin code clickability</guid>
             <pubDate>Tue, 12 Sep 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[My name is John Reilly and I'm a VS Code addict. There I said it. I'm also a big fan of TypeScript and webpack. I've recently switched to using the awesome fork-ts-checker-webpack-plugin to speed up my builds.]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript + Webpack: Super Pursuit Mode]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/09/07/typescript-webpack-super-pursuit-mode</link>
+            <link>https://johnnyreilly.github.io/2017/09/07/typescript-webpack-super-pursuit-mode</link>
             <guid>TypeScript + Webpack: Super Pursuit Mode</guid>
             <pubDate>Thu, 07 Sep 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[This post also featured as a webpack Medium publication.]]></description>
         </item>
         <item>
             <title><![CDATA[Oh the Glamour of Open Source]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/08/30/oh-glamour-of-open-source</link>
+            <link>https://johnnyreilly.github.io/2017/08/30/oh-glamour-of-open-source</link>
             <guid>Oh the Glamour of Open Source</guid>
             <pubDate>Wed, 30 Aug 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Here's how my life panned out in the early hours of Wednesday 30th September 2017:]]></description>
         </item>
         <item>
             <title><![CDATA[Karma: From PhantomJS to Headless Chrome]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/08/27/karma-from-phantomjs-to-headless-chrome</link>
+            <link>https://johnnyreilly.github.io/2017/08/27/karma-from-phantomjs-to-headless-chrome</link>
             <guid>Karma: From PhantomJS to Headless Chrome</guid>
             <pubDate>Sun, 27 Aug 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Like pretty much everyone else I've been using PhantomJS to run my JavaScript (or compiled-to-JS) unit tests. It's been great. So when I heard the news that PhantomJS was dead I was genuinely sad. However, the King is dead.... Long live the King! For there is a new hope; it's called Chrome Headless . It's not a separate version of Chrome; rather the ability to run Chrome without a UI is now baked into Google's favourite browser as of v59. (For those history buffs I might as well be clear: the main reason PhantomJS died is because Chrome Headless was in the works.)]]></description>
         </item>
         <item>
             <title><![CDATA[A Haiku on the Problem with SemVer: Us]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/07/29/a-haiku-on-problem-with-semver-us</link>
+            <link>https://johnnyreilly.github.io/2017/07/29/a-haiku-on-problem-with-semver-us</link>
             <guid>A Haiku on the Problem with SemVer: Us</guid>
             <pubDate>Sat, 29 Jul 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Version numbers wrong We release breaking changes We don't know we do]]></description>
         </item>
         <item>
             <title><![CDATA[Dynamic import: I've been awaiting you...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/07/02/dynamic-import-ive-been-await-ing-you</link>
+            <link>https://johnnyreilly.github.io/2017/07/02/dynamic-import-ive-been-await-ing-you</link>
             <guid>Dynamic import: I've been awaiting you...</guid>
             <pubDate>Sun, 02 Jul 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[One of the most exciting features to ship with TypeScript 2.4 was support for the dynamic import expression. To quote the release blog post:]]></description>
         </item>
         <item>
             <title><![CDATA[Windows Defender Step Away From npm]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/06/11/windows-defender-step-away-from-npm</link>
+            <link>https://johnnyreilly.github.io/2017/06/11/windows-defender-step-away-from-npm</link>
             <guid>Windows Defender Step Away From npm</guid>
             <pubDate>Sun, 11 Jun 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Update 18/06/2017]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript: Spare the Rod, Spoil the Code]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/05/20/typescript-spare-rod-spoil-code</link>
+            <link>https://johnnyreilly.github.io/2017/05/20/typescript-spare-rod-spoil-code</link>
             <guid>TypeScript: Spare the Rod, Spoil the Code</guid>
             <pubDate>Sat, 20 May 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[I've recently started a new role. Perhaps unsurprisingly, part of the technology stack is TypeScript. A couple of days into the new codebase I found a bug. Well, I say I found a bug, TypeScript and VS Code found the bug - I just let everyone else know.]]></description>
         </item>
         <item>
             <title><![CDATA[Setting Build Version Using AppVeyor and ASP.Net Core]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/04/25/setting-build-version-using-appveyor</link>
+            <link>https://johnnyreilly.github.io/2017/04/25/setting-build-version-using-appveyor</link>
             <guid>Setting Build Version Using AppVeyor and ASP.Net Core</guid>
             <pubDate>Tue, 25 Apr 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[AppVeyor has support for setting the version of a binary during a build. However - this deals with the classic ASP.Net world of AssemblyInfo. I didn't find any reference to support for doing the same with dot net core. Remember, dot net core relies upon a &lt;Version&gt; or a &lt;VersionPrefix&gt; setting in the .csproj file. Personally, &lt;Version&gt; is my jam.]]></description>
         </item>
         <item>
             <title><![CDATA[I'm looking for work!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/03/30/im-looking-for-work</link>
+            <link>https://johnnyreilly.github.io/2017/03/30/im-looking-for-work</link>
             <guid>I'm looking for work!</guid>
             <pubDate>Thu, 30 Mar 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[My name is John Reilly. I'm a full stack developer based in London, UK. I'm just coming to the end of a contract (due to finish in April 2017) and I'm starting to look for my next role.]]></description>
         </item>
         <item>
             <title><![CDATA[Debugging ASP.Net Core in VS or Code]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/03/28/debugging-aspnet-core-in-vs-or-code</link>
+            <link>https://johnnyreilly.github.io/2017/03/28/debugging-aspnet-core-in-vs-or-code</link>
             <guid>Debugging ASP.Net Core in VS or Code</guid>
             <pubDate>Tue, 28 Mar 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[I've been using Visual Studio for a long time. Very good it is too. However, it is heavyweight; it does far more than I need. What I really want when I'm working is a fast snappy editor, with intellisense and debugging. What I've basically described is VS Code. It rocks and has long become my go-to editor for TypeScript.]]></description>
         </item>
         <item>
             <title><![CDATA[Under the Duck: An Afternoon in Open Source]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/02/23/under-duck-afternoon-in-open-source</link>
+            <link>https://johnnyreilly.github.io/2017/02/23/under-duck-afternoon-in-open-source</link>
             <guid>Under the Duck: An Afternoon in Open Source</guid>
             <pubDate>Thu, 23 Feb 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Have you ever wondered what happens behind the scenes of open source projects? One that I'm involved with is ts-loader; a TypeScript loader for webpack. Yesterday was an interesting day in the life of ts-loader and webpack; things unexpectedly broke. Oh and don't worry, they're fixed now.]]></description>
         </item>
         <item>
             <title><![CDATA[@types is rogue]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/02/14/typescript-types-and-repeatable-builds</link>
+            <link>https://johnnyreilly.github.io/2017/02/14/typescript-types-and-repeatable-builds</link>
             <guid>@types is rogue</guid>
             <pubDate>Tue, 14 Feb 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Or perhaps I should call this "@types and repeatable builds"....]]></description>
         </item>
         <item>
             <title><![CDATA[Hands-free HTTPS]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/02/01/hands-free-https</link>
+            <link>https://johnnyreilly.github.io/2017/02/01/hands-free-https</link>
             <guid>Hands-free HTTPS</guid>
             <pubDate>Wed, 01 Feb 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[I have had a \*great\* week. You? Take a look at this blog. Can you see what I can see? Here's a clue:]]></description>
         </item>
         <item>
             <title><![CDATA[webpack: resolveLoader / alias with query / options]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/01/06/webpack-resolveloader-alias-with-query</link>
+            <link>https://johnnyreilly.github.io/2017/01/06/webpack-resolveloader-alias-with-query</link>
             <guid>webpack: resolveLoader / alias with query / options</guid>
             <pubDate>Fri, 06 Jan 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[Sometimes you write a post for the ages. Sometimes you write one you hope is out of date before you hit "publish". This is one of those.]]></description>
         </item>
         <item>
             <title><![CDATA[webpack: configuring a loader with query / options]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2017/01/01/webpack-configuring-loader-with-query</link>
+            <link>https://johnnyreilly.github.io/2017/01/01/webpack-configuring-loader-with-query</link>
             <guid>webpack: configuring a loader with query / options</guid>
             <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
             <description><![CDATA[webpack 2 is on it's way. As one of the maintainers of ts-loader I've been checking out that ts-loader works with webpack 2. It does: phew!]]></description>
         </item>
         <item>
             <title><![CDATA[Using ts-loader with webpack 2]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/12/19/using-ts-loader-with-webpack-2</link>
+            <link>https://johnnyreilly.github.io/2016/12/19/using-ts-loader-with-webpack-2</link>
             <guid>Using ts-loader with webpack 2</guid>
             <pubDate>Mon, 19 Dec 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Hands up, despite being one of the maintainers of ts-loader (a TypeScript loader for webpack) I have not been tracking webpack v2. My reasons? Well, I'm keen on cutting edge but bleeding edge is often not a ton of fun as dealing with regularly breaking changes is frustrating. I'm generally happy to wait for things to settle down a bit before leaping aboard. However, webpack 2 RC'd last week and so it's time to take a look!]]></description>
         </item>
         <item>
             <title><![CDATA[webpack: syncing the enhanced-resolve]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/12/11/webpack-syncing-enhanced-resolve</link>
+            <link>https://johnnyreilly.github.io/2016/12/11/webpack-syncing-enhanced-resolve</link>
             <guid>webpack: syncing the enhanced-resolve</guid>
             <pubDate>Sun, 11 Dec 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Like Captain Ahab I resolve to sync the white whale that is webpack's enhanced-resolve... English you say? Let me start again:]]></description>
         </item>
         <item>
             <title><![CDATA[My Subconscious is a Better Developer Than I Am]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/11/12/my-subconscious-is-better-developer</link>
+            <link>https://johnnyreilly.github.io/2016/11/12/my-subconscious-is-better-developer</link>
             <guid>My Subconscious is a Better Developer Than I Am</guid>
             <pubDate>Sat, 12 Nov 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Occasionally I flatter myself that I'm alright at this development lark. Such egotistical talk is foolish. What makes me pause even more when I consider the proposition is this: my subconscious is a better developer than I am.]]></description>
         </item>
         <item>
             <title><![CDATA[But you can't die... I love you!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/11/01/but-you-cant-die-i-love-you-ts-loader</link>
+            <link>https://johnnyreilly.github.io/2016/11/01/but-you-cant-die-i-love-you-ts-loader</link>
             <guid>But you can't die... I love you!</guid>
             <pubDate>Tue, 01 Nov 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[That's how I was feeling on the morning of October 6th 2016. I'd been feeling that way for some time. The target of my concern? ts-loader. ts-loader is a loader for webpack; the module bundler. ts-loader allows you use TypeScript with webpack. I'd been a merry user of it for at least a year or so. But, at that point, all was not well in the land of ts-loader. Come with me and I'll tell you a story...]]></description>
         </item>
         <item>
             <title><![CDATA[React Component Curry]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/10/05/react-component-curry</link>
+            <link>https://johnnyreilly.github.io/2016/10/05/react-component-curry</link>
             <guid>React Component Curry</guid>
             <pubDate>Wed, 05 Oct 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Everyone loves curry don't they? I don't know about you but I'm going for one on Friday.]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript 2.0, ES2016 and Babel]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/09/22/typescript-20-es2016-and-babel</link>
+            <link>https://johnnyreilly.github.io/2016/09/22/typescript-20-es2016-and-babel</link>
             <guid>TypeScript 2.0, ES2016 and Babel</guid>
             <pubDate>Thu, 22 Sep 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[TypeScript 2.0 has shipped! Naturally I'm excited. For some time I've been using TypeScript to emit ES2015 code which I pass onto Babel to transpile to ES "old school". You can see how here.]]></description>
         </item>
         <item>
             <title><![CDATA[Integration Tests with SQL Server Database Snapshots]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/09/12/integration-tests-with-sql-server</link>
+            <link>https://johnnyreilly.github.io/2016/09/12/integration-tests-with-sql-server</link>
             <guid>Integration Tests with SQL Server Database Snapshots</guid>
             <pubDate>Mon, 12 Sep 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Once More With Feeling]]></description>
         </item>
         <item>
             <title><![CDATA[The Ternary Operator <3 Destructuring]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/08/19/the-ternary-operator-meets-destructuring</link>
+            <link>https://johnnyreilly.github.io/2016/08/19/the-ternary-operator-meets-destructuring</link>
             <guid>The Ternary Operator &lt;3 Destructuring</guid>
             <pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm addicted to the ternary operator. For reasons I can't explain, I cannot get enough of:]]></description>
         </item>
         <item>
             <title><![CDATA[Understanding Webpack's DefinePlugin (and using with TypeScript)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/07/23/using-webpacks-defineplugin-with-typescript</link>
+            <link>https://johnnyreilly.github.io/2016/07/23/using-webpacks-defineplugin-with-typescript</link>
             <guid>Understanding Webpack's DefinePlugin (and using with TypeScript)</guid>
             <pubDate>Sat, 23 Jul 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[I've been searching for a way to describe what the DefinePlugin actually does. The docs say\*:]]></description>
         </item>
         <item>
             <title><![CDATA[Creating an ES2015 Map from an Array in TypeScript]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/06/02/create-es2015-map-from-array-in-typescript</link>
+            <link>https://johnnyreilly.github.io/2016/06/02/create-es2015-map-from-array-in-typescript</link>
             <guid>Creating an ES2015 Map from an Array in TypeScript</guid>
             <pubDate>Thu, 02 Jun 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm a great lover of ES2015's Map. However, just recently I tumbled over something I find a touch inconvenient about how you initialise a new Map from the contents of an Array in TypeScript.]]></description>
         </item>
         <item>
             <title><![CDATA[The Mysterious Case of Webpack, Angular and jQuery]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/05/24/the-mysterious-case-of-webpack-angular-and-jquery</link>
+            <link>https://johnnyreilly.github.io/2016/05/24/the-mysterious-case-of-webpack-angular-and-jquery</link>
             <guid>The Mysterious Case of Webpack, Angular and jQuery</guid>
             <pubDate>Tue, 24 May 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[You may know that Angular ships with a cutdown version of jQuery called jQLite. It's still possible to use the full-fat jQuery; to quote the docs:]]></description>
         </item>
         <item>
             <title><![CDATA[Inlining Angular Templates with WebPack and TypeScript]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/05/13/inlining-angular-templates-with-webpack</link>
+            <link>https://johnnyreilly.github.io/2016/05/13/inlining-angular-templates-with-webpack</link>
             <guid>Inlining Angular Templates with WebPack and TypeScript</guid>
             <pubDate>Fri, 13 May 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[This technique actually applies to pretty much any web stack where you have to supply templates; it just so happens that I'm using Angular 1.x in this case. Also I have an extra technique which is useful to handle the ng-include scenario.]]></description>
         </item>
         <item>
             <title><![CDATA[Instant Stubs with JSON.Net (just add hot water)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/04/25/instant-stubs-with-jsonnet</link>
+            <link>https://johnnyreilly.github.io/2016/04/25/instant-stubs-with-jsonnet</link>
             <guid>Instant Stubs with JSON.Net (just add hot water)</guid>
             <pubDate>Mon, 25 Apr 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[I'd like you to close your eyes and imagine a scenario. You're handed a prototype system. You're told it works. It has no documentation. It has 0 unit tests. The hope is that you can take it on, refactor it, make it better and (crucially) not break it. Oh, and you don't really understand what the code does or why it does it either; information on that front is, alas, sorely lacking.]]></description>
         </item>
         <item>
             <title><![CDATA[Elvis and King Concat]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/03/22/elvis-and-king-concat</link>
+            <link>https://johnnyreilly.github.io/2016/03/22/elvis-and-king-concat</link>
             <guid>Elvis and King Concat</guid>
             <pubDate>Tue, 22 Mar 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[I hate LINQ's Enumerable.Concat when bringing together IEnumerables. Not the behaviour (I love that!) but rather how code ends up looking when you use it. Consider this:]]></description>
         </item>
         <item>
             <title><![CDATA[Atom - Recovering from Corrupted Packages]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/03/17/atom-recovering-from-corrupted-packages</link>
+            <link>https://johnnyreilly.github.io/2016/03/17/atom-recovering-from-corrupted-packages</link>
             <guid>Atom - Recovering from Corrupted Packages</guid>
             <pubDate>Thu, 17 Mar 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[Every now and then when I try and update my packages in Atom I find this glaring back at me:]]></description>
         </item>
         <item>
             <title><![CDATA[TFS 2012 meet PowerShell, Karma and BuildNumber]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/03/04/tfs-2012-meet-powershell-karma-and-buildnumber</link>
+            <link>https://johnnyreilly.github.io/2016/03/04/tfs-2012-meet-powershell-karma-and-buildnumber</link>
             <guid>TFS 2012 meet PowerShell, Karma and BuildNumber</guid>
             <pubDate>Fri, 04 Mar 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[To my lasting regret, TFS 2012 has no direct support for PowerShell. Such a shame as PowerShell scripts can do a lot of heavy lifting in a build process. Well, here we're going to brute force TFS 2012 into running PowerShell scripts. And along the way we'll also get Karma test results publishing into TFS 2012 as an example usage. Nice huh? Let's go!]]></description>
         </item>
         <item>
             <title><![CDATA[Creating Angular UI Routes in the Controller]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/02/29/creating-angular-ui-routes-in-controller</link>
+            <link>https://johnnyreilly.github.io/2016/02/29/creating-angular-ui-routes-in-controller</link>
             <guid>Creating Angular UI Routes in the Controller</guid>
             <pubDate>Mon, 29 Feb 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[So you're creating a link with the Angular UI Router. You're passing more than a few parameters and it's getting kinda big. Something like this:]]></description>
         </item>
         <item>
             <title><![CDATA[Visual Studio, tsconfig.json and external TypeScript compilation]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/02/19/visual-studio-tsconfigjson-and-external</link>
+            <link>https://johnnyreilly.github.io/2016/02/19/visual-studio-tsconfigjson-and-external</link>
             <guid>Visual Studio, tsconfig.json and external TypeScript compilation</guid>
             <pubDate>Fri, 19 Feb 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[TypeScript first gained support for tsconfig.json back with the 1\.5 release. However, to my lasting regret and surprise Visual Studio will not be gaining meaningful support for it until TypeScript 1.8 ships. However, if you want it now, it's already available to use in beta.]]></description>
         </item>
         <item>
             <title><![CDATA[TFS 2012, .NET 4.5 and C# 6]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/02/01/tfs-2012-net-45-and-c-6</link>
+            <link>https://johnnyreilly.github.io/2016/02/01/tfs-2012-net-45-and-c-6</link>
             <guid>TFS 2012, .NET 4.5 and C# 6</guid>
             <pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[So, you want to use C# 6 language features and you’re working on an older project that’s still rocking .NET 4.5. Well, with some caveats, you can.]]></description>
         </item>
         <item>
             <title><![CDATA[Coded UI and the Curse of the Docking Station]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/01/14/coded-ui-and-curse-of-docking-station</link>
+            <link>https://johnnyreilly.github.io/2016/01/14/coded-ui-and-curse-of-docking-station</link>
             <guid>Coded UI and the Curse of the Docking Station</guid>
             <pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[I’ve a love / hate relationship with Coded UI. Well hate / hate might be more accurate. Hate perhaps married with a very grudging respect still underpinned by a wary bitterness. Yes, that’s about the size of it. Why? Well, when Coded UI works, it’s fab. But it’s flaky as anything. Anybody who’s used the technology is presently nodding sagely and holding back the tears. It’s all a bit... tough.]]></description>
         </item>
         <item>
             <title><![CDATA[UseStaticFiles for ASP.Net vOld]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2016/01/01/usestaticfiles-for-aspnet-vold</link>
+            <link>https://johnnyreilly.github.io/2016/01/01/usestaticfiles-for-aspnet-vold</link>
             <guid>UseStaticFiles for ASP.Net vOld</guid>
             <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
             <description><![CDATA[That's what we're calling the original ASP.Net now, right? This is a guide on how not]]></description>
         </item>
         <item>
             <title><![CDATA[Live Reload Considered Harmful]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/12/20/live-reload-considered-harmful</link>
+            <link>https://johnnyreilly.github.io/2015/12/20/live-reload-considered-harmful</link>
             <guid>Live Reload Considered Harmful</guid>
             <pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[I've seen it go by many names; live reload, hot reload, browser sync... the list goes on. It's been the subject of a million demos. It's the focus of a thousand npm packages. Someone tweaks a file and... wait for it... doesn't have to refresh their browser to see the changes... The future is now!]]></description>
         </item>
         <item>
             <title><![CDATA[ES6 + TypeScript + Babel + React + Flux + Karma: The Secret Recipe]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/12/16/es6-typescript-babel-react-flux-karma</link>
+            <link>https://johnnyreilly.github.io/2015/12/16/es6-typescript-babel-react-flux-karma</link>
             <guid>ES6 + TypeScript + Babel + React + Flux + Karma: The Secret Recipe</guid>
             <pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[I wrote a while ago about how I was using some different tools in a current project:]]></description>
         </item>
         <item>
             <title><![CDATA[IQueryable... IEnumerable... Hmmm...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/11/30/iqueryable-ienumerable-hmmm</link>
+            <link>https://johnnyreilly.github.io/2015/11/30/iqueryable-ienumerable-hmmm</link>
             <guid>IQueryable... IEnumerable... Hmmm...</guid>
             <pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[So there I was, tip-tapping away at my keyboard when I became aware of the slowly loudening noise of a debate. It wasn't about poverty, war, civil rights or anything like that. No; this was far more contentious. It was about the behaviour of IQueryable&lt;T&gt; when mixed with IEnumerable&lt;T&gt;. I know, right, how could I not get involved?]]></description>
         </item>
         <item>
             <title><![CDATA[The Names Have Been Changed...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/10/23/the-names-have-been-changed</link>
+            <link>https://johnnyreilly.github.io/2015/10/23/the-names-have-been-changed</link>
             <guid>The Names Have Been Changed...</guid>
             <pubDate>Fri, 23 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[...to protect my wallet.]]></description>
         </item>
         <item>
             <title><![CDATA[jQuery Validation Globalize hits 1.0]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/10/05/jquery-validation-globalize-hits-10</link>
+            <link>https://johnnyreilly.github.io/2015/10/05/jquery-validation-globalize-hits-10</link>
             <guid>jQuery Validation Globalize hits 1.0</guid>
             <pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[This is just a quick post - the tl;dr is this: jQuery Validation Globalize has been ported to Globalize 1.x. Yay! In one of those twists of fate I'm not actually using this plugin in my day job anymore but I thought it might be useful to other people. So here you go. You can read more about this plugin in an older post and you can see a demo of it in action here.]]></description>
         </item>
         <item>
             <title><![CDATA[Definitely Typed Shouldn't Exist]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/09/23/authoring-npm-modules-with-typescript</link>
+            <link>https://johnnyreilly.github.io/2015/09/23/authoring-npm-modules-with-typescript</link>
             <guid>Definitely Typed Shouldn't Exist</guid>
             <pubDate>Wed, 23 Sep 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[OK - the title's total clickbait but stay with me; there's a point here.]]></description>
         </item>
         <item>
             <title><![CDATA[Things Done Changed]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/09/10/things-done-changed</link>
+            <link>https://johnnyreilly.github.io/2015/09/10/things-done-changed</link>
             <guid>Things Done Changed</guid>
             <pubDate>Thu, 10 Sep 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[Some people fear change. Most people actually. I'm not immune to that myself, but not in the key area of technology. Any developer that fears change when it comes to the tools and languages that he / she is using is in the wrong business. Because what you're using to cut code today will not last. The language will evolve, the tools and frameworks that you love will die out and be replaced by new ones that are different and strange. In time, the language you feel you write as a native will fall out of favour, replaced by a new upstart.]]></description>
         </item>
         <item>
             <title><![CDATA[(Top One, Nice One) Get Sorted]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/08/13/top-one-nice-one-get-sorted</link>
+            <link>https://johnnyreilly.github.io/2015/08/13/top-one-nice-one-get-sorted</link>
             <guid>(Top One, Nice One) Get Sorted</guid>
             <pubDate>Thu, 13 Aug 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[I was recently reading a post by Jaime González García which featured the following mind-bending proposition:]]></description>
         </item>
         <item>
             <title><![CDATA[Upgrading to Globalize 1.x for Dummies]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/07/30/upgrading-to-globalize-1x-for-dummies</link>
+            <link>https://johnnyreilly.github.io/2015/07/30/upgrading-to-globalize-1x-for-dummies</link>
             <guid>Upgrading to Globalize 1.x for Dummies</guid>
             <pubDate>Thu, 30 Jul 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[Globalize has hit 1.0. Anyone who reads my blog will likely be aware that I'm a long time user of Globalize 0.1.x. I've been a little daunted by the leap that the move from 0.1.x to 1.x represents. It appears to be the very definition of "breaking changes". :-) But hey, this is Semantic Versioning being used correctly so how could I complain? Either way, I've decided to write up the migration here as I'm not expecting this to be easy.]]></description>
         </item>
         <item>
             <title><![CDATA[npm please stop hurting Visual Studio]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/06/29/npm-please-stop-hurting-visual-studio</link>
+            <link>https://johnnyreilly.github.io/2015/06/29/npm-please-stop-hurting-visual-studio</link>
             <guid>npm please stop hurting Visual Studio</guid>
             <pubDate>Mon, 29 Jun 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[I don't know about you but I personally feel that the following sentence may well be the saddest in the English language:]]></description>
         </item>
         <item>
             <title><![CDATA[Back to the Future with Code First Migrations]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/06/19/Back-to-the-Future-with-Code-First-Migrations</link>
+            <link>https://johnnyreilly.github.io/2015/06/19/Back-to-the-Future-with-Code-First-Migrations</link>
             <guid>Back to the Future with Code First Migrations</guid>
             <pubDate>Fri, 19 Jun 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[Code First Migrations. They look a little like this in Visual Studio:]]></description>
         </item>
         <item>
             <title><![CDATA[Angular UI Bootstrap Datepicker Weirdness]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/05/23/angular-ui-bootstrap-datepicker-weirdness</link>
+            <link>https://johnnyreilly.github.io/2015/05/23/angular-ui-bootstrap-datepicker-weirdness</link>
             <guid>Angular UI Bootstrap Datepicker Weirdness</guid>
             <pubDate>Sat, 23 May 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[The Angular UI Bootstrap Datepicker is fan-dabby-dozy. But it has a ... pecularity. You can use the picker like this:]]></description>
         </item>
         <item>
             <title><![CDATA[NgValidationFor Baby Steps]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/05/11/ngvalidationfor-baby-steps</link>
+            <link>https://johnnyreilly.github.io/2015/05/11/ngvalidationfor-baby-steps</link>
             <guid>NgValidationFor Baby Steps</guid>
             <pubDate>Mon, 11 May 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[I thought as I start the NgValidationFor project I'd journal my progress. I'm writing this with someone particular in mind welcome!]]></description>
         </item>
         <item>
             <title><![CDATA[A tale of Angular, html5mode, ASP.Net MVC and ASP.Net Web API]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/05/05/a-tale-of-angular-html5mode-aspnet-mvc</link>
+            <link>https://johnnyreilly.github.io/2015/05/05/a-tale-of-angular-html5mode-aspnet-mvc</link>
             <guid>A tale of Angular, html5mode, ASP.Net MVC and ASP.Net Web API</guid>
             <pubDate>Tue, 05 May 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[So. You want to kick hash based routing to the kerb. You want real URLs. You've read the HTML5 mode section of the Angular $location docs and you're good to go. It's just a matter of dropping $locationProvider.html5Mode(true) into your app initialisation right?]]></description>
         </item>
         <item>
             <title><![CDATA[Tonight I'll Start an Open Source Project...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/04/24/tonight-ill-start-open-source-project</link>
+            <link>https://johnnyreilly.github.io/2015/04/24/tonight-ill-start-open-source-project</link>
             <guid>Tonight I'll Start an Open Source Project...</guid>
             <pubDate>Fri, 24 Apr 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[Further posts on this topic]]></description>
         </item>
         <item>
             <title><![CDATA[How to activate your emoji keyboard on Android 5.0 (Lollipop)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/04/17/how-to-activate-your-emoji-keyboard-on</link>
+            <link>https://johnnyreilly.github.io/2015/04/17/how-to-activate-your-emoji-keyboard-on</link>
             <guid>How to activate your emoji keyboard on Android 5.0 (Lollipop)</guid>
             <pubDate>Fri, 17 Apr 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[A departure from from my normal content - I need to tell you about emoji! You'll probably already know about them - just imagine a emoticon but about 300,000 times better. They really add spice to to textual content. Oh and they're Japanese - which is also way cool.]]></description>
         </item>
         <item>
             <title><![CDATA[PartialView.ToString()]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/03/20/partialview-tostring</link>
+            <link>https://johnnyreilly.github.io/2015/03/20/partialview-tostring</link>
             <guid>PartialView.ToString()</guid>
             <pubDate>Fri, 20 Mar 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[In the name of DRY I found myself puzzling how one could take a PartialViewResult and render it as a string. Simple, right?]]></description>
         </item>
         <item>
             <title><![CDATA[Hey tsconfig.json, where have you been all my life?]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/02/27/hey-tsconfigjson-where-have-you-been</link>
+            <link>https://johnnyreilly.github.io/2015/02/27/hey-tsconfigjson-where-have-you-been</link>
             <guid>Hey tsconfig.json, where have you been all my life?</guid>
             <pubDate>Fri, 27 Feb 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[Sometimes, you just miss things. Something seismic happens and you had no idea. So it was with tsconfig.json.]]></description>
         </item>
         <item>
             <title><![CDATA[Using Gulp to inject scripts and styles tags directly into your HTML]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/02/17/using-gulp-in-asp-net-instead-of-web-optimization</link>
+            <link>https://johnnyreilly.github.io/2015/02/17/using-gulp-in-asp-net-instead-of-web-optimization</link>
             <guid>Using Gulp to inject scripts and styles tags directly into your HTML</guid>
             <pubDate>Tue, 17 Feb 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[This is very probably the dullest title for a blog post I've ever come up with. Read on though folks - it's definitely going to pick up...]]></description>
         </item>
         <item>
             <title><![CDATA[The Convent with Continuous Delivery]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/02/11/the-convent-with-continuous-delivery</link>
+            <link>https://johnnyreilly.github.io/2015/02/11/the-convent-with-continuous-delivery</link>
             <guid>The Convent with Continuous Delivery</guid>
             <pubDate>Wed, 11 Feb 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[I've done it. I've open sourced the website that I maintain for my aunt what is a nun. Because I think we can all agree that nuns need open source and continuous integration about as much as anyone else.]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript: In Praise of Union Types]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/01/20/typescript-using-functions-with-union-types</link>
+            <link>https://johnnyreilly.github.io/2015/01/20/typescript-using-functions-with-union-types</link>
             <guid>TypeScript: In Praise of Union Types</guid>
             <pubDate>Tue, 20 Jan 2015 00:00:00 GMT</pubDate>
             <description><![CDATA[(& How to Express Functions in UTs)]]></description>
         </item>
         <item>
             <title><![CDATA[Deploying from ASP.Net MVC to GitHub Pages using AppVeyor part 2]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2015/01/07/deploying-aspnet-mvc-to-github-pages-with-appveyor-part-2</link>
+            <link>https://johnnyreilly.github.io/2015/01/07/deploying-aspnet-mvc-to-github-pages-with-appveyor-part-2</link>
             <guid>Deploying from ASP.Net MVC to GitHub Pages using AppVeyor part 2</guid>
             <pubDate>Wed, 07 Jan 2015 00:00:00 GMT</pubDate>
             <description><![CDATA["Automation, automation, automation." Those were and are Tony Blair's priorities for keeping open source projects well maintained.]]></description>
         </item>
         <item>
             <title><![CDATA[Deploying from ASP.Net MVC to GitHub Pages using AppVeyor part 1]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/12/29/deploying-aspnet-mvc-to-github-pages-with-appveyor-part-1</link>
+            <link>https://johnnyreilly.github.io/2014/12/29/deploying-aspnet-mvc-to-github-pages-with-appveyor-part-1</link>
             <guid>Deploying from ASP.Net MVC to GitHub Pages using AppVeyor part 1</guid>
             <pubDate>Mon, 29 Dec 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[There's a small open source project I'm responsible for called jQuery Validation Unobtrusive Native. (A catchy name is a must for any good open source project. Alas I'm not quite meeting my own exacting standards on this particular point... I should have gone with my gut and called it "Livingstone" instead. Too late now...)]]></description>
         </item>
         <item>
             <title><![CDATA[Gulp, npm, long paths and Visual Studio.... Fight!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/12/12/gulp-npm-long-paths-and-visual-studio-fight</link>
+            <link>https://johnnyreilly.github.io/2014/12/12/gulp-npm-long-paths-and-visual-studio-fight</link>
             <guid>Gulp, npm, long paths and Visual Studio.... Fight!</guid>
             <pubDate>Fri, 12 Dec 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[How I managed to gulp-angular-templatecache working inside Visual Studio]]></description>
         </item>
         <item>
             <title><![CDATA[What's in a (Domain) Name?]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/12/05/whats-in-a-name</link>
+            <link>https://johnnyreilly.github.io/2014/12/05/whats-in-a-name</link>
             <guid>What's in a (Domain) Name?</guid>
             <pubDate>Fri, 05 Dec 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[The observant amongst you may have noticed that this blog has a brand new and shiny domain name! That's right, after happily trading under "icanmakethiswork.blogspot.com" for the longest time it's now "blog.icanmakethiswork.io". Trumpets and fanfare!]]></description>
         </item>
         <item>
             <title><![CDATA[Pretending to be someone you're not and the dark pit of despair]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/11/26/Coded-UI-IE-11-and-the-runas-problem</link>
+            <link>https://johnnyreilly.github.io/2014/11/26/Coded-UI-IE-11-and-the-runas-problem</link>
             <guid>Pretending to be someone you're not and the dark pit of despair</guid>
             <pubDate>Wed, 26 Nov 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[(Coded UI, IE 11 and the "runas" problem)]]></description>
         </item>
         <item>
             <title><![CDATA[How I learned to stop worrying and love the Task Runner Explorer]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/11/04/using-gulp-in-visual-studio-instead-of-web-optimization</link>
+            <link>https://johnnyreilly.github.io/2014/11/04/using-gulp-in-visual-studio-instead-of-web-optimization</link>
             <guid>How I learned to stop worrying and love the Task Runner Explorer</guid>
             <pubDate>Tue, 04 Nov 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[(Using Gulp in Visual Studio instead of Web Optimization)]]></description>
         </item>
         <item>
             <title><![CDATA[Caching and Cache-Busting in AngularJS with HTTP interceptors]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/10/06/caching-and-cache-busting-in-angularjs-with-http-interceptors</link>
+            <link>https://johnnyreilly.github.io/2014/10/06/caching-and-cache-busting-in-angularjs-with-http-interceptors</link>
             <guid>Caching and Cache-Busting in AngularJS with HTTP interceptors</guid>
             <pubDate>Mon, 06 Oct 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Loading On-Demand and Caching]]></description>
         </item>
         <item>
             <title><![CDATA[He tasks me; he heaps me.... I will wreak that MOQ upon him.]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/10/03/he-tasks-me-he-heaps-me-i-will-wreak</link>
+            <link>https://johnnyreilly.github.io/2014/10/03/he-tasks-me-he-heaps-me-i-will-wreak</link>
             <guid>He tasks me; he heaps me.... I will wreak that MOQ upon him.</guid>
             <pubDate>Fri, 03 Oct 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Enough with the horrific misquotes - this is about Moq and async (that's my slight justification for robbing Herman Melville).]]></description>
         </item>
         <item>
             <title><![CDATA[Journalling the Migration of Jasmine Tests to TypeScript]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/09/13/migrating-jasmine-tests-to-typescript</link>
+            <link>https://johnnyreilly.github.io/2014/09/13/migrating-jasmine-tests-to-typescript</link>
             <guid>Journalling the Migration of Jasmine Tests to TypeScript</guid>
             <pubDate>Sat, 13 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I previously attempted to migrate my Jasmine tests from JavaScript to TypeScript. The last time I tried it didn't go so well and I bailed. Thank the Lord for source control. But feeling I shouldn't be deterred I decided to have another crack at it.]]></description>
         </item>
         <item>
             <title><![CDATA[Unit Testing an Angular Controller with Jasmine]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/09/10/unit-testing-angular-controller-with</link>
+            <link>https://johnnyreilly.github.io/2014/09/10/unit-testing-angular-controller-with</link>
             <guid>Unit Testing an Angular Controller with Jasmine</guid>
             <pubDate>Wed, 10 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Anyone who reads my blog will know that I have been long in the habit of writing unit tests for my C# code. I'm cool like that. However, it took me a while to get up and running writing unit tests for my JavaScript code. I finally got there using a combination of Jasmine 2.0 and Chutzpah. (Jasmine being my test framework and Chutzpah being my test runner.)]]></description>
         </item>
         <item>
             <title><![CDATA[Running JavaScript Unit Tests in AppVeyor]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/09/06/running-javascript-unit-tests-in-appveyor</link>
+            <link>https://johnnyreilly.github.io/2014/09/06/running-javascript-unit-tests-in-appveyor</link>
             <guid>Running JavaScript Unit Tests in AppVeyor</guid>
             <pubDate>Sat, 06 Sep 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[With a little help from Chutzpah...]]></description>
         </item>
         <item>
             <title><![CDATA[My Unrequited Love for Isolate Scope]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/08/12/my-unrequited-love-for-isolate-scope</link>
+            <link>https://johnnyreilly.github.io/2014/08/12/my-unrequited-love-for-isolate-scope</link>
             <guid>My Unrequited Love for Isolate Scope</guid>
             <pubDate>Tue, 12 Aug 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I wrote a little while ago about creating a directive to present server errors on the screen in an Angular application. In my own (not so humble opinion), it was really quite nice. I was particularly proud of my usage of isolate scope. However, pride comes before a fall.]]></description>
         </item>
         <item>
             <title><![CDATA[Getting more RESTful with Web API and IHttpActionResult]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/08/08/getting-more-RESTful-with-Web-API</link>
+            <link>https://johnnyreilly.github.io/2014/08/08/getting-more-RESTful-with-Web-API</link>
             <guid>Getting more RESTful with Web API and IHttpActionResult</guid>
             <pubDate>Fri, 08 Aug 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Up until, well yesterday really, I tended to have my Web API action methods all returning 200's no matter what. Successful request? 200 for you sir! Some validation error in the model? 200 for you too ma'am - but I'll wrap up the validation errors and send them back too. Database error? 200 and and an error message.]]></description>
         </item>
         <item>
             <title><![CDATA[AngularJS meet ASP.Net Server Validation]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/08/01/angularjs-meet-aspnet-server-validation</link>
+            <link>https://johnnyreilly.github.io/2014/08/01/angularjs-meet-aspnet-server-validation</link>
             <guid>AngularJS meet ASP.Net Server Validation</guid>
             <pubDate>Fri, 01 Aug 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[So. You're using AngularJS to build your front end with ASP.Net running on the server side. You're a trustworthy dev - you know that validation on the client will only get you so far. You need to validate on the server.]]></description>
         </item>
         <item>
             <title><![CDATA[HotTowel-Angular meet TypeScript]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/07/03/hottowel-angular-meet-typescript</link>
+            <link>https://johnnyreilly.github.io/2014/07/03/hottowel-angular-meet-typescript</link>
             <guid>HotTowel-Angular meet TypeScript</guid>
             <pubDate>Thu, 03 Jul 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I've recently ported John Papa's popular Hot Towel Angular SPA Template to TypeScript. Why? Because it was there.]]></description>
         </item>
         <item>
             <title><![CDATA[A folk story wherein we shall find dates, DataAnnotations & data impedance mismatch]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/06/20/dates-DataAnnotations-and-data-impedance-mismatch</link>
+            <link>https://johnnyreilly.github.io/2014/06/20/dates-DataAnnotations-and-data-impedance-mismatch</link>
             <guid>A folk story wherein we shall find dates, DataAnnotations &amp; data impedance mismatch</guid>
             <pubDate>Fri, 20 Jun 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[If you ever take a step back from what you're doing it can sometimes seem pretty abstract. Here's an example. I was looking at an issue in an app that I was supporting. The problem concerned a field which was to store a date value. Let's call it, for the sake of argument, valuation_date. (Clearly in reality the field name was entirely different... Probably.) This field was supposed to represent a specific date, like June 15th 2012 or 19th August 2014. To be clear, a date and \*not\* in any way, a time.]]></description>
         </item>
         <item>
             <title><![CDATA[Migrating from AngularJS to AngularTS - a walkthrough]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/06/01/migrating-from-angularjs-to-angularts</link>
+            <link>https://johnnyreilly.github.io/2014/06/01/migrating-from-angularjs-to-angularts</link>
             <guid>Migrating from AngularJS to AngularTS - a walkthrough</guid>
             <pubDate>Sun, 01 Jun 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[It started with nuns. Don't all good stories start that way? One of my (many) aunts is a Poor Clare nun. At some point in the distant past I was cajoled into putting together a simple website for her convent. This post is a walkthrough of how to migrate from AngularJS using JavaScript to AngularJS using TypeScript. It just so happens that the AngularJS app in question is the one that belongs to my mother's sister's convent.]]></description>
         </item>
         <item>
             <title><![CDATA[Team Foundation Server, Continuous Integration and separate projects for JavaScript unit tests]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/05/15/team-foundation-server-continuous-integration-and-javascript-unit-tests-in-unit-test-project</link>
+            <link>https://johnnyreilly.github.io/2014/05/15/team-foundation-server-continuous-integration-and-javascript-unit-tests-in-unit-test-project</link>
             <guid>Team Foundation Server, Continuous Integration and separate projects for JavaScript unit tests</guid>
             <pubDate>Thu, 15 May 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Do you like to separate out your unit tests from the project you are testing? I imagine so. My own practice when creating a new project in Visual Studio is to create a separate unit test project alongside whose responsibility is to house unit tests for that new project.]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript, JSDoc and Intellisense]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/05/05/typescript-jsdoc-and-intellisense</link>
+            <link>https://johnnyreilly.github.io/2014/05/05/typescript-jsdoc-and-intellisense</link>
             <guid>TypeScript, JSDoc and Intellisense</guid>
             <pubDate>Mon, 05 May 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Days of Yore]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript this is what I want! (the unfortunate neglect of Instance Methods / callback functions)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/04/01/typescript-instance-methods</link>
+            <link>https://johnnyreilly.github.io/2014/04/01/typescript-instance-methods</link>
             <guid>TypeScript this is what I want! (the unfortunate neglect of Instance Methods / callback functions)</guid>
             <pubDate>Tue, 01 Apr 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I was recently reading Jeff Walker's blog post "Why TypeScript Isn't the Answer". This is part of series in which Jeff goes through various compile-to-JavaScript technologies including TypeScript, CoffeeScript and Dart and explains his view of why he feels they don't quite hit the mark.]]></description>
         </item>
         <item>
             <title><![CDATA[The Surprisingly Happy Tale of Visual Studio Online, Continous Integration and Chutzpah]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/03/17/the-surprisingly-happy-tale-of-visual</link>
+            <link>https://johnnyreilly.github.io/2014/03/17/the-surprisingly-happy-tale-of-visual</link>
             <guid>The Surprisingly Happy Tale of Visual Studio Online, Continous Integration and Chutzpah</guid>
             <pubDate>Mon, 17 Mar 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Going off piste]]></description>
         </item>
         <item>
             <title><![CDATA[Knockout + Globalize = valueNumber Binding Handler]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/03/11/knockout-globalize-valuenumber-binding</link>
+            <link>https://johnnyreilly.github.io/2014/03/11/knockout-globalize-valuenumber-binding</link>
             <guid>Knockout + Globalize = valueNumber Binding Handler</guid>
             <pubDate>Tue, 11 Mar 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I’ve long used Globalize for my JavaScript number formatting / parsing needs. In a current project I’m using Knockout for the UI. When it came to data-binding numeric values none of the default binding handlers seemed appropriate. What I wanted was a binding handler that:]]></description>
         </item>
         <item>
             <title><![CDATA[Caching and cache-busting with RequireJS]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/03/05/caching-and-cache-busting-with-requirejs</link>
+            <link>https://johnnyreilly.github.io/2014/03/05/caching-and-cache-busting-with-requirejs</link>
             <guid>Caching and cache-busting with RequireJS</guid>
             <pubDate>Wed, 05 Mar 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Having put together a demo of using TypeScript with RequireJS my attention turned quickly to caching. Or rather, IE forced me to think about caching.]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript and RequireJS (Keep It Simple)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/02/27/typescript-and-requirejs-keep-it-simple</link>
+            <link>https://johnnyreilly.github.io/2014/02/27/typescript-and-requirejs-keep-it-simple</link>
             <guid>TypeScript and RequireJS (Keep It Simple)</guid>
             <pubDate>Thu, 27 Feb 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I'm not the first to take a look at mixing TypeScript and RequireJS but I wanted to get it clear in my head. Also, I've always felt the best way to learn is to do. So here we go. I'm going to create a TypeScript and RequireJS demo based on John Papa's "Keep It Simple RequireJS Demo".]]></description>
         </item>
         <item>
             <title><![CDATA[WPF and Mystic Meg or Playing Futurologist]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/02/12/wpf-and-mystic-meg-or-playing</link>
+            <link>https://johnnyreilly.github.io/2014/02/12/wpf-and-mystic-meg-or-playing</link>
             <guid>WPF and Mystic Meg or Playing Futurologist</guid>
             <pubDate>Wed, 12 Feb 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[Time for an unusual post. Most of what gets put down here is technical "how-to's". It's usually prompted by something I've been working on and serves, as much as anything else, as an aide-memoire. Not this time.]]></description>
         </item>
         <item>
             <title><![CDATA[Integration Testing with Entity Framework and Snapshot Backups]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/01/24/integration-testing-with-entity</link>
+            <link>https://johnnyreilly.github.io/2014/01/24/integration-testing-with-entity</link>
             <guid>Integration Testing with Entity Framework and Snapshot Backups</guid>
             <pubDate>Fri, 24 Jan 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I've written before about how unit testing Entity Framework is a contentious and sometimes pointless activity. The TL;DR is that LINQ-to-Objects != Linq-to-Entities and so if you want some useful tests around your data tier then integration tests that actually hit a database are what you want.]]></description>
         </item>
         <item>
             <title><![CDATA[Upgrading to TypeScript 0.9.5 - A Personal Memoir]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2014/01/09/upgrading-to-typescript-095-personal</link>
+            <link>https://johnnyreilly.github.io/2014/01/09/upgrading-to-typescript-095-personal</link>
             <guid>Upgrading to TypeScript 0.9.5 - A Personal Memoir</guid>
             <pubDate>Thu, 09 Jan 2014 00:00:00 GMT</pubDate>
             <description><![CDATA[I recently made the step to upgrade from TypeScript 0.9.1.1 to 0.9.5. To my surprise this process was rather painful and certainly not an unalloyed pleasure. Since I'm now on the other side, so to speak, I thought I'd share my experience and cast back a rope bridge to those about to journey over the abyss.]]></description>
         </item>
         <item>
             <title><![CDATA[NuGet and WebMatrix: How to install a specific version of a package]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/12/13/nuget-and-webmatrix-how-to-install</link>
+            <link>https://johnnyreilly.github.io/2013/12/13/nuget-and-webmatrix-how-to-install</link>
             <guid>NuGet and WebMatrix: How to install a specific version of a package</guid>
             <pubDate>Fri, 13 Dec 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[I've recently been experimenting with WebMatrix. If you haven't heard of it, WebMatrix is Microsoft's "free, lightweight, cloud-connected web development tool". All marketing aside, it's pretty cool. You can whip up a site in next to no time, it has source control, publishing abilities, intellisense. Much good stuff. And one thing it has, that I genuinely hadn't expected is NuGet. Brilliant!]]></description>
         </item>
         <item>
             <title><![CDATA[Simple fading in and out using CSS transitions and classes]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/12/04/simple-fading-in-and-out-using-css-transitions</link>
+            <link>https://johnnyreilly.github.io/2013/12/04/simple-fading-in-and-out-using-css-transitions</link>
             <guid>Simple fading in and out using CSS transitions and classes</guid>
             <pubDate>Wed, 04 Dec 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Caveat emptor folks... Let me start off by putting my hands up and saying I am no expert on CSS. And furthermore let me say that this blog post is essentially the distillation of a heady session of googling on the topic of CSS transitions. The credit for the technique detailed here belongs to many others, I'm just documenting it for my own benefit (and for anyone who stumbles upon this).]]></description>
         </item>
         <item>
             <title><![CDATA[Rolling your own confirm mechanism using Promises and jQuery UI]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/11/26/rolling-your-own-confirm-mechanism</link>
+            <link>https://johnnyreilly.github.io/2013/11/26/rolling-your-own-confirm-mechanism</link>
             <guid>Rolling your own confirm mechanism using Promises and jQuery UI</guid>
             <pubDate>Tue, 26 Nov 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[It is said that a picture speaks a thousand words. So here's two:]]></description>
         </item>
         <item>
             <title><![CDATA[TypeScript: Don't forget Build Action for Implicit Referencing...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/11/04/typescript-dont-forget-build-action-for-implicit-referencing</link>
+            <link>https://johnnyreilly.github.io/2013/11/04/typescript-dont-forget-build-action-for-implicit-referencing</link>
             <guid>TypeScript: Don't forget Build Action for Implicit Referencing...</guid>
             <pubDate>Mon, 04 Nov 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[As part of the known breaking changes between 0.9 and 0.9.1 there was this subtle but significant switch:]]></description>
         </item>
         <item>
             <title><![CDATA[Getting TypeScript Compile-on-Save and Continuous Integration to play nice]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/10/30/getting-typescript-compile-on-save-and-continous-integration-to-play-nice</link>
+            <link>https://johnnyreilly.github.io/2013/10/30/getting-typescript-compile-on-save-and-continous-integration-to-play-nice</link>
             <guid>Getting TypeScript Compile-on-Save and Continuous Integration to play nice</guid>
             <pubDate>Wed, 30 Oct 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Well sort of... Perhaps this post should more accurately called "How to get CI to ignore your TypeScript whilst Visual Studio still compiles it..."]]></description>
         </item>
         <item>
             <title><![CDATA[Migrating from jquery.validate.unobtrusive.js to jQuery.Validation.Unobtrusive.Native]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/10/04/migrating-from-jquery.validate.unobtrusive.js-to-jQuery.Validation.Unobtrusive.Native</link>
+            <link>https://johnnyreilly.github.io/2013/10/04/migrating-from-jquery.validate.unobtrusive.js-to-jQuery.Validation.Unobtrusive.Native</link>
             <guid>Migrating from jquery.validate.unobtrusive.js to jQuery.Validation.Unobtrusive.Native</guid>
             <pubDate>Fri, 04 Oct 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[So, you're looking at jQuery.Validation.Unobtrusive.Native. You're thinking to yourself "Yeah, I'd really like to use the native unobtrusive support in jQuery Validation. But I've already got this app which is using jquery.validate.unobtrusive.js \- actually how easy is switching over?" Well I'm here to tell you that it's pretty straightforward - here's a walkthrough of how it might be done.]]></description>
         </item>
         <item>
             <title><![CDATA[Using Bootstrap Tooltips to display jQuery Validation error messages]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/08/17/using-bootstrap-tooltips-to-display</link>
+            <link>https://johnnyreilly.github.io/2013/08/17/using-bootstrap-tooltips-to-display</link>
             <guid>Using Bootstrap Tooltips to display jQuery Validation error messages</guid>
             <pubDate>Sat, 17 Aug 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[I love jQuery Validation. I was recently putting together a screen which had a lot of different bits of validation going on. And the default jQuery Validation approach of displaying the validation messages next to the element being validated wasn't working for me. That is to say, because of the amount of elements on the form, the appearance of validation messages was really making a mess of the presentation. So what to do?]]></description>
         </item>
         <item>
             <title><![CDATA[Announcing jQuery Validation Unobtrusive Native...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/08/08/announcing-jquery-validation</link>
+            <link>https://johnnyreilly.github.io/2013/08/08/announcing-jquery-validation</link>
             <guid>Announcing jQuery Validation Unobtrusive Native...</guid>
             <pubDate>Thu, 08 Aug 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[I've been busy working on an open source project called jQuery Validation Unobtrusive Native. To see it in action take a look here.]]></description>
         </item>
         <item>
             <title><![CDATA[How I'm Using Cassette part 3:Cassette and TypeScript Integration]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/07/06/how-im-using-cassette-part-3-typescript</link>
+            <link>https://johnnyreilly.github.io/2013/07/06/how-im-using-cassette-part-3-typescript</link>
             <guid>How I'm Using Cassette part 3:Cassette and TypeScript Integration</guid>
             <pubDate>Sat, 06 Jul 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[The modern web is JavaScript. There's no two ways about it. HTML 5 has new CSS, new HTML but the most important aspect of it from an application development point of view is JavaScript. It's the engine. Without it HTML 5 wouldn't be the exciting application platform that it is. Half the posts on Hacker News would vanish.]]></description>
         </item>
         <item>
             <title><![CDATA[jQuery Validate - Native Unobtrusive Validation Support!]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/06/26/jquery-validate-native-unobtrusive-validation</link>
+            <link>https://johnnyreilly.github.io/2013/06/26/jquery-validate-native-unobtrusive-validation</link>
             <guid>jQuery Validate - Native Unobtrusive Validation Support!</guid>
             <pubDate>Wed, 26 Jun 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Did you know that jQuery Validate natively supports the use of HTML 5 data attributes to drive validation unobtrusively? Neither did I - I haven't seen any documentation for it. However, I was reading the jQuery Validate test suite and that's what I spotted being used in some of the tests.]]></description>
         </item>
         <item>
             <title><![CDATA[How I'm Using Cassette part 2:Get Cassette to Serve Scripts in Dependency Order]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/06/06/how-im-using-cassette-part-2</link>
+            <link>https://johnnyreilly.github.io/2013/06/06/how-im-using-cassette-part-2</link>
             <guid>How I'm Using Cassette part 2:Get Cassette to Serve Scripts in Dependency Order</guid>
             <pubDate>Thu, 06 Jun 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Last time I wrote about Cassette I was talking about how to generally get up and running. How to use Cassette within an ASP.Net MVC project. What I want to write about now is (in my eyes) the most useful feature of Cassette by a country mile. This is Cassettes ability to ensure scripts are served in dependency order.]]></description>
         </item>
         <item>
             <title><![CDATA[How I'm Using Cassette part 1:Getting Up and Running]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/05/04/how-im-using-cassette</link>
+            <link>https://johnnyreilly.github.io/2013/05/04/how-im-using-cassette</link>
             <guid>How I'm Using Cassette part 1:Getting Up and Running</guid>
             <pubDate>Sat, 04 May 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Backing into the light]]></description>
         </item>
         <item>
             <title><![CDATA[A navigation animation (for your users delectation)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/04/26/a-navigation-animation-for-your-users</link>
+            <link>https://johnnyreilly.github.io/2013/04/26/a-navigation-animation-for-your-users</link>
             <guid>A navigation animation (for your users delectation)</guid>
             <pubDate>Fri, 26 Apr 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[The Vexation]]></description>
         </item>
         <item>
             <title><![CDATA[IE 10 Install Torches JavaScript Debugging in Visual Studio 2012 Through Auto Update (Probably)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/04/17/ie-10-install-torches-javascript</link>
+            <link>https://johnnyreilly.github.io/2013/04/17/ie-10-install-torches-javascript</link>
             <guid>IE 10 Install Torches JavaScript Debugging in Visual Studio 2012 Through Auto Update (Probably)</guid>
             <pubDate>Wed, 17 Apr 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[OK the title of this post is a little verbose. I've just wasted a morning of my life trying to discover what happened to my ability to debug JavaScript in Visual Studio 2012. If you don't want to experience the same pain then read on...]]></description>
         </item>
         <item>
             <title><![CDATA[Making IE 10's clear field (X) button and jQuery UI autocomplete play nice]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/04/09/making-ie-10s-clear-field-x-button-and</link>
+            <link>https://johnnyreilly.github.io/2013/04/09/making-ie-10s-clear-field-x-button-and</link>
             <guid>Making IE 10's clear field (X) button and jQuery UI autocomplete play nice</guid>
             <pubDate>Tue, 09 Apr 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[This morning when I logged on I was surprised to discover IE 10 had been installed onto my machine. I hadn't taken any action to trigger this myself and so I’m assuming that this was part of the general Windows Update mechanism. I know Microsoft had planned to push IE 10 out through this mechanism.]]></description>
         </item>
         <item>
             <title><![CDATA[Death to compatibility mode]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/04/01/death-to-compatibility-mode</link>
+            <link>https://johnnyreilly.github.io/2013/04/01/death-to-compatibility-mode</link>
             <guid>Death to compatibility mode</guid>
             <pubDate>Mon, 01 Apr 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[For just over 10 years my bread and butter has been the development and maintenance of line of business apps. More particularly, web apps built on the Microsoft stack of love (© Scott Hanselman). These sort of apps are typically accessed via the company intranet and since "bring your own device" is still a relatively new innovation these apps are invariably built for everyones favourite browser: Internet Explorer. As we all know, enterprises are generally not that speedy when it comes to upgrades. So we're basically talking IE 9 at best, but more often than not, IE 8.]]></description>
         </item>
         <item>
             <title><![CDATA[DecimalModelBinder for nullable Decimals]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/03/11/decimalmodelbinder-for-nullable-decimals</link>
+            <link>https://johnnyreilly.github.io/2013/03/11/decimalmodelbinder-for-nullable-decimals</link>
             <guid>DecimalModelBinder for nullable Decimals</guid>
             <pubDate>Mon, 11 Mar 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[My memory appears to be a sieve. Twice in the last year I've forgotten that MVCs ModelBinding doesn't handle regionalised numbers terribly well. Each time I've thought "hmmmm.... best Google that" and lo and behold come upon this post on the issue by the fantastic Phil Haack:]]></description>
         </item>
         <item>
             <title><![CDATA[Unit testing ModelState]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/03/03/unit-testing-modelstate</link>
+            <link>https://johnnyreilly.github.io/2013/03/03/unit-testing-modelstate</link>
             <guid>Unit testing ModelState</guid>
             <pubDate>Sun, 03 Mar 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[- Me: "It can't be done"]]></description>
         </item>
         <item>
             <title><![CDATA[Unit testing MVC controllers / Mocking UrlHelper]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/02/18/unit-testing-mvc-controllers-mocking</link>
+            <link>https://johnnyreilly.github.io/2013/02/18/unit-testing-mvc-controllers-mocking</link>
             <guid>Unit testing MVC controllers / Mocking UrlHelper</guid>
             <pubDate>Mon, 18 Feb 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[I have put a name to my pain...]]></description>
         </item>
         <item>
             <title><![CDATA[Using Expressions with Constructors]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/02/13/using-expressions-with-constructors</link>
+            <link>https://johnnyreilly.github.io/2013/02/13/using-expressions-with-constructors</link>
             <guid>Using Expressions with Constructors</guid>
             <pubDate>Wed, 13 Feb 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Every now and then you think "x should be easy" - and it isn't. I had one of those situations this morning. Something I thought would take 5 minutes had me still pondering 30 minutes later. I finally cracked it (with the help of a colleague - thanks Marc!) and I wanted to note down what I did since I'm sure to forget this.]]></description>
         </item>
         <item>
             <title><![CDATA[Twitter.Bootstrap.MVC4 meet Bootstrap Datepicker *and* get your Internationalization on...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/01/14/twitterbootstrapmvc4-meet-bootstrap_14</link>
+            <link>https://johnnyreilly.github.io/2013/01/14/twitterbootstrapmvc4-meet-bootstrap_14</link>
             <guid>Twitter.Bootstrap.MVC4 meet Bootstrap Datepicker *and* get your Internationalization on...</guid>
             <pubDate>Mon, 14 Jan 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Last time I wrote about marrying up Twitter.Bootstrap.MVC4 and Bootstrap Datepicker. It came together quite nicely but when I took a more in depth look at what I'd done I discovered a problem. The brief work on regionalisation / internationalisation / localisation / globalisation / whatever it's called this week... wasn't really working. We had problems with the validation.]]></description>
         </item>
         <item>
             <title><![CDATA[Twitter.Bootstrap.MVC4 meet Bootstrap Datepicker]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/01/09/twitterbootstrapmvc4-meet-bootstrap</link>
+            <link>https://johnnyreilly.github.io/2013/01/09/twitterbootstrapmvc4-meet-bootstrap</link>
             <guid>Twitter.Bootstrap.MVC4 meet Bootstrap Datepicker</guid>
             <pubDate>Wed, 09 Jan 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[Update 14/01/2013]]></description>
         </item>
         <item>
             <title><![CDATA[HTML to PDF using a WCF Service]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2013/01/03/html-to-pdf-using-wcf-service</link>
+            <link>https://johnnyreilly.github.io/2013/01/03/html-to-pdf-using-wcf-service</link>
             <guid>HTML to PDF using a WCF Service</guid>
             <pubDate>Thu, 03 Jan 2013 00:00:00 GMT</pubDate>
             <description><![CDATA[TL; DR - "Talk is cheap. Show me the code."]]></description>
         </item>
         <item>
             <title><![CDATA[Getting up to speed with Bloomberg's Open API...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/11/13/a-nicer-net-api-for-bloombergs-open-api</link>
+            <link>https://johnnyreilly.github.io/2012/11/13/a-nicer-net-api-for-bloombergs-open-api</link>
             <guid>Getting up to speed with Bloomberg's Open API...</guid>
             <pubDate>Tue, 13 Nov 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[A good portion of any devs life is usually spent playing with APIs. If you need to integrate some other system into the system you're working on (and it's rare to come upon a situation where this doesn't happen at some point) then it's API time.]]></description>
         </item>
         <item>
             <title><![CDATA[XSD/XML Schema Generator + Xsd.exe:Taking the pain out of manual XML]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/11/02/xsdxml-schema-generator-xsdexe-taking</link>
+            <link>https://johnnyreilly.github.io/2012/11/02/xsdxml-schema-generator-xsdexe-taking</link>
             <guid>XSD/XML Schema Generator + Xsd.exe:Taking the pain out of manual XML</guid>
             <pubDate>Fri, 02 Nov 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Is it 2003 again?!?]]></description>
         </item>
         <item>
             <title><![CDATA[MVC 3 meet Dictionary]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/10/22/mvc-3-meet-dictionary</link>
+            <link>https://johnnyreilly.github.io/2012/10/22/mvc-3-meet-dictionary</link>
             <guid>MVC 3 meet Dictionary</guid>
             <pubDate>Mon, 22 Oct 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Documenting a JsonValueProviderFactory Gotcha]]></description>
         </item>
         <item>
             <title><![CDATA[Using Web Optimization with MVC 3]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/10/05/using-web-optimization-with-mvc-3</link>
+            <link>https://johnnyreilly.github.io/2012/10/05/using-web-optimization-with-mvc-3</link>
             <guid>Using Web Optimization with MVC 3</guid>
             <pubDate>Fri, 05 Oct 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[A while ago I wrote about optimally serving up JavaScript in web applications. I mentioned that Microsoft had come up with a NuGet package called Microsoft ASP.NET Web Optimization which could help with that by minifying and bundling CSS and JavaScript. At the time I was wondering if I would be able to to use this package with pre-existing MVC 3 projects (given that the package had been released together with MVC 4). Happily it turns out you can. But it's not quite as straightforward as I might have liked so I've documented how to get going with this here...]]></description>
         </item>
         <item>
             <title><![CDATA[Unit Testing and Entity Framework: The Filth and the Fury]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/10/03/unit-testing-and-entity-framework-filth</link>
+            <link>https://johnnyreilly.github.io/2012/10/03/unit-testing-and-entity-framework-filth</link>
             <guid>Unit Testing and Entity Framework: The Filth and the Fury</guid>
             <pubDate>Wed, 03 Oct 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Just recently I've noticed that there appears to be something of a controversy around Unit Testing and Entity Framework. I first came across it as I was Googling around for useful posts on using MOQ in conjunction with EF. I've started to notice the topic more and more and as I have mixed feelings on the subject (that is to say I don't have a settled opinion) I thought I'd write about this and see if I came to any kind of conclusion...]]></description>
         </item>
         <item>
             <title><![CDATA[Giving OData to CRM 4.0]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/09/24/giving-odata-to-crm-40</link>
+            <link>https://johnnyreilly.github.io/2012/09/24/giving-odata-to-crm-40</link>
             <guid>Giving OData to CRM 4.0</guid>
             <pubDate>Mon, 24 Sep 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Just recently I was tasked with seeing if we could provide a way to access our Dynamics CRM instance via OData. My initial investigations made it seem like there was nothing for me to do; CRM 2011 provides OData support out of the box. Small problem. We were running CRM 4.0.]]></description>
         </item>
         <item>
             <title><![CDATA[Globalize and jQuery Validation]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/09/06/globalize-and-jquery-validate</link>
+            <link>https://johnnyreilly.github.io/2012/09/06/globalize-and-jquery-validate</link>
             <guid>Globalize and jQuery Validation</guid>
             <pubDate>Thu, 06 Sep 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Update 05/10/2015]]></description>
         </item>
         <item>
             <title><![CDATA[How to attribute encode a PartialView in MVC (Razor)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/08/24/how-to-attribute-encode-partialview-in</link>
+            <link>https://johnnyreilly.github.io/2012/08/24/how-to-attribute-encode-partialview-in</link>
             <guid>How to attribute encode a PartialView in MVC (Razor)</guid>
             <pubDate>Fri, 24 Aug 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[This post is plagiarism. But I'm plagiarising myself so I don't feel too bad.]]></description>
         </item>
         <item>
             <title><![CDATA[ClosedXML - the real SDK for Excel]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/08/16/closedxml-real-sdk-for-excel</link>
+            <link>https://johnnyreilly.github.io/2012/08/16/closedxml-real-sdk-for-excel</link>
             <guid>ClosedXML - the real SDK for Excel</guid>
             <pubDate>Thu, 16 Aug 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Simplicity appeals to me. It always has. Something that is simple is straightforward to comprehend and is consequently easy to use. It's clarity.]]></description>
         </item>
         <item>
             <title><![CDATA[jQuery Unobtrusive Validation (+ associated gotchas)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/08/06/jquery-unobtrusive-validation</link>
+            <link>https://johnnyreilly.github.io/2012/08/06/jquery-unobtrusive-validation</link>
             <guid>jQuery Unobtrusive Validation (+ associated gotchas)</guid>
             <pubDate>Mon, 06 Aug 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[I was recently working on a project which had client side validation manually set up which essentially duplicated the same logic on the server. Like many things this had started out small and grown and grown until it became arduos and tedious to maintain.]]></description>
         </item>
         <item>
             <title><![CDATA[Rendering Partial View to a String]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/07/16/rendering-partial-view-to-string</link>
+            <link>https://johnnyreilly.github.io/2012/07/16/rendering-partial-view-to-string</link>
             <guid>Rendering Partial View to a String</guid>
             <pubDate>Mon, 16 Jul 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Well done that man!]]></description>
         </item>
         <item>
             <title><![CDATA[Optimally Serving Up JavaScript]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/07/01/how-im-structuring-my-javascript-in-web</link>
+            <link>https://johnnyreilly.github.io/2012/07/01/how-im-structuring-my-javascript-in-web</link>
             <guid>Optimally Serving Up JavaScript</guid>
             <pubDate>Sun, 01 Jul 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[I have occasionally done some server-side JavaScript with Rhino and Node.js but this is the exception rather than the rule. Like most folk at the moment, almost all the JavaScript I write is in a web context.]]></description>
         </item>
         <item>
             <title><![CDATA[Reasons to be Cheerful (why now is a good time to be a dev)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/06/04/reasons-to-be-cheerful-why-now-is-good</link>
+            <link>https://johnnyreilly.github.io/2012/06/04/reasons-to-be-cheerful-why-now-is-good</link>
             <guid>Reasons to be Cheerful (why now is a good time to be a dev)</guid>
             <pubDate>Mon, 04 Jun 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[I've been a working as a developer in some way, shape or form for just over 10 years now. And it occurred to me the other day that I can't think of a better time to be a software developer than right now]]></description>
         </item>
         <item>
             <title><![CDATA[Dad Didn't Buy Any Games]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/05/30/dad-didnt-buy-any-games</link>
+            <link>https://johnnyreilly.github.io/2012/05/30/dad-didnt-buy-any-games</link>
             <guid>Dad Didn't Buy Any Games</guid>
             <pubDate>Wed, 30 May 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Inspired by Hanselmans post on how he got started in programming I thought I'd shared my own tale about how it all began... I grew up the 80's just outside London. For those of you of a different vintage let me paint a picture. These were the days when "Personal Computers", as they were then styled, were taking the world by storm. Every house would be equipped with either a ZX Spectrum, a Commodore 64 or an Amstrad CPC. These were 8 bit computers which were generally plugged into the family television and spent a good portion of their time loading games like Target]]></description>
         </item>
         <item>
             <title><![CDATA[Globalize.js - number and date localisation made easy]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/05/07/globalizejs-number-and-date</link>
+            <link>https://johnnyreilly.github.io/2012/05/07/globalizejs-number-and-date</link>
             <guid>Globalize.js - number and date localisation made easy</guid>
             <pubDate>Mon, 07 May 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[I wanted to write about a JavaScript library which seems to have had very little attention so far. And that surprises me as it's]]></description>
         </item>
         <item>
             <title><![CDATA[Beg, Steal or Borrow a Decent JavaScript DateTime Converter]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/04/28/beg-steal-or-borrow-decent-javascript</link>
+            <link>https://johnnyreilly.github.io/2012/04/28/beg-steal-or-borrow-decent-javascript</link>
             <guid>Beg, Steal or Borrow a Decent JavaScript DateTime Converter</guid>
             <pubDate>Sat, 28 Apr 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[I've so named this blog post because it shamelessly borrows from the fine work of others 1. http]]></description>
         </item>
         <item>
             <title><![CDATA[JSHint - Customising your hurt feelings]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/04/23/jshint-customising-your-hurt-feelings</link>
+            <link>https://johnnyreilly.github.io/2012/04/23/jshint-customising-your-hurt-feelings</link>
             <guid>JSHint - Customising your hurt feelings</guid>
             <pubDate>Mon, 23 Apr 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[As I've started making greater use of JavaScript to give a richer GUI experience the amount of JS in my ASP.NET apps has unsurprisingly ballooned. If I'm honest, I hadn't given much consideration to the code quality of my JavaScript in the past. However, if I was going to make increasing use of it (and given the way the web is going at the moment I'd say that's a given) I didn't think this was tenable position to maintain. A friend of mine works for Coverity which is a company that provides tools for analysing code quality. I understand, from conversations with him, that their tools provide static analysis for compiled languages such as C++ / C# / Java etc. I was looking for something similar for JavaScript. Like many, I have read and loved Douglas Crockford's "JavaScript]]></description>
         </item>
         <item>
             <title><![CDATA[A Simple Technique for Initialising Properties with Internal Setters for Unit Testing]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/04/16/simple-technique-for-initialising</link>
+            <link>https://johnnyreilly.github.io/2012/04/16/simple-technique-for-initialising</link>
             <guid>A Simple Technique for Initialising Properties with Internal Setters for Unit Testing</guid>
             <pubDate>Mon, 16 Apr 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[I was recently working with my colleagues on refactoring a legacy application. We didn't have an immense amount of time available for this but the plan was to try and improve what was there as much as possible. In its initial state the application had no unit tests in place at all and so the plan was to refactor the code base in such a way as to make testing it a realistic proposition. To that end the domain layer was being heavily adjusted and the GUI was being migrated from WebForms to MVC 3. The intention was to build up a pretty solid collection of unit tests. However, as we were working on this we realised we had a problem with properties on our models with internal setters...]]></description>
         </item>
         <item>
             <title><![CDATA[Making PDFs from HTML in C# using WKHTMLtoPDF]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/04/05/making-pdfs-from-html-in-c-using</link>
+            <link>https://johnnyreilly.github.io/2012/04/05/making-pdfs-from-html-in-c-using</link>
             <guid>Making PDFs from HTML in C# using WKHTMLtoPDF</guid>
             <pubDate>Thu, 05 Apr 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Update 03/01/2013]]></description>
         </item>
         <item>
             <title><![CDATA[WCF - moving from Config to Code, a simple WCF service harness (plus implementing your own Authorization)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/03/22/wcf-moving-from-config-to-code-simple</link>
+            <link>https://johnnyreilly.github.io/2012/03/22/wcf-moving-from-config-to-code-simple</link>
             <guid>WCF - moving from Config to Code, a simple WCF service harness (plus implementing your own Authorization)</guid>
             <pubDate>Thu, 22 Mar 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Last time I wrote about WCF I was getting up and running with WCF Transport Windows authentication using NetTcpBinding in an Intranet environment. I ended up with a WCF service hosted in a Windows Service which did pretty much what the previous post name implies.]]></description>
         </item>
         <item>
             <title><![CDATA[Using the PubSub / Observer pattern to emulate constructor chaining without cluttering up global scope]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/03/17/using-pubsub-observer-pattern-to</link>
+            <link>https://johnnyreilly.github.io/2012/03/17/using-pubsub-observer-pattern-to</link>
             <guid>Using the PubSub / Observer pattern to emulate constructor chaining without cluttering up global scope</guid>
             <pubDate>Sat, 17 Mar 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Yes the title of this post is \*painfully\* verbose. Sorry about that. Couple of questions for you: - Have you ever liked the way you can have base classes in C# which can then be inherited and subclassed in a different file / class]]></description>
         </item>
         <item>
             <title><![CDATA[Striving for (JavaScript) Convention]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/03/12/striving-for-javascript-convention</link>
+            <link>https://johnnyreilly.github.io/2012/03/12/striving-for-javascript-convention</link>
             <guid>Striving for (JavaScript) Convention</guid>
             <pubDate>Mon, 12 Mar 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Update]]></description>
         </item>
         <item>
             <title><![CDATA[jQuery Unobtrusive Remote Validation]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/03/03/jquery-unobtrusive-remote-validation</link>
+            <link>https://johnnyreilly.github.io/2012/03/03/jquery-unobtrusive-remote-validation</link>
             <guid>jQuery Unobtrusive Remote Validation</guid>
             <pubDate>Sat, 03 Mar 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Just recently I have been particularly needing to make use of remote / server-side validation in my ASP.NET MVC application and found that the unobtrusive way of using this seemed to be rather inadequately documented (of course it's possible that it's well documented and I just didn't find the resources). Anyway I've rambled on much longer than I intended to in this post so here's the TL;DR:]]></description>
         </item>
         <item>
             <title><![CDATA[The Joy of JSON]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/02/23/joy-of-json</link>
+            <link>https://johnnyreilly.github.io/2012/02/23/joy-of-json</link>
             <guid>The Joy of JSON</guid>
             <pubDate>Thu, 23 Feb 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[So back to JSON. For those of you that don't know JSON stands for JavaScript Object Notation and is lightweight text based data interchange format. Rather than quote other people verbatim you can find thorough explanations of JSON here: - Introducing JSON]]></description>
         </item>
         <item>
             <title><![CDATA[WCF Transport Windows authentication using NetTcpBinding in an Intranet environment]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/02/15/wcf-transport-windows-authentication</link>
+            <link>https://johnnyreilly.github.io/2012/02/15/wcf-transport-windows-authentication</link>
             <guid>WCF Transport Windows authentication using NetTcpBinding in an Intranet environment</guid>
             <pubDate>Wed, 15 Feb 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[Update]]></description>
         </item>
         <item>
             <title><![CDATA[A Potted History of using Ajax (on the Microsoft Stack of Love)]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/02/05/potted-history-of-using-ajax-on</link>
+            <link>https://johnnyreilly.github.io/2012/02/05/potted-history-of-using-ajax-on</link>
             <guid>A Potted History of using Ajax (on the Microsoft Stack of Love)</guid>
             <pubDate>Sun, 05 Feb 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[This post originally started out as an explanation of JSON. However as I wrote this quickly got abandoned in favour of writing about how I came to use JSON in the first place - which was through the use of Ajax. Having written a goodly amount I've now decided to move the actual JSON stuff into another post since I think Ajax is probably worth thinking about by itself rather than as an aside. So let me start at the beginning and explain how I came to use Ajax in the first place (this may take some time so please bear with me). In late 2004 I first started working on a project which I was to remain involved with (on and off) for a very long time indeed. The project was part financial reporting system and part sales incentivisation tool; it was used internally in the investment bank in which I was working. The project had been in existence for a number of years and had a web front end which at that point would been built in a combination of HTML, JavaScript, classic ASP and with a Visual Basic 6.0 back end. One of the reasons I had been brought on to the project was to help ".Net-ify" the thing and migrate it to ASP.NET and C#. I digress. The interesting thing about this app was that there were actually some quite advanced things being done with it (despite the classic ASP / VB). The users could enter trades into the system which represented actual trades that had been entered into a trading system elsewhere in the organisation. These trades would be assigned a reporting value which would be based on their various attributes. (Stay with me people this will get more interesting I \*promise\*.) The calculation of the reporting value was quite an in depth process and needed to be performed server-side. However, the users had decreed that it wasn't acceptable to do a full postback to the server to perform this calculation; they wanted it done "on-the-fly". Now if you asked me at the time I'd have said "can't be done". Fortunately the other people working on the project then weren't nearly so defeatist. Instead they went away and found Microsoft's webservice.htc library. For those of you that don't know this was a JavaScript library that Microsoft came up with to enable the access of Web Services on the client. Given that it was designed to work with IE 5 I suspect it was created between 1999-2001 (but I'm not certain about that). Now it came as a revelation to me but this was a JavaScript library that talked to our web services through the medium of XML. In short it was my first encounter with anything remotely Ajax\-y. It was exciting! However, the possibilities of what we could do didn't actually become apparent to me for some years. It's worth saying that the way we were using webservice.htc was exceedingly simplistic and rather than investigating further I took the limited ways we were using it as indications of the limitations of Ajax and / or webservice.htc. So for a long time I thought the following: - The only way to pass multiple arguments to a web service was to package up arguments into a single string with delimiters which you could split and unpackage as your first step on the server.]]></description>
         </item>
         <item>
             <title><![CDATA[JavaScript - getting to know the beast...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/01/30/javascript-getting-to-know-beast</link>
+            <link>https://johnnyreilly.github.io/2012/01/30/javascript-getting-to-know-beast</link>
             <guid>JavaScript - getting to know the beast...</guid>
             <pubDate>Mon, 30 Jan 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[So it's 2010 and I've started using jQuery. jQuery is a JavaScript library. This means that I'm writing JavaScript... Gulp! I should say that at this point in time I \*hated\* JavaScript (I have mentioned this previously). But what I know now is that I barely understood the language at all. All the JavaScript I knew was the result of copying and pasting after I'd hit "view source". I don't feel too bad about this - not because my ignorance was laudable but because I certainly wasn't alone in this. It seems that up until recently hardly anyone knew anything about JavaScript. It puzzles me now that I thought this was okay. I suppose like many people I didn't think JavaScript was capable of much and hence felt time spent researching it would be wasted. Just to illustrate where I was then, here is 2009 John's idea of some pretty "advanced" JavaScript: `html]]></description>
         </item>
         <item>
             <title><![CDATA[What on earth is jQuery?  And why should I care?]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/01/24/what-on-earth-is-jquery-and-why-should</link>
+            <link>https://johnnyreilly.github.io/2012/01/24/what-on-earth-is-jquery-and-why-should</link>
             <guid>What on earth is jQuery?  And why should I care?</guid>
             <pubDate>Tue, 24 Jan 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[What on earth is jQuery? What's a jQuery plugin?]]></description>
         </item>
         <item>
             <title><![CDATA[jqGrid - it's just a far better grid]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/01/14/jqgrid-its-just-far-better-grid</link>
+            <link>https://johnnyreilly.github.io/2012/01/14/jqgrid-its-just-far-better-grid</link>
             <guid>jqGrid - it's just a far better grid</guid>
             <pubDate>Sat, 14 Jan 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[The year was 2010 (not really that long ago I know) and the project that I was working on was sorely in need of a new grid component. It was an ASP.NET WebForms project and for some time we'd been using what was essentially a glorified datagrid which had a few extra features implemented to allow us to change column order / columns displayed / copy contents to clipboard etc. Our grid worked perfectly fine - it gave us the functionality we needed. However, it looked pretty terrible, and had some "quirky" approaches in place for supporting IE and Firefox side by side. Also, at the time we were attempting to make our app seem new and exciting again for the users. The surprising truth is that users seem to be more impressed with a visual revamp than with new or amended functionality. So I was looking for something which would make them sit up and say "oooh - isn't it pretty!". Unfortunately the nature of the organisation I was working for was not one that lended itself to paying for components. They were occasionally willing to do that but the hoops that would have to be jumped through first, the forms that would need to be signed in triplicate by people that had nearly nothing to do with the project made that an unattractive prospect. So I began my search initially looking at the various open source offerings that were around. As a minimum I was looking for something that would do what our home-grown component did already (change column order / columns displayed / copy contents to clipboard etc) but hopefully in a "nicer" way. Also, I had long been unhappy with the fact that to get our current grid to render results we did a \*full postback\* to the server and re-rendered the whole page. Pointless! Why should you need to do all this each time when you only wanted to refresh the data? Instead I was thinking about using an Ajax approach; a grid that could just get the data that it needed and render it to the client. This seemed to me a vastly "cleaner" solution - why update a whole screen when you only want to update a small part of it? Why not save yourself the trouble of having to ensure that all other screen controls are persisted just as you'd like them after the postback? I also thought it was probably something that would scale better as it would massively reduce the amount of data moving backwards and forwards between client and server. No need for a full page life cycle on the server each time the grid refreshes. Just simple data travelling down the pipes of web. With the above criteria in mind I set out on my Google quest for a grid. Quite soon I found that there was a component out there which seemed to do all that I wanted and far more besides. It was called jqGrid:]]></description>
         </item>
         <item>
             <title><![CDATA[Standing on the Shoulders of Giants...]]></title>
-            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2012/01/07/standing-on-shoulders-of-giants</link>
+            <link>https://johnnyreilly.github.io/2012/01/07/standing-on-shoulders-of-giants</link>
             <guid>Standing on the Shoulders of Giants...</guid>
             <pubDate>Sat, 07 Jan 2012 00:00:00 GMT</pubDate>
             <description><![CDATA[It started with Scott Hanselman. I had no particular plans to start a blog at all. However, I was reading Scott Hanselman's turn of the year post and I was struck with an idea.]]></description>

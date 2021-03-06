@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[466],{530:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"validation-attribute","name":"validationattribute","count":1,"permalink":"/blog.johnnyreilly.com/tags/validation-attribute"}')}}]);

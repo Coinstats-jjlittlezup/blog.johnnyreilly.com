@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[168],{226:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"razor","name":"razor","count":1,"permalink":"/blog.johnnyreilly.com/tags/razor"}')}}]);

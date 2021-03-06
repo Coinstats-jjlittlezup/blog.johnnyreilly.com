@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[332],{391:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"dictionary","name":"dictionary","count":1,"permalink":"/blog.johnnyreilly.com/tags/dictionary"}')}}]);

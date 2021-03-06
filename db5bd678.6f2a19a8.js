@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[756],{820:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"model-binder","name":"modelbinder","count":1,"permalink":"/tags/model-binder"}')}}]);

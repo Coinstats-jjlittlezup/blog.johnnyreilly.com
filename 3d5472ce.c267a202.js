@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[227],{285:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"naming-convention","name":"naming convention","count":1,"permalink":"/tags/naming-convention"}')}}]);

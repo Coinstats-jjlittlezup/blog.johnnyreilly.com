@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[858],{922:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"o-auth","name":"oauth","count":1,"permalink":"/blog.johnnyreilly.com/tags/o-auth"}')}}]);

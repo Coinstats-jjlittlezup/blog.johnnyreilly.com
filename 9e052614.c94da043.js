@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[566],{630:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"asp-net-ajax","name":"asp.net ajax","count":1,"permalink":"/blog.johnnyreilly.com/tags/asp-net-ajax"}')}}]);

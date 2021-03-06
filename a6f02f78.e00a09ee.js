@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[594],{657:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"i-enumerable-vs-i-queryable","name":"ienumerable vs iqueryable","count":1,"permalink":"/blog.johnnyreilly.com/tags/i-enumerable-vs-i-queryable"}')}}]);

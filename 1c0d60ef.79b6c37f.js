@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[109],{167:function(p){p.exports=JSON.parse('{"allTagsPath":"/tags","slug":"wpf","name":"wpf","count":1,"permalink":"/tags/wpf"}')}}]);
