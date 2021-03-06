@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[157],{215:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"m-de-leon","name":"mdeleon","count":1,"permalink":"/blog.johnnyreilly.com/tags/m-de-leon"}')}}]);

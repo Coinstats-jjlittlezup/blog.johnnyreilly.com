@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[197],{255:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"karma","name":"karma","count":4,"permalink":"/blog.johnnyreilly.com/tags/karma"}')}}]);

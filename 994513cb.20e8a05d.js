@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[548],{612:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"paul-irish","name":"paul irish","count":1,"permalink":"/blog.johnnyreilly.com/tags/paul-irish"}')}}]);

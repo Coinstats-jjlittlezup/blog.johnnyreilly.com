@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[234],{292:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"web-matrix","name":"webmatrix","count":1,"permalink":"/blog.johnnyreilly.com/tags/web-matrix"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[245],{303:function(p){p.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"type-script","name":"typescript","count":42,"permalink":"/blog.johnnyreilly.com/tags/type-script"}')}}]);

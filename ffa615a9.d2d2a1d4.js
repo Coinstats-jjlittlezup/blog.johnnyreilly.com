@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[889],{953:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"ux","name":"ux","count":1,"permalink":"/blog.johnnyreilly.com/tags/ux"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[179],{237:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"autofac","name":"autofac","count":2,"permalink":"/blog.johnnyreilly.com/tags/autofac"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[74],{132:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"bundling","name":"bundling","count":1,"permalink":"/blog.johnnyreilly.com/tags/bundling"}')}}]);

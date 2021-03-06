@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[284],{342:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"delphi","name":"delphi","count":1,"permalink":"/blog.johnnyreilly.com/tags/delphi"}')}}]);

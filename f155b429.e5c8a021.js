@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[833],{897:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"tony-tomov","name":"tony tomov","count":1,"permalink":"/blog.johnnyreilly.com/tags/tony-tomov"}')}}]);

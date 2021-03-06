@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[502],{566:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"lexical-scoping","name":"lexical scoping","count":1,"permalink":"/blog.johnnyreilly.com/tags/lexical-scoping"}')}}]);

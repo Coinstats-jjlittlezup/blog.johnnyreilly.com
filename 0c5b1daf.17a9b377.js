@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{105:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"use-static-files","name":"usestaticfiles","count":1,"permalink":"/blog.johnnyreilly.com/tags/use-static-files"}')}}]);

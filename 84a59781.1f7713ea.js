@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[468],{532:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"await","name":"await","count":1,"permalink":"/blog.johnnyreilly.com/tags/await"}')}}]);

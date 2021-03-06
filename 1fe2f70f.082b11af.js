@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[119],{177:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"wpf","name":"wpf","count":1,"permalink":"/blog.johnnyreilly.com/tags/wpf"}')}}]);

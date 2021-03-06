@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[823],{887:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"hungarian-notation","name":"hungarian notation","count":1,"permalink":"/blog.johnnyreilly.com/tags/hungarian-notation"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[652],{715:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"yaml","name":"yaml","count":1,"permalink":"/blog.johnnyreilly.com/tags/yaml"}')}}]);
