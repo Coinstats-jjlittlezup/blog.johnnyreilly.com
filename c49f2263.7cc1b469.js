@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[669],{732:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"andrew-davey","name":"andrew davey","count":2,"permalink":"/tags/andrew-davey"}')}}]);

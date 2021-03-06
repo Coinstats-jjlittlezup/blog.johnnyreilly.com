@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[704],{767:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"christian-heilmann-javascript-object-literal","name":"christian heilmann javascript object literal","count":1,"permalink":"/blog.johnnyreilly.com/tags/christian-heilmann-javascript-object-literal"}')}}]);

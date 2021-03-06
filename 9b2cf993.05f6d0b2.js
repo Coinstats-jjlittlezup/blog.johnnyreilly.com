@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[556],{620:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"caching","name":"caching","count":2,"permalink":"/blog.johnnyreilly.com/tags/caching"}')}}]);

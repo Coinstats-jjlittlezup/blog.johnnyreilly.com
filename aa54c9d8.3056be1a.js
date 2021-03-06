@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[607],{670:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"anti-pattern","name":"anti-pattern","count":1,"permalink":"/blog.johnnyreilly.com/tags/anti-pattern"}')}}]);

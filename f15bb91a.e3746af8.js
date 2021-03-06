@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[834],{898:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"service-worker","name":"service worker","count":1,"permalink":"/blog.johnnyreilly.com/tags/service-worker"}')}}]);

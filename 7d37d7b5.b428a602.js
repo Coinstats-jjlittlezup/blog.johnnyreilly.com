@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[447],{511:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"sql-server","name":"sql server","count":2,"permalink":"/blog.johnnyreilly.com/tags/sql-server"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[328],{387:function(i){i.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"system-web-script-serialization-java-script-serializer","name":"system.web.script.serialization.javascriptserializer","count":1,"permalink":"/blog.johnnyreilly.com/tags/system-web-script-serialization-java-script-serializer"}')}}]);

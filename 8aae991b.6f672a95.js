@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[488],{552:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"elijah-manor","name":"elijah manor","count":1,"permalink":"/blog.johnnyreilly.com/tags/elijah-manor"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[75],{133:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"compromise","name":"compromise","count":1,"permalink":"/tags/compromise"}')}}]);

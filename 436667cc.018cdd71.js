@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[241],{299:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"windows","name":"windows","count":3,"permalink":"/blog.johnnyreilly.com/tags/windows"}')}}]);

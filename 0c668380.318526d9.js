@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{106:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"union-types","name":"union types","count":1,"permalink":"/blog.johnnyreilly.com/tags/union-types"}')}}]);

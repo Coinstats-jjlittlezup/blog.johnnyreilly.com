@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[465],{529:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"code-style","name":"code style","count":1,"permalink":"/blog.johnnyreilly.com/tags/code-style"}')}}]);

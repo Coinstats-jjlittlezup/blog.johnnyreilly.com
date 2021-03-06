@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[266],{324:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"j-query-d-ts","name":"jquery.d.ts","count":1,"permalink":"/blog.johnnyreilly.com/tags/j-query-d-ts"}')}}]);

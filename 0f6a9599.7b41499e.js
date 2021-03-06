@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{116:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"second-monitor","name":"second monitor","count":1,"permalink":"/blog.johnnyreilly.com/tags/second-monitor"}')}}]);

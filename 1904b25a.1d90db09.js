@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[93],{151:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"microsoft-teams","name":"microsoft teams","count":1,"permalink":"/blog.johnnyreilly.com/tags/microsoft-teams"}')}}]);

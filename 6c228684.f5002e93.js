@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[388],{452:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"long-paths","name":"long paths","count":2,"permalink":"/blog.johnnyreilly.com/tags/long-paths"}')}}]);

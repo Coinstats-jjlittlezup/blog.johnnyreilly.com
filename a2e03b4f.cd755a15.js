@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[573],{637:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"bootstrap-datepicker","name":"bootstrap datepicker","count":1,"permalink":"/tags/bootstrap-datepicker"}')}}]);

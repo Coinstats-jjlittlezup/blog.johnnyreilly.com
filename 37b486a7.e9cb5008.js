@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[211],{269:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"callback-functions","name":"callback functions","count":1,"permalink":"/tags/callback-functions"}')}}]);

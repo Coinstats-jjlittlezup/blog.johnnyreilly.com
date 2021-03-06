@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[621],{684:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"amstrad","name":"amstrad","count":1,"permalink":"/blog.johnnyreilly.com/tags/amstrad"}')}}]);
