@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[98],{156:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"constructors","name":"constructors","count":1,"permalink":"/blog.johnnyreilly.com/tags/constructors"}')}}]);

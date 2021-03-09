@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[863],{927:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"ef-core","name":"ef core","count":1,"permalink":"/blog.johnnyreilly.com/tags/ef-core"}')}}]);

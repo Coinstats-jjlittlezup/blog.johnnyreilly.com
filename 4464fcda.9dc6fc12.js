@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[247],{305:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"option-bags","name":"option bags","count":1,"permalink":"/blog.johnnyreilly.com/tags/option-bags"}')}}]);

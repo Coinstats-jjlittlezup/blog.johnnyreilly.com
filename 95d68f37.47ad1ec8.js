@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[540],{604:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"cybersquatting","name":"cybersquatting","count":1,"permalink":"/blog.johnnyreilly.com/tags/cybersquatting"}')}}]);

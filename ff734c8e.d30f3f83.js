@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[888],{952:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"troy-hunt","name":"troy hunt","count":1,"permalink":"/blog.johnnyreilly.com/tags/troy-hunt"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[207],{265:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"semantic-versioning","name":"semantic versioning","count":2,"permalink":"/blog.johnnyreilly.com/tags/semantic-versioning"}')}}]);

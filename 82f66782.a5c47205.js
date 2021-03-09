@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[465],{529:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"binding-handler","name":"bindinghandler","count":1,"permalink":"/blog.johnnyreilly.com/tags/binding-handler"}')}}]);

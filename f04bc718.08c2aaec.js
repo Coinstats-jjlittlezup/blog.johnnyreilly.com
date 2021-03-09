@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[829],{893:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"empathy","name":"empathy","count":1,"permalink":"/blog.johnnyreilly.com/tags/empathy"}')}}]);

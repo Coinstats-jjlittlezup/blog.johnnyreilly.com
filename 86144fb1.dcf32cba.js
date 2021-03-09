@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[473],{537:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"callback-functions","name":"callback functions","count":1,"permalink":"/blog.johnnyreilly.com/tags/callback-functions"}')}}]);

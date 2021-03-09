@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[334],{393:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"feedback","name":"feedback","count":1,"permalink":"/blog.johnnyreilly.com/tags/feedback"}')}}]);

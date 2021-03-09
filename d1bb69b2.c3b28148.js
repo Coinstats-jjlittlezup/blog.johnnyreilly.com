@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[734],{798:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"react-query","name":"react-query","count":1,"permalink":"/blog.johnnyreilly.com/tags/react-query"}')}}]);

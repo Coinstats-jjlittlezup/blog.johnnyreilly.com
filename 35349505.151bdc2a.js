@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[186],{244:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"team-foundation-server","name":"team foundation server","count":1,"permalink":"/blog.johnnyreilly.com/tags/team-foundation-server"}')}}]);

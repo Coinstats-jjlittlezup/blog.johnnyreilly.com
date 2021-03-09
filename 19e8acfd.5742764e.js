@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[95],{153:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"open-xml","name":"open xml","count":1,"permalink":"/blog.johnnyreilly.com/tags/open-xml"}')}}]);

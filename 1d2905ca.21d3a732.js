@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[109],{167:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"gulpjs","name":"gulpjs","count":1,"permalink":"/blog.johnnyreilly.com/tags/gulpjs"}')}}]);

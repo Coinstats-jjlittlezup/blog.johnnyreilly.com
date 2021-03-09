@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[399],{463:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"dave-ward","name":"dave ward","count":2,"permalink":"/blog.johnnyreilly.com/tags/dave-ward"}')}}]);

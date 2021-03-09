@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[114],{172:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"scott-gu","name":"scott gu","count":1,"permalink":"/blog.johnnyreilly.com/tags/scott-gu"}')}}]);

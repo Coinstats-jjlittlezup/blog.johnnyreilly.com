@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[689],{752:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"isolated-scope","name":"isolated scope","count":1,"permalink":"/blog.johnnyreilly.com/tags/isolated-scope"}')}}]);

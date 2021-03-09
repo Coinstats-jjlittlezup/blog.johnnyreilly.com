@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[554],{618:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"entity-framework","name":"entity framework","count":3,"permalink":"/blog.johnnyreilly.com/tags/entity-framework"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[406],{470:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"knockout","name":"knockout","count":1,"permalink":"/blog.johnnyreilly.com/tags/knockout"}')}}]);

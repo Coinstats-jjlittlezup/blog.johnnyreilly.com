@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[150],{208:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"ssh","name":"ssh","count":1,"permalink":"/blog.johnnyreilly.com/tags/ssh"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[191],{249:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"react-router","name":"react-router","count":1,"permalink":"/blog.johnnyreilly.com/tags/react-router"}')}}]);

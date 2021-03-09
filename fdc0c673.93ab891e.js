@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[886],{950:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"css-3","name":"css 3","count":1,"permalink":"/blog.johnnyreilly.com/tags/css-3"}')}}]);

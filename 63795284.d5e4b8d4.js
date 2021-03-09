@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[356],{415:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"es-6","name":"es6","count":3,"permalink":"/blog.johnnyreilly.com/tags/es-6"}')}}]);

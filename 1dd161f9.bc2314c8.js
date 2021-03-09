@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[114],{172:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"kubernetes","name":"kubernetes","count":1,"permalink":"/blog.johnnyreilly.com/tags/kubernetes"}')}}]);

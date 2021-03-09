@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[725],{789:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"localisation","name":"localisation","count":1,"permalink":"/blog.johnnyreilly.com/tags/localisation"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[394],{458:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"closure","name":"closure","count":1,"permalink":"/blog.johnnyreilly.com/tags/closure"}')}}]);

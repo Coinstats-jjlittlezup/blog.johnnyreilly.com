@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[412],{476:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"application-insights","name":"application insights","count":1,"permalink":"/blog.johnnyreilly.com/tags/application-insights"}')}}]);

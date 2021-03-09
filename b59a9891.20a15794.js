@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[651],{714:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"naming-convention","name":"naming convention","count":1,"permalink":"/blog.johnnyreilly.com/tags/naming-convention"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[684],{747:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"corrupt","name":"corrupt","count":1,"permalink":"/blog.johnnyreilly.com/tags/corrupt"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[328],{387:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"compile-time-constants","name":"compile-time constants","count":1,"permalink":"/blog.johnnyreilly.com/tags/compile-time-constants"}')}}]);

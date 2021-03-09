@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[774],{838:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"headless","name":"headless","count":1,"permalink":"/blog.johnnyreilly.com/tags/headless"}')}}]);

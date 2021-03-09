@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[512],{576:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"globalize-js","name":"globalize js","count":3,"permalink":"/blog.johnnyreilly.com/tags/globalize-js"}')}}]);

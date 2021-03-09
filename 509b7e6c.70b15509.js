@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[292],{350:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"kevin-craft","name":"kevin craft","count":1,"permalink":"/blog.johnnyreilly.com/tags/kevin-craft"}')}}]);

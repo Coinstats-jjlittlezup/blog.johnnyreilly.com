@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[555],{619:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"ivan-drago","name":"ivan drago","count":1,"permalink":"/blog.johnnyreilly.com/tags/ivan-drago"}')}}]);

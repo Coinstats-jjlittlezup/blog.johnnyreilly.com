@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[736],{800:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"mocking","name":"mocking","count":1,"permalink":"/blog.johnnyreilly.com/tags/mocking"}')}}]);

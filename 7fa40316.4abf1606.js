@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[457],{521:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"url-rewrite","name":"url rewrite","count":1,"permalink":"/blog.johnnyreilly.com/tags/url-rewrite"}')}}]);

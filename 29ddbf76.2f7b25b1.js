@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[156],{214:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"nu-get","name":"nuget","count":2,"permalink":"/blog.johnnyreilly.com/tags/nu-get"}')}}]);

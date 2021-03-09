@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[344],{403:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"asp-net-web-api","name":"asp.net web api","count":1,"permalink":"/blog.johnnyreilly.com/tags/asp-net-web-api"}')}}]);

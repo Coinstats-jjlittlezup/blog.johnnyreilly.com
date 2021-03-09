@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[407],{471:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"open-source","name":"open source","count":1,"permalink":"/blog.johnnyreilly.com/tags/open-source"}')}}]);

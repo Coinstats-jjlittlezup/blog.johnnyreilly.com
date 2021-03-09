@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[128],{186:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"font-awesome","name":"font awesome","count":1,"permalink":"/blog.johnnyreilly.com/tags/font-awesome"}')}}]);

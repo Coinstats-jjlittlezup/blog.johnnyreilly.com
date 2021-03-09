@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[392],{456:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"migrating","name":"migrating","count":1,"permalink":"/blog.johnnyreilly.com/tags/migrating"}')}}]);

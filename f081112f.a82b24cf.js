@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[832],{896:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"retrospective","name":"retrospective","count":1,"permalink":"/blog.johnnyreilly.com/tags/retrospective"}')}}]);

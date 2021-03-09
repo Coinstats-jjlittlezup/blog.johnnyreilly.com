@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[384],{448:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"app-service","name":"app service","count":1,"permalink":"/blog.johnnyreilly.com/tags/app-service"}')}}]);

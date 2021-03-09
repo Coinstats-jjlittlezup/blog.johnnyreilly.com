@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[695],{758:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"emoji","name":"emoji","count":1,"permalink":"/blog.johnnyreilly.com/tags/emoji"}')}}]);

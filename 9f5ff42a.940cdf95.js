@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[570],{634:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"inheritance","name":"inheritance","count":1,"permalink":"/blog.johnnyreilly.com/tags/inheritance"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[339],{398:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"docker","name":"docker","count":2,"permalink":"/blog.johnnyreilly.com/tags/docker"}')}}]);
