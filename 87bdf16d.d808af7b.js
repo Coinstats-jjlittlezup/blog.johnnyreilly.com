@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[481],{545:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"angular-ui-bootstrap-datepicker","name":"angular ui bootstrap datepicker","count":1,"permalink":"/blog.johnnyreilly.com/tags/angular-ui-bootstrap-datepicker"}')}}]);

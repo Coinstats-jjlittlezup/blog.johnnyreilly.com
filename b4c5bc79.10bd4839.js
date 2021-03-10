@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[647],{710:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"require-js","name":"requirejs","count":3,"permalink":"/blog.johnnyreilly.com/tags/require-js"}')}}]);

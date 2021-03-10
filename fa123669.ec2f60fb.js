@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[876],{940:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"andrew-davey","name":"andrew davey","count":2,"permalink":"/blog.johnnyreilly.com/tags/andrew-davey"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[411],{475:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"decimal","name":"decimal","count":1,"permalink":"/blog.johnnyreilly.com/tags/decimal"}')}}]);

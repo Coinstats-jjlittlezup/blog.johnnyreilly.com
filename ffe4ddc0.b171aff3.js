@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[898],{962:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"windows-defender","name":"windows defender","count":1,"permalink":"/blog.johnnyreilly.com/tags/windows-defender"}')}}]);

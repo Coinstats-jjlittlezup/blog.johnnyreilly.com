@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[817],{881:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"learning","name":"learning","count":1,"permalink":"/blog.johnnyreilly.com/tags/learning"}')}}]);

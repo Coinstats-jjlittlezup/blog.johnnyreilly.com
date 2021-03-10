@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[867],{931:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"azure","name":"azure","count":2,"permalink":"/blog.johnnyreilly.com/tags/azure"}')}}]);

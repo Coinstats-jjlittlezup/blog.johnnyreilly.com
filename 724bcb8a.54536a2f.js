@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[412],{476:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"cassette","name":"cassette","count":4,"permalink":"/blog.johnnyreilly.com/tags/cassette"}')}}]);

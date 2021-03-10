@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[273],{331:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"j-query-validate-js","name":"jquery.validate.js","count":1,"permalink":"/blog.johnnyreilly.com/tags/j-query-validate-js"}')}}]);

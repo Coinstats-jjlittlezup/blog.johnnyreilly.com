@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[360],{419:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"performance","name":"performance","count":1,"permalink":"/blog.johnnyreilly.com/tags/performance"}')}}]);

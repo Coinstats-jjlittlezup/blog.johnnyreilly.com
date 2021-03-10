@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[809],{873:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"database-snapshots","name":"database snapshots","count":1,"permalink":"/blog.johnnyreilly.com/tags/database-snapshots"}')}}]);

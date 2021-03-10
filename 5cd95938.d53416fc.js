@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[333],{392:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"encosia","name":"encosia","count":2,"permalink":"/blog.johnnyreilly.com/tags/encosia"}')}}]);

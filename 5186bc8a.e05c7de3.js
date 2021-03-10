@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[296],{354:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"mild-trolling","name":"mild trolling","count":1,"permalink":"/blog.johnnyreilly.com/tags/mild-trolling"}')}}]);

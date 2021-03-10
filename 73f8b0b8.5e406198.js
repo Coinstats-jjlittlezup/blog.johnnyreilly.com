@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[418],{482:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"richard-d-worth","name":"richard d. worth","count":1,"permalink":"/blog.johnnyreilly.com/tags/richard-d-worth"}')}}]);

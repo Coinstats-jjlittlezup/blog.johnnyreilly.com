@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[459],{523:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"jqlite","name":"jqlite","count":1,"permalink":"/blog.johnnyreilly.com/tags/jqlite"}')}}]);

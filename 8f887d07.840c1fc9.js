@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[517],{581:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"globalization","name":"globalization","count":3,"permalink":"/blog.johnnyreilly.com/tags/globalization"}')}}]);

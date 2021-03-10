@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[458],{522:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"service-authorization-manager","name":"serviceauthorizationmanager","count":1,"permalink":"/blog.johnnyreilly.com/tags/service-authorization-manager"}')}}]);

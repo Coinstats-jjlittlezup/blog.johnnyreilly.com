@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://johnnyreilly.github.io/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 06 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Managed Identity, Azure SQL and Entity Framework]]></title>
+            <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/03/10/managed-identity-azure-sql-entity-framework</link>
+            <guid>Managed Identity, Azure SQL and Entity Framework</guid>
+            <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Managed Identity offers a very secure way for applications running in Azure to connect to Azure SQL databases. It's an approach that does not require code changes; merely configuration of connection string and associated resources. Hence it has a good developer experience. Importantly, it allows us to avoid exposing our database to username / password authentication, and hence making it a tougher target for bad actors.]]></description>
+        </item>
         <item>
             <title><![CDATA[Generate TypeScript and CSharp clients with NSwag based on an API]]></title>
             <link>https://johnnyreilly.github.io/blog.johnnyreilly.com/2021/03/06/generate-typescript-and-csharp-clients-with-nswag</link>

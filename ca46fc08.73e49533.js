@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[710],{773:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"reflection","name":"reflection","count":1,"permalink":"/blog.johnnyreilly.com/tags/reflection"}')}}]);

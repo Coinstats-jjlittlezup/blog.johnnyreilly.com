@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[596],{659:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"react-dropzone","name":"react dropzone","count":1,"permalink":"/blog.johnnyreilly.com/tags/react-dropzone"}')}}]);

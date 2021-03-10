@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[347],{406:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"o-data","name":"odata","count":1,"permalink":"/blog.johnnyreilly.com/tags/o-data"}')}}]);

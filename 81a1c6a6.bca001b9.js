@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[464],{528:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"code-first-migrations","name":"code first migrations","count":1,"permalink":"/blog.johnnyreilly.com/tags/code-first-migrations"}')}}]);

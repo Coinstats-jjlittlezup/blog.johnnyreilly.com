@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[711],{774:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"observer-pattern","name":"observer pattern","count":1,"permalink":"/blog.johnnyreilly.com/tags/observer-pattern"}')}}]);

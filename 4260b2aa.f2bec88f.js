@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[237],{295:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"js-lint","name":"jslint","count":1,"permalink":"/blog.johnnyreilly.com/tags/js-lint"}')}}]);

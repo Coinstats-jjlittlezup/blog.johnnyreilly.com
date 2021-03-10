@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[729],{793:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"xsd-xml-schema-generator","name":"xsd/xml schema generator","count":1,"permalink":"/blog.johnnyreilly.com/tags/xsd-xml-schema-generator"}')}}]);

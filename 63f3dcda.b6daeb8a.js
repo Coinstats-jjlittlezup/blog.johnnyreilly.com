@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[359],{418:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"wcf-data-services","name":"wcf data services","count":1,"permalink":"/blog.johnnyreilly.com/tags/wcf-data-services"}')}}]);

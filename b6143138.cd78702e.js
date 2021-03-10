@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[655],{718:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"surface-pro-3","name":"surface pro 3","count":1,"permalink":"/blog.johnnyreilly.com/tags/surface-pro-3"}')}}]);

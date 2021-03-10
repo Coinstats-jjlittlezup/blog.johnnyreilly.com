@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[327],{386:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"asp-net-mvc","name":"asp.net mvc","count":11,"permalink":"/blog.johnnyreilly.com/tags/asp-net-mvc"}')}}]);

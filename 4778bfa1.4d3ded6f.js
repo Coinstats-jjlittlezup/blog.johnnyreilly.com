@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[256],{314:function(o){o.exports=JSON.parse('{"permalink":"/blog.johnnyreilly.com/page/21","page":21,"postsPerPage":10,"totalPages":22,"totalCount":214,"previousPage":"/blog.johnnyreilly.com/page/20","nextPage":"/blog.johnnyreilly.com/page/22","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

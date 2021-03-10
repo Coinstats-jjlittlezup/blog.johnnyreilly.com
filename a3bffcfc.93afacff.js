@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[587],{651:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"hot-towel","name":"hottowel","count":1,"permalink":"/blog.johnnyreilly.com/tags/hot-towel"}')}}]);
