@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[437],{502:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"azure-pipelines","name":"azure pipelines","count":2,"permalink":"/tags/azure-pipelines"}')}}]);

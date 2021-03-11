@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[550],{615:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"wiredep","name":"wiredep","count":1,"permalink":"/tags/wiredep"}')}}]);

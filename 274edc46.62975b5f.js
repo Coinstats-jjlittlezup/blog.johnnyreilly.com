@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[152],{211:function(p){p.exports=JSON.parse('{"allTagsPath":"/tags","slug":"gulp","name":"gulp","count":1,"permalink":"/tags/gulp"}')}}]);
