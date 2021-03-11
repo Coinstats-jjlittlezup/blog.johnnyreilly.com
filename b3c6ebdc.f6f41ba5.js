@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[643],{706:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"vsts","name":"vsts","count":2,"permalink":"/blog.johnnyreilly.com/tags/vsts"}')}}]);

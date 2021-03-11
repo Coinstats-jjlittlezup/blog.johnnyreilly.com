@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{125:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"single-page-applications","name":"single page applications","count":1,"permalink":"/blog.johnnyreilly.com/tags/single-page-applications"}')}}]);

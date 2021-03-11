@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[334],{393:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"whitelist","name":"whitelist","count":1,"permalink":"/blog.johnnyreilly.com/tags/whitelist"}')}}]);

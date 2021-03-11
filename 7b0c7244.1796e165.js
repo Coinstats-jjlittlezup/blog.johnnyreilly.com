@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[444],{508:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"dojo","name":"dojo","count":1,"permalink":"/blog.johnnyreilly.com/tags/dojo"}')}}]);

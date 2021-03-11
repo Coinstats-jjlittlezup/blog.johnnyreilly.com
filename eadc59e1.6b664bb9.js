@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[824],{889:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"tslint","name":"tslint","count":1,"permalink":"/blog.johnnyreilly.com/tags/tslint"}')}}]);

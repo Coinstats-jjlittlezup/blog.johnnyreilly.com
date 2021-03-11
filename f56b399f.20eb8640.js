@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[853],{918:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"microsoft-data-sql-client","name":"microsoft.data.sqlclient","count":1,"permalink":"/blog.johnnyreilly.com/tags/microsoft-data-sql-client"}')}}]);

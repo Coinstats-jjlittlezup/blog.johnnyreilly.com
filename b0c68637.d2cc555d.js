@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[633],{697:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"datagrid","name":"datagrid","count":1,"permalink":"/blog.johnnyreilly.com/tags/datagrid"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{79:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"date-time","name":"datetime","count":2,"permalink":"/blog.johnnyreilly.com/tags/date-time"}')}}]);

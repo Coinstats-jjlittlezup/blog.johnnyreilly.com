@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[631],{695:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"wcf","name":"wcf","count":3,"permalink":"/blog.johnnyreilly.com/tags/wcf"}')}}]);

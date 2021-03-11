@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[318],{377:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"navigation-animation","name":"navigation animation","count":1,"permalink":"/blog.johnnyreilly.com/tags/navigation-animation"}')}}]);

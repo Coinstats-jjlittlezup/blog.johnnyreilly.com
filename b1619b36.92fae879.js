@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[634],{697:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"powershell","name":"powershell","count":4,"permalink":"/blog.johnnyreilly.com/tags/powershell"}')}}]);

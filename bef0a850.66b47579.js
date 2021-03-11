@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[676],{739:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"dot-net-core","name":"dot net core","count":1,"permalink":"/blog.johnnyreilly.com/tags/dot-net-core"}')}}]);

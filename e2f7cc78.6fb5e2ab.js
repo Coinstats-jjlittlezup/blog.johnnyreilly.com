@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[796],{860:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"partial-view","name":"partialview","count":3,"permalink":"/blog.johnnyreilly.com/tags/partial-view"}')}}]);

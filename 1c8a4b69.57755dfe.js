@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[103],{161:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"chutzpah","name":"chutzpah","count":2,"permalink":"/blog.johnnyreilly.com/tags/chutzpah"}')}}]);

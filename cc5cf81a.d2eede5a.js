@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[721],{785:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"instance-methods","name":"instance methods","count":1,"permalink":"/blog.johnnyreilly.com/tags/instance-methods"}')}}]);

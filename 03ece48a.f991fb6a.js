@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{77:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"angular-js","name":"angularjs","count":9,"permalink":"/blog.johnnyreilly.com/tags/angular-js"}')}}]);

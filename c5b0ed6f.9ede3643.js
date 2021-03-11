@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[693],{757:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"modernizr","name":"modernizr","count":1,"permalink":"/blog.johnnyreilly.com/tags/modernizr"}')}}]);

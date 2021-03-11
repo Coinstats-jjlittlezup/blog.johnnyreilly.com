@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[270],{329:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"docking-station","name":"docking station","count":1,"permalink":"/blog.johnnyreilly.com/tags/docking-station"}')}}]);

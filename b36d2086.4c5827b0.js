@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[641],{704:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"compromise","name":"compromise","count":1,"permalink":"/blog.johnnyreilly.com/tags/compromise"}')}}]);

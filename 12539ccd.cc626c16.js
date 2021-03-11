@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{127:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"jquery-validate-unobtrusive-js","name":"jquery.validate.unobtrusive.js","count":1,"permalink":"/blog.johnnyreilly.com/tags/jquery-validate-unobtrusive-js"}')}}]);

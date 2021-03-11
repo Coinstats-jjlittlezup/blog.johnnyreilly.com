@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[480],{544:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"implicit-references","name":"implicit references","count":2,"permalink":"/blog.johnnyreilly.com/tags/implicit-references"}')}}]);

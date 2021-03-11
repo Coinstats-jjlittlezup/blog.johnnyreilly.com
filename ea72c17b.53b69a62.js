@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[823],{888:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"j-query-validation-unobtrusive-native","name":"jquery.validation.unobtrusive.native","count":1,"permalink":"/blog.johnnyreilly.com/tags/j-query-validation-unobtrusive-native"}')}}]);

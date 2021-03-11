@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[748],{812:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"browserify","name":"browserify","count":1,"permalink":"/blog.johnnyreilly.com/tags/browserify"}')}}]);

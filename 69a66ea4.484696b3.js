@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[382],{447:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"node-js","name":"node.js","count":1,"permalink":"/blog.johnnyreilly.com/tags/node-js"}')}}]);

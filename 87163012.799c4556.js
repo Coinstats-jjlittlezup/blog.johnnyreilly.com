@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[479],{544:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"linq-to-xml","name":"linq to xml","count":1,"permalink":"/blog.johnnyreilly.com/tags/linq-to-xml"}')}}]);

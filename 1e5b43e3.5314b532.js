@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[117],{175:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"css-animation","name":"css animation","count":1,"permalink":"/blog.johnnyreilly.com/tags/css-animation"}')}}]);

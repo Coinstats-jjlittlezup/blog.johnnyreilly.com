@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[888],{952:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"aws","name":"aws","count":1,"permalink":"/blog.johnnyreilly.com/tags/aws"}')}}]);

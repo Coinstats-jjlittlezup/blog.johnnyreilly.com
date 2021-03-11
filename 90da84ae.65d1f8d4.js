@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[525],{589:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"ui-bootstrap","name":"ui bootstrap","count":1,"permalink":"/blog.johnnyreilly.com/tags/ui-bootstrap"}')}}]);

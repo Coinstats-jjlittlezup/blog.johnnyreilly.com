@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[529],{593:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"amd","name":"amd","count":2,"permalink":"/blog.johnnyreilly.com/tags/amd"}')}}]);

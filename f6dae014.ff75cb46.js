@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[860],{925:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"douglas-crockford","name":"douglas crockford","count":3,"permalink":"/blog.johnnyreilly.com/tags/douglas-crockford"}')}}]);

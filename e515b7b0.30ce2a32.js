@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[803],{867:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"data-annotations","name":"dataannotations","count":2,"permalink":"/blog.johnnyreilly.com/tags/data-annotations"}')}}]);

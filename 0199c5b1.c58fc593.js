@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{68:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"cross-env","name":"cross-env","count":1,"permalink":"/blog.johnnyreilly.com/tags/cross-env"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[457],{522:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"definitely-typed","name":"definitely typed","count":7,"permalink":"/blog.johnnyreilly.com/tags/definitely-typed"}')}}]);

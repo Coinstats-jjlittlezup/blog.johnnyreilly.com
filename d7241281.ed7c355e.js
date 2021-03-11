@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[755],{819:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"sward","name":"sward","count":1,"permalink":"/blog.johnnyreilly.com/tags/sward"}')}}]);

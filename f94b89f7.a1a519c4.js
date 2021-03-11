@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[876],{940:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"model-binder","name":"modelbinder","count":1,"permalink":"/blog.johnnyreilly.com/tags/model-binder"}')}}]);

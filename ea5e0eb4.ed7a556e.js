@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[822],{886:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"pubsub","name":"pubsub","count":1,"permalink":"/blog.johnnyreilly.com/tags/pubsub"}')}}]);

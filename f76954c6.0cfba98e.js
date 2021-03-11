@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[864],{929:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"dead-code-elimination","name":"dead code elimination","count":1,"permalink":"/blog.johnnyreilly.com/tags/dead-code-elimination"}')}}]);

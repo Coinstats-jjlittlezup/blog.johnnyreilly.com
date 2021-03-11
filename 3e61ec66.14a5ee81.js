@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[223],{282:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"emmett-brown","name":"emmett brown","count":1,"permalink":"/blog.johnnyreilly.com/tags/emmett-brown"}')}}]);

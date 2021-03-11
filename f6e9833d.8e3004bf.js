@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[863],{927:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"stub-data","name":"stub data","count":1,"permalink":"/blog.johnnyreilly.com/tags/stub-data"}')}}]);
