@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[145],{204:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"web-optimization","name":"web optimization","count":2,"permalink":"/tags/web-optimization"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[283],{342:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"marc-talary","name":"marc talary","count":1,"permalink":"/blog.johnnyreilly.com/tags/marc-talary"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[782],{847:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"asp-net-core","name":"asp.net core","count":8,"permalink":"/blog.johnnyreilly.com/tags/asp-net-core"}')}}]);

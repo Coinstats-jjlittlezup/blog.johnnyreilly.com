@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[814],{879:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"large-lists","name":"large lists","count":1,"permalink":"/blog.johnnyreilly.com/tags/large-lists"}')}}]);

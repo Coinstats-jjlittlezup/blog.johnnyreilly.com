@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[713],{777:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"stateless-functional-components","name":"stateless functional components","count":1,"permalink":"/blog.johnnyreilly.com/tags/stateless-functional-components"}')}}]);

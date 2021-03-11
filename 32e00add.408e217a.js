@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[194],{253:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"m-de-leon","name":"mdeleon","count":1,"permalink":"/tags/m-de-leon"}')}}]);

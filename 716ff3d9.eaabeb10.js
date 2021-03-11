@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[409],{474:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"git-hub-personal-access-token","name":"github personal access token","count":1,"permalink":"/blog.johnnyreilly.com/tags/git-hub-personal-access-token"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[819],{884:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"gulp-inject","name":"gulp-inject","count":1,"permalink":"/blog.johnnyreilly.com/tags/gulp-inject"}')}}]);

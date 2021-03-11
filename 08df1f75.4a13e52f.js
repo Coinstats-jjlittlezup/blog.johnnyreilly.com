@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{94:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"vs-code","name":"vs code","count":3,"permalink":"/blog.johnnyreilly.com/tags/vs-code"}')}}]);

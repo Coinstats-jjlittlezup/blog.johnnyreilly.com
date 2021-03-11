@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{92:function(i){i.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"mitm-certificate","name":"mitm certificate","count":1,"permalink":"/blog.johnnyreilly.com/tags/mitm-certificate"}')}}]);

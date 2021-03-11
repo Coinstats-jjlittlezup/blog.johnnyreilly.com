@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[727],{792:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"visual-studio-2012","name":"visual studio 2012","count":1,"permalink":"/blog.johnnyreilly.com/tags/visual-studio-2012"}')}}]);

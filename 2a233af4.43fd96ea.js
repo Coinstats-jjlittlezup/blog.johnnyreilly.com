@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[157],{216:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"closed-xml","name":"closedxml","count":1,"permalink":"/blog.johnnyreilly.com/tags/closed-xml"}')}}]);

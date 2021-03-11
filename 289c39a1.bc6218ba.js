@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[148],{207:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"uglifyjs","name":"uglifyjs","count":1,"permalink":"/blog.johnnyreilly.com/tags/uglifyjs"}')}}]);

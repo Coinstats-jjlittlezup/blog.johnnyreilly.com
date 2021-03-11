@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[298],{357:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"no-postback","name":"no postback","count":1,"permalink":"/blog.johnnyreilly.com/tags/no-postback"}')}}]);

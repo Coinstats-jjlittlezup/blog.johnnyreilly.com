@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[304],{363:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"intranet","name":"intranet","count":1,"permalink":"/blog.johnnyreilly.com/tags/intranet"}')}}]);

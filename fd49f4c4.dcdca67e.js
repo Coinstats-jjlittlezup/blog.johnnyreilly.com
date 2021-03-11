@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[894],{959:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"j-query-validation","name":"jquery validation","count":4,"permalink":"/tags/j-query-validation"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[666],{730:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"web-optimization","name":"web optimization","count":2,"permalink":"/blog.johnnyreilly.com/tags/web-optimization"}')}}]);

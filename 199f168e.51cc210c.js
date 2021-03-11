@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[105],{164:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dynamic-import","name":"dynamic import","count":1,"permalink":"/tags/dynamic-import"}')}}]);

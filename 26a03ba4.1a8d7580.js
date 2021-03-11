@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[149],{208:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"serialization","name":"serialization","count":1,"permalink":"/tags/serialization"}')}}]);

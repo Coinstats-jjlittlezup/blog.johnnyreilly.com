@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[699],{763:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"web-sockets","name":"websockets","count":1,"permalink":"/blog.johnnyreilly.com/tags/web-sockets"}')}}]);

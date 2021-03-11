@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[344],{404:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"xsd-exe","name":"xsd.exe","count":1,"permalink":"/blog.johnnyreilly.com/tags/xsd-exe"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[667],{731:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"build-definition-name","name":"builddefinitionname","count":1,"permalink":"/blog.johnnyreilly.com/tags/build-definition-name"}')}}]);

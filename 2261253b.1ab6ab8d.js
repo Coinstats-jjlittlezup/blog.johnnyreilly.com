@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[128],{187:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"destructuring","name":"destructuring","count":1,"permalink":"/blog.johnnyreilly.com/tags/destructuring"}')}}]);

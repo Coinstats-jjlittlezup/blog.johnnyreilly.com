@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[536],{601:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"serilog","name":"serilog","count":1,"permalink":"/blog.johnnyreilly.com/tags/serilog"}')}}]);

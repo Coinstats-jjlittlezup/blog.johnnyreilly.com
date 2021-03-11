@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[85],{144:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"fast-builds","name":"fast builds","count":1,"permalink":"/blog.johnnyreilly.com/tags/fast-builds"}')}}]);

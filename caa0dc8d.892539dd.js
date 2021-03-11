@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[715],{779:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"sebastian-markbage","name":"sebastian markb\xe5ge","count":1,"permalink":"/blog.johnnyreilly.com/tags/sebastian-markbage"}')}}]);

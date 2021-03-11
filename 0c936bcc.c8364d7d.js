@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{108:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"wu-tang","name":"wu-tang","count":1,"permalink":"/blog.johnnyreilly.com/tags/wu-tang"}')}}]);

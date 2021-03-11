@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{123:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog.johnnyreilly.com/tags","slug":"crm-4-0","name":"crm 4.0","count":1,"permalink":"/blog.johnnyreilly.com/tags/crm-4-0"}')}}]);
