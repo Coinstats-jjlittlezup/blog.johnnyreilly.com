@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[458],{518:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"nathan-vonnahme","name":"nathan vonnahme","count":1,"permalink":"/tags/nathan-vonnahme"}')}}]);

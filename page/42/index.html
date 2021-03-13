@@ -8,16 +8,16 @@
 <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="I CAN MAKE THIS WORK Blog Atom Feed">
 <link rel="preconnect" href="https://www.google-analytics.com">
 <script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","UA-51754530-2","auto"),ga("set","anonymizeIp",!0),ga("send","pageview")</script>
-<script async src="https://www.google-analytics.com/analytics.js"></script><title data-react-helmet="true">Blog | I CAN MAKE THIS WORK</title><meta data-react-helmet="true" property="og:title" content="Blog | I CAN MAKE THIS WORK"><meta data-react-helmet="true" name="description" content="Blog"><meta data-react-helmet="true" property="og:description" content="Blog"><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_tag" content="default"><link data-react-helmet="true" rel="shortcut icon" href="/img/favicon.ico"><link rel="stylesheet" href="/styles.a30a8c8e.css">
-<link rel="preload" href="/styles.9c2995a9.js" as="script">
-<link rel="preload" href="/runtime~main.e2b992e5.js" as="script">
-<link rel="preload" href="/main.9ec81549.js" as="script">
+<script async src="https://www.google-analytics.com/analytics.js"></script><title data-react-helmet="true">Blog | I CAN MAKE THIS WORK</title><meta data-react-helmet="true" property="og:title" content="Blog | I CAN MAKE THIS WORK"><meta data-react-helmet="true" name="description" content="Blog"><meta data-react-helmet="true" property="og:description" content="Blog"><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_tag" content="default"><link data-react-helmet="true" rel="shortcut icon" href="/img/favicon.ico"><link rel="stylesheet" href="/styles.cc9f3fb7.css">
+<link rel="preload" href="/styles.f8cbd7ed.js" as="script">
+<link rel="preload" href="/runtime~main.9d913733.js" as="script">
+<link rel="preload" href="/main.b39d16fe.js" as="script">
 <link rel="preload" href="/1.9d1369a3.js" as="script">
-<link rel="preload" href="/2.3dd236d5.js" as="script">
+<link rel="preload" href="/2.b8669f88.js" as="script">
 <link rel="preload" href="/a6aa9e1f.6c8d1a94.js" as="script">
 <link rel="preload" href="/c3b5bd8c.0459a1fb.js" as="script">
 <link rel="preload" href="/f7dab29d.6e74b804.js" as="script">
-<link rel="preload" href="/70275fcd.f424bf28.js" as="script">
+<link rel="preload" href="/70275fcd.bacb163e.js" as="script">
 </head>
 <body>
 <script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"light")}()</script><div id="__docusaurus">
@@ -27,14 +27,14 @@
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        public DevelopmentModeAuthenticationHandler(</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            IOptionsMonitor&lt;DevelopmentModeAuthenticationOptions&gt; options,</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            ILoggerFactory logger,</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            UrlEncoder encoder,</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            ISystemClock clock</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        ) : base(options, logger, encoder, clock) {</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        }</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        protected override Task&lt;AuthenticateResult&gt; HandleAuthenticateAsync() {</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            var claims = new List&lt;Claim&gt; { new Claim(&quot;our-user-id&quot;, Options.UserIdToSetInClaims) };</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            var identity = new ClaimsIdentity(claims, nameof(DevelopmentModeAuthenticationHandler));</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            var ticket = new AuthenticationTicket(new ClaimsPrincipal(identity), Scheme.Name);</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">            return Task.FromResult(AuthenticateResult.Success(ticket));</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        }</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">    }</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">}</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_2GIj">Copy</button></div></div><p>Now, developing locally is frictionless! We don&#x27;t comment out <code>[Authorize]</code> attributes, we don&#x27;t hard code user ids in controllers.</p></section><footer class="row margin-vert--lg"><div class="col"><strong>Tags:</strong><a class="margin-horiz--sm" href="/tags/asp-net-core">ASP.Net Core</a><a class="margin-horiz--sm" href="/tags/authentication">Authentication</a></div></footer></article><nav class="pagination-nav" aria-label="Blog list page navigation"><div class="pagination-nav__item"><a class="pagination-nav__link" href="/page/41"><div class="pagination-nav__label">« Newer Entries</div></a></div><div class="pagination-nav__item pagination-nav__item--next"><a class="pagination-nav__link" href="/page/43"><div class="pagination-nav__label">Older Entries »</div></a></div></nav></main></div></div></div><footer class="footer footer--dark"><div class="container"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2021 John Reilly. Built with Docusaurus.</div></div></div></footer></div>
-<script src="/styles.9c2995a9.js"></script>
-<script src="/runtime~main.e2b992e5.js"></script>
-<script src="/main.9ec81549.js"></script>
+<script src="/styles.f8cbd7ed.js"></script>
+<script src="/runtime~main.9d913733.js"></script>
+<script src="/main.b39d16fe.js"></script>
 <script src="/1.9d1369a3.js"></script>
-<script src="/2.3dd236d5.js"></script>
+<script src="/2.b8669f88.js"></script>
 <script src="/a6aa9e1f.6c8d1a94.js"></script>
 <script src="/c3b5bd8c.0459a1fb.js"></script>
 <script src="/f7dab29d.6e74b804.js"></script>
-<script src="/70275fcd.f424bf28.js"></script>
+<script src="/70275fcd.bacb163e.js"></script>
 </body>
 </html>

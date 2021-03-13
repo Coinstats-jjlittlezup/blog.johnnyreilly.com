@@ -988,11 +988,11 @@
         <summary type="html"><![CDATA[(Coded UI, IE 11 and the "runas" problem)]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I learned to stop worrying and love the Task Runner Explorer]]></title>
-        <id>How I learned to stop worrying and love the Task Runner Explorer</id>
+        <title type="html"><![CDATA[Using Gulp in Visual Studio instead of Web Optimization]]></title>
+        <id>Using Gulp in Visual Studio instead of Web Optimization</id>
         <link href="https://johnnyreilly.github.io/2014/11/04/using-gulp-in-visual-studio-instead-of-web-optimization"/>
         <updated>2014-11-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(Using Gulp in Visual Studio instead of Web Optimization)]]></summary>
+        <summary type="html"><![CDATA[Update 17/02/2015: I've taken the approach discussed in this post a little further - you can see here]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Caching and Cache-Busting in AngularJS with HTTP interceptors]]></title>
