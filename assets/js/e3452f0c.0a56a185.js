@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[966],{1053:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"task-runner-explorer","name":"task runner explorer","count":1,"permalink":"/tags/task-runner-explorer"}')}}]);

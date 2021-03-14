@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[965],{1052:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"implicit-references","name":"implicit references","count":2,"permalink":"/tags/implicit-references"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[590],{656:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"anton-kovalyov","name":"anton kovalyov","count":1,"permalink":"/tags/anton-kovalyov"}')}}]);

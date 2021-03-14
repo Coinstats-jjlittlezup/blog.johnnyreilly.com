@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[731],{796:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"windows-service","name":"windows service","count":1,"permalink":"/tags/windows-service"}')}}]);
