@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[992],{1057:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"no-postback","name":"no postback","count":1,"permalink":"/tags/no-postback"}')}}]);

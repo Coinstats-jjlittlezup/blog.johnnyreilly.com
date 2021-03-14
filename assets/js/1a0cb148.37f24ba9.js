@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[124],{185:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"o-auth","name":"oauth","count":1,"permalink":"/tags/o-auth"}')}}]);

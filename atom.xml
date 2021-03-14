@@ -498,8 +498,8 @@
         <summary type="html"><![CDATA[webpack 4 has shipped!]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[finding webpack 4 (use a Map)]]></title>
-        <id>finding webpack 4 (use a Map)</id>
+        <title type="html"><![CDATA[Finding webpack 4 (use a Map)]]></title>
+        <id>Finding webpack 4 (use a Map)</id>
         <link href="https://johnnyreilly.github.io/2018/01/29/finding-webpack-4-use-map"/>
         <updated>2018-01-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Update: 03/02/2018]]></summary>
