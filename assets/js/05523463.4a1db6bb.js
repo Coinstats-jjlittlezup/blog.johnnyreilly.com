@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{304:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"use-queries","name":"usequeries","count":1,"permalink":"/tags/use-queries"}')}}]);

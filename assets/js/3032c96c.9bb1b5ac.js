@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[211],{447:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"defineplugin","name":"defineplugin","count":1,"permalink":"/tags/defineplugin"}')}}]);

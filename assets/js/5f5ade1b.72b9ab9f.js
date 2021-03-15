@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[420],{611:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"die-hard","name":"die hard","count":1,"permalink":"/tags/die-hard"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[184],{426:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"jquery-remote-validation","name":"jquery remote validation","count":1,"permalink":"/tags/jquery-remote-validation"}')}}]);

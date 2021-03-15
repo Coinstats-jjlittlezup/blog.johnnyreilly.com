@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1006],{1086:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"open-source","name":"open source","count":1,"permalink":"/tags/open-source"}')}}]);

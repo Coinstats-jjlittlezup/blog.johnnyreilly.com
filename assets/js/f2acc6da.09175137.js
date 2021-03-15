@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1042],{1120:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"navigation-animation","name":"navigation animation","count":1,"permalink":"/tags/navigation-animation"}')}}]);

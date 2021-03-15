@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[990],{1075:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"autofac","name":"autofac","count":2,"permalink":"/tags/autofac"}')}}]);

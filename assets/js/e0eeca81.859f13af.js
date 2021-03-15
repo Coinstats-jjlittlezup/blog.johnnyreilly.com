@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[961],{1048:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"whitelist","name":"whitelist","count":1,"permalink":"/tags/whitelist"}')}}]);
