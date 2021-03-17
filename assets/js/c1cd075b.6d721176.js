@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[819],{928:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"fade-in","name":"fadein","count":1,"permalink":"/tags/fade-in"}')}}]);

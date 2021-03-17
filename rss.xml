@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Mon, 15 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RSS update; we moved to Docusaurus]]></title>
+            <link>https://blog.johnnyreilly.com/2021/03/17/rss-update-we-moved-to-docusaurus</link>
+            <guid>RSS update; we moved to Docusaurus</guid>
+            <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[My blog lived happily on Blogger for the past decade.  It's now built with Docusaurus and hosted on GitHub Pages. To understand the why, read my last post. This post serves purely to share details of feed updates for RSS / Atom subscribers.]]></description>
+        </item>
         <item>
             <title><![CDATA[From Blogger to Docusaurus]]></title>
             <link>https://blog.johnnyreilly.com/2021/03/15/from-blogger-to-docusaurus</link>
