@@ -8,8 +8,8 @@
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Bicep in Azure Pipelines]]></title>
-        <id>Bicep in Azure Pipelines</id>
+        <title type="html"><![CDATA[Bicep meet Azure Pipelines]]></title>
+        <id>Bicep meet Azure Pipelines</id>
         <link href="https://blog.johnnyreilly.com/2021/03/20/bicep-meet-azure-pipelines"/>
         <updated>2021-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bicep is a terser and more readable alternative language to ARM templates. Running ARM templates in Azure Pipelines is straightforward. However, there isn't yet a first class experience for running Bicep in Azure Pipelines. This post demonstrates an approach that can be used until a Bicep task is available.]]></summary>
