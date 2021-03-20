@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[126],{380:function(i){i.exports=JSON.parse('{"allTagsPath":"/tags","slug":"minification","name":"minification","count":1,"permalink":"/tags/minification"}')}}]);

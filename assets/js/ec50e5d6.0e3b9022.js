@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1017],{1097:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"datagrid","name":"datagrid","count":1,"permalink":"/tags/datagrid"}')}}]);

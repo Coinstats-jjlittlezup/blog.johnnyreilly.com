@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[573],{738:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"definitely-typed","name":"definitely typed","count":7,"permalink":"/tags/definitely-typed"}')}}]);

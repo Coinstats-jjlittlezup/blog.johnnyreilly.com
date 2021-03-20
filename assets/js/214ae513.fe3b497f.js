@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[153],{403:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"data-annotations","name":"dataannotations","count":2,"permalink":"/tags/data-annotations"}')}}]);

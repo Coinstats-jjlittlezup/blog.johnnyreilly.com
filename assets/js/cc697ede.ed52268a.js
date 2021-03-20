@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[875],{975:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dot-net-core","name":"dot net core","count":1,"permalink":"/tags/dot-net-core"}')}}]);

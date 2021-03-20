@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1051],{1129:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tsconfig-json","name":"tsconfig.json","count":3,"permalink":"/tags/tsconfig-json"}')}}]);

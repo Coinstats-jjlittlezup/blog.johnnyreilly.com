@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[99],{360:function(p){p.exports=JSON.parse('{"allTagsPath":"/tags","slug":"delphi","name":"delphi","count":1,"permalink":"/tags/delphi"}')}}]);

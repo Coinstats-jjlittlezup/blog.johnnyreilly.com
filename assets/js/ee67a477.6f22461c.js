@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1027],{1106:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tfs","name":"tfs","count":3,"permalink":"/tags/tfs"}')}}]);
