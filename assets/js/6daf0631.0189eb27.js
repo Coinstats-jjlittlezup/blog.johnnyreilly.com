@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[495],{678:function(e){e.exports=JSON.parse('{"permalink":"/page/154","page":154,"postsPerPage":1,"totalPages":218,"totalCount":218,"previousPage":"/page/153","nextPage":"/page/155","blogDescription":"The blog of johnnyreilly","blogTitle":"I CAN MAKE THIS WORK"}')}}]);

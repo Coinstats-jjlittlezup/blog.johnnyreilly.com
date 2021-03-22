@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[792],{909:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"jqlite","name":"jqlite","count":1,"permalink":"/tags/jqlite"}')}}]);

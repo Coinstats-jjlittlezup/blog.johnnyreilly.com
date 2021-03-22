@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[160],{413:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"entity-framework","name":"entity framework","count":4,"permalink":"/tags/entity-framework"}')}}]);

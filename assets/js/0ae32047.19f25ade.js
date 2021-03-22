@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{325:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"moment-js","name":"moment.js","count":1,"permalink":"/tags/moment-js"}')}}]);

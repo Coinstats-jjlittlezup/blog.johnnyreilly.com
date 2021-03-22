@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[442],{632:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"linq-to-xml","name":"linq to xml","count":1,"permalink":"/tags/linq-to-xml"}')}}]);
