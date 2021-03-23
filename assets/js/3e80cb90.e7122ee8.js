@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[277],{505:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"project-references","name":"project references","count":1,"permalink":"/tags/project-references"}')}}]);

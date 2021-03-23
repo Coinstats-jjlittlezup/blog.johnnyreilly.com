@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[675],{822:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ui-bootstrap","name":"ui bootstrap","count":1,"permalink":"/tags/ui-bootstrap"}')}}]);

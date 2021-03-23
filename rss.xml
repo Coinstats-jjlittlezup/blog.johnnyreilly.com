@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 20 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bicep meet Azure Pipelines 2]]></title>
+            <link>https://blog.johnnyreilly.com/2021/03/23/bicep-meet-azure-pipelines-2</link>
+            <guid>Bicep meet Azure Pipelines 2</guid>
+            <pubDate>Tue, 23 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Last time I wrote about how to use the Azure CLI to run Bicep within the context of an Azure Pipeline. The solution was relatively straightforward, and involved using az deployment group create in a task. There's an easier way.]]></description>
+        </item>
         <item>
             <title><![CDATA[Bicep meet Azure Pipelines]]></title>
             <link>https://blog.johnnyreilly.com/2021/03/20/bicep-meet-azure-pipelines</link>

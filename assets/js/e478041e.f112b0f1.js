@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[988],{1080:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ef-core","name":"ef core","count":1,"permalink":"/tags/ef-core"}')}}]);

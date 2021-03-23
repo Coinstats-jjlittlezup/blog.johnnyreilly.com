@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[618],{783:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"retrospective","name":"retrospective","count":1,"permalink":"/tags/retrospective"}')}}]);
