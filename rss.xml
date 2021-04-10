@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Tue, 23 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello World Bicep]]></title>
+            <link>https://blog.johnnyreilly.com/2021/04/10/hello-world-bicep</link>
+            <guid>Hello World Bicep</guid>
+            <pubDate>Sat, 10 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bicep makes Azure Resource Management a great deal simpler than ARM templates. The selling point here is grokkability. This post takes a look at the "Hello World" example recently added to the Bicep repo to appreciate quite what a difference it makes.]]></description>
+        </item>
         <item>
             <title><![CDATA[Bicep meet Azure Pipelines 2]]></title>
             <link>https://blog.johnnyreilly.com/2021/03/23/bicep-meet-azure-pipelines-2</link>

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[859],{967:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"compatibility-mode","name":"compatibility mode","count":1,"permalink":"/tags/compatibility-mode"}')}}]);

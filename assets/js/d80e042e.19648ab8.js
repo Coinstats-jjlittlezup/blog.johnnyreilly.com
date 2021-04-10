@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[935],{1037:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"partial-view","name":"partialview","count":3,"permalink":"/tags/partial-view"}')}}]);

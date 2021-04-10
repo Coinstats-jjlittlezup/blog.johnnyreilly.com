@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-03-23T00:00:00.000Z</updated>
+    <updated>2021-04-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello World Bicep]]></title>
+        <id>Hello World Bicep</id>
+        <link href="https://blog.johnnyreilly.com/2021/04/10/hello-world-bicep"/>
+        <updated>2021-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bicep makes Azure Resource Management a great deal simpler than ARM templates. The selling point here is grokkability. This post takes a look at the "Hello World" example recently added to the Bicep repo to appreciate quite what a difference it makes.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bicep meet Azure Pipelines 2]]></title>
         <id>Bicep meet Azure Pipelines 2</id>

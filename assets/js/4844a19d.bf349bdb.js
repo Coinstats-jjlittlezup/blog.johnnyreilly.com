@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[320],{538:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"react-testing-library","name":"react-testing-library","count":1,"permalink":"/tags/react-testing-library"}')}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[266],{497:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"emmett-brown","name":"emmett brown","count":1,"permalink":"/tags/emmett-brown"}')}}]);

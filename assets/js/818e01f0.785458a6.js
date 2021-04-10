@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[585],{753:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ui-router","name":"ui router","count":1,"permalink":"/tags/ui-router"}')}}]);

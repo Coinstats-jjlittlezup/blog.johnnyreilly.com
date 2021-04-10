@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1017],{1104:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"second-monitor","name":"second monitor","count":1,"permalink":"/tags/second-monitor"}')}}]);

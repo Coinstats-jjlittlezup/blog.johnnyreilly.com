@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[195],{441:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"serilog","name":"serilog","count":1,"permalink":"/tags/serilog"}')}}]);
