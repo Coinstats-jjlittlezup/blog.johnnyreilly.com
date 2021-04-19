@@ -15,15 +15,15 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="#000">
 <link rel="apple-touch-icon" href="/img/favicon/apple-touch-icon.png"><title data-react-helmet="true">I CAN MAKE THIS WORK</title><meta data-react-helmet="true" name="description" content="Blog | Tagged &quot;sward&quot;"><meta data-react-helmet="true" property="og:description" content="Blog | Tagged &quot;sward&quot;"><meta data-react-helmet="true" property="og:url" content="https://blog.johnnyreilly.com/tags/sward"><meta data-react-helmet="true" name="docusaurus_locale" content="en"><meta data-react-helmet="true" name="docusaurus_tag" content="blog_tags_posts"><meta data-react-helmet="true" property="og:title" content="I CAN MAKE THIS WORK"><meta data-react-helmet="true" property="og:image" content="https://blog.johnnyreilly.com/img/profile.png"><meta data-react-helmet="true" name="twitter:image" content="https://blog.johnnyreilly.com/img/profile.png"><meta data-react-helmet="true" name="twitter:card" content="summary_large_image"><link data-react-helmet="true" rel="shortcut icon" href="/img/favicon.ico"><link data-react-helmet="true" rel="canonical" href="https://blog.johnnyreilly.com/tags/sward"><link data-react-helmet="true" rel="alternate" href="https://blog.johnnyreilly.com/tags/sward" hreflang="en"><link data-react-helmet="true" rel="alternate" href="https://blog.johnnyreilly.com/tags/sward" hreflang="x-default"><link rel="stylesheet" href="/assets/css/styles.105de97d.css">
-<link rel="preload" href="/assets/js/styles.a4ce88d2.js" as="script">
-<link rel="preload" href="/assets/js/runtime~main.b634e2bd.js" as="script">
-<link rel="preload" href="/assets/js/main.b119f4b6.js" as="script">
-<link rel="preload" href="/assets/js/1.8b668980.js" as="script">
-<link rel="preload" href="/assets/js/2.544547e0.js" as="script">
-<link rel="preload" href="/assets/js/6875c492.051464b9.js" as="script">
-<link rel="preload" href="/assets/js/c3b5bd8c.4d1bf496.js" as="script">
-<link rel="preload" href="/assets/js/006cd652.6448df65.js" as="script">
-<link rel="preload" href="/assets/js/d2b1bca9.60cb2761.js" as="script">
+<link rel="preload" href="/assets/js/styles.29bd7c80.js" as="script">
+<link rel="preload" href="/assets/js/runtime~main.bc190c9b.js" as="script">
+<link rel="preload" href="/assets/js/main.ba3a6137.js" as="script">
+<link rel="preload" href="/assets/js/1.c330b6a7.js" as="script">
+<link rel="preload" href="/assets/js/2.9dac0846.js" as="script">
+<link rel="preload" href="/assets/js/6875c492.693cd8a8.js" as="script">
+<link rel="preload" href="/assets/js/c3b5bd8c.dd098e6e.js" as="script">
+<link rel="preload" href="/assets/js/006cd652.89a9a4fe.js" as="script">
+<link rel="preload" href="/assets/js/d2b1bca9.14a9f9fe.js" as="script">
 </head>
 <body>
 <script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){var t=null;try{t=localStorage.getItem("theme")}catch(t){}return t}();t(null!==e?e:"light")}()</script><div id="__docusaurus">
@@ -42,14 +42,14 @@
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        var vc = new ViewContext(</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">          controllerContext, partialView.View, partialView.ViewData, partialView.TempData, sw);</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        partialView.View.Render(vc, sw);</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        var partialViewString = sw.GetStringBuilder().ToString();</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block">
 </span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">        return partialViewString;</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">      }</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">    }</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">  }</span></div><div class="token-line" style="color:#bfc7d5"><span class="token plain">}</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_Ue-o">Copy</button></div></div><p>So here I have a simple interface with a <code>ConvertPartialViewToString</code> method on it. This interface can be passed into a controller and then used like this:</p><div class="codeBlockContainer_K1bP"><div class="codeBlockContent_hGly cs"><div tabindex="0" class="prism-code language-cs codeBlock_23N8 thin-scrollbar"><div class="codeBlockLines_39YC" style="color:#bfc7d5;background-color:#292d3e"><div class="token-line" style="color:#bfc7d5"><span class="token plain">var toolbarHtml = _mvcInternals.ConvertPartialViewToString(partialViewResult, ControllerContext);</span></div></div></div><button type="button" aria-label="Copy code to clipboard" class="copyButton_Ue-o">Copy</button></div></div><p>Ah... that&#x27;s the sweet mellifluous sound of easily testable code.</p></div><footer class="row margin-vert--lg"><div class="col"><strong>Tags:</strong><a class="margin-horiz--sm" href="/tags/asp-net-mvc">asp.net mvc</a><a class="margin-horiz--sm" href="/tags/sward">sward</a><a class="margin-horiz--sm" href="/tags/partial-view">PartialView</a></div><div class="col text--right"><a aria-label="Read more about PartialView.ToString()" href="/2015/03/20/partialview-tostring"><strong>Read More</strong></a></div></footer></article></div></main></div></div></div><footer class="footer footer--dark"><div class="container"><div class="row footer__links"><div class="col footer__col"><ul class="footer__items"><li class="footer__item"><a href="https://www.buymeacoffee.com/qUBm0Wh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2021 John Reilly. Built with Docusaurus.</div></div></div></footer></div>
-<script src="/assets/js/styles.a4ce88d2.js"></script>
-<script src="/assets/js/runtime~main.b634e2bd.js"></script>
-<script src="/assets/js/main.b119f4b6.js"></script>
-<script src="/assets/js/1.8b668980.js"></script>
-<script src="/assets/js/2.544547e0.js"></script>
-<script src="/assets/js/6875c492.051464b9.js"></script>
-<script src="/assets/js/c3b5bd8c.4d1bf496.js"></script>
-<script src="/assets/js/006cd652.6448df65.js"></script>
-<script src="/assets/js/d2b1bca9.60cb2761.js"></script>
+<script src="/assets/js/styles.29bd7c80.js"></script>
+<script src="/assets/js/runtime~main.bc190c9b.js"></script>
+<script src="/assets/js/main.ba3a6137.js"></script>
+<script src="/assets/js/1.c330b6a7.js"></script>
+<script src="/assets/js/2.9dac0846.js"></script>
+<script src="/assets/js/6875c492.693cd8a8.js"></script>
+<script src="/assets/js/c3b5bd8c.dd098e6e.js"></script>
+<script src="/assets/js/006cd652.89a9a4fe.js"></script>
+<script src="/assets/js/d2b1bca9.14a9f9fe.js"></script>
 </body>
 </html>

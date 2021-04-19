@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[652],{825:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"browserify","name":"browserify","count":1,"permalink":"/tags/browserify"}')}}]);

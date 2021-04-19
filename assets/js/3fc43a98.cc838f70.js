@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[282],{529:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"inheritance","name":"inheritance","count":1,"permalink":"/tags/inheritance"}')}}]);

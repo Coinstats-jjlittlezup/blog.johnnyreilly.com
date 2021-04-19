@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[900],{1021:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"use-static-files","name":"usestaticfiles","count":1,"permalink":"/tags/use-static-files"}')}}]);

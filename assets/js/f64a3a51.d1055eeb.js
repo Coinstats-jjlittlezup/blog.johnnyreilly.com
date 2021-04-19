@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1080],{1175:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"binding-handler","name":"bindinghandler","count":1,"permalink":"/tags/binding-handler"}')}}]);
