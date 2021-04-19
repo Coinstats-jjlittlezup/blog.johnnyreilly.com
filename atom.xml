@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-04-10T00:00:00.000Z</updated>
+    <updated>2021-04-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ts-loader goes webpack 5]]></title>
+        <id>ts-loader goes webpack 5</id>
+        <link href="https://blog.johnnyreilly.com/2021/04/20/ts-loader-goes-webpack-5"/>
+        <updated>2021-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ts-loader has just released v9.0.0. This post goes through what this release is all about, and what it took to ship this version. For intrigue, it includes a brief scamper into my mental health along the way. Some upgrades go smoothly - this one had some hiccups. But we'll get into that.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World Bicep]]></title>
         <id>Hello World Bicep</id>

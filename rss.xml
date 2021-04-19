@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 10 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ts-loader goes webpack 5]]></title>
+            <link>https://blog.johnnyreilly.com/2021/04/20/ts-loader-goes-webpack-5</link>
+            <guid>ts-loader goes webpack 5</guid>
+            <pubDate>Tue, 20 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ts-loader has just released v9.0.0. This post goes through what this release is all about, and what it took to ship this version. For intrigue, it includes a brief scamper into my mental health along the way. Some upgrades go smoothly - this one had some hiccups. But we'll get into that.]]></description>
+        </item>
         <item>
             <title><![CDATA[Hello World Bicep]]></title>
             <link>https://blog.johnnyreilly.com/2021/04/10/hello-world-bicep</link>

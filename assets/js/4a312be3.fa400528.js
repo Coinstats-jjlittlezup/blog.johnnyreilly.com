@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[337],{571:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"intranet","name":"intranet","count":1,"permalink":"/tags/intranet"}')}}]);

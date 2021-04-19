@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[661],{831:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ui-sref","name":"ui-sref","count":1,"permalink":"/tags/ui-sref"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[571],{742:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"asp-net-mvc","name":"asp.net mvc","count":11,"permalink":"/tags/asp-net-mvc"}')}}]);

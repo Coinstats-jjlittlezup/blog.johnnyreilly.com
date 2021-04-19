@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[167],{439:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"arm-templates","name":"arm templates","count":3,"permalink":"/tags/arm-templates"}')}}]);

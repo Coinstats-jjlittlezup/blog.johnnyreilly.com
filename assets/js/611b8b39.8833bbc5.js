@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[437],{650:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"uglifyjs","name":"uglifyjs","count":1,"permalink":"/tags/uglifyjs"}')}}]);

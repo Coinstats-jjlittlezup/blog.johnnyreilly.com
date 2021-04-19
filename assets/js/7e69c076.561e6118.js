@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[570],{741:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"douglas-crockford","name":"douglas crockford","count":3,"permalink":"/tags/douglas-crockford"}')}}]);
