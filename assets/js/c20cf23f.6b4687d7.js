@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[842],{974:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"js-lint","name":"jslint","count":1,"permalink":"/tags/js-lint"}')}}]);

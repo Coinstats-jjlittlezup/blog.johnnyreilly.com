@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[85],{374:function(o){o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tony-tomov","name":"tony tomov","count":1,"permalink":"/tags/tony-tomov"}')}}]);

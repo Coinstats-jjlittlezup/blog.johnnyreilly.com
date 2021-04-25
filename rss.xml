@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Tue, 20 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Service Now API and TypeScript Conditional Types]]></title>
+            <link>https://blog.johnnyreilly.com/2021/04/24/service-now-api-and-typescript-conditional-types</link>
+            <guid>The Service Now API and TypeScript Conditional Types</guid>
+            <pubDate>Sat, 24 Apr 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Service Now REST API is an API which allows you to interact with Service Now. It produces different shaped results based upon the sysparmdisplayvalue query parameter. This post looks at how we can model these API results with TypeScripts conditional types. The aim being to minimise repetition whilst remaining strongly typed. This post is specifically about the Service Now API, but the principles around conditional type usage are generally applicable.]]></description>
+        </item>
         <item>
             <title><![CDATA[ts-loader goes webpack 5]]></title>
             <link>https://blog.johnnyreilly.com/2021/04/20/ts-loader-goes-webpack-5</link>

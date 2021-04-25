@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[912],{1033:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"richard-d-worth","name":"richard d. worth","count":1,"permalink":"/tags/richard-d-worth"}')}}]);

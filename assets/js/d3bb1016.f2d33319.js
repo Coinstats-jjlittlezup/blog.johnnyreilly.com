@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[933],{1054:function(t){t.exports=JSON.parse('{"allTagsPath":"/tags","slug":"twitter-bootstrap","name":"twitter bootstrap","count":2,"permalink":"/tags/twitter-bootstrap"}')}}]);

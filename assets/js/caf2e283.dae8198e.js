@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[877],{1001:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"instance-methods","name":"instance methods","count":1,"permalink":"/tags/instance-methods"}')}}]);
