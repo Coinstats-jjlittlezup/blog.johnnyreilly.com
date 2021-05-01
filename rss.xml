@@ -12,7 +12,7 @@
             <link>https://blog.johnnyreilly.com/2021/05/01/blog-archive-for-docusaurus</link>
             <guid>Blog Archive for Docusaurus</guid>
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus doesn't ship with "blog archive" functionality, that allows you to look at your historic blog posts. It is fairly straightforward to implement your own.  This post shows you how.]]></description>
+            <description><![CDATA[Docusaurus doesn't ship with "blog archive" functionality. By which I mean, something that allows you to look at an overview of your historic blog posts. It turns out it is fairly straightforward to implement your own.  This post does just that.]]></description>
         </item>
         <item>
             <title><![CDATA[The Service Now API and TypeScript Conditional Types]]></title>
