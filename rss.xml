@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 24 Apr 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blog Archive for Docusaurus]]></title>
+            <link>https://blog.johnnyreilly.com/2021/05/01/blog-archive-for-docusaurus</link>
+            <guid>Blog Archive for Docusaurus</guid>
+            <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docusaurus doesn't ship with "blog archive" functionality, that allows you to look at your historic blog posts. It is fairly straightforward to implement your own.  This post shows you how.]]></description>
+        </item>
         <item>
             <title><![CDATA[The Service Now API and TypeScript Conditional Types]]></title>
             <link>https://blog.johnnyreilly.com/2021/04/24/service-now-api-and-typescript-conditional-types</link>

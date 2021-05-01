@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[92559],{95212:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"webpack-2","name":"webpack 2","count":2,"permalink":"/tags/webpack-2"}')}}]);

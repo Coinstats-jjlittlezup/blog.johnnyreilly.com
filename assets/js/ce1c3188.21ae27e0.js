@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[65566],{79448:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"paul-irish","name":"paul irish","count":1,"permalink":"/tags/paul-irish"}')}}]);

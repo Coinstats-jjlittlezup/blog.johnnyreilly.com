@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[52974],{13069:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ivan-drago","name":"ivan drago","count":1,"permalink":"/tags/ivan-drago"}')}}]);

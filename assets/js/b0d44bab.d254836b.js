@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[73613],{15623:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"windows-defender","name":"windows defender","count":1,"permalink":"/tags/windows-defender"}')}}]);

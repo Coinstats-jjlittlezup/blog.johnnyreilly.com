@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[68808],{89010:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"globalize-js","name":"globalize js","count":3,"permalink":"/tags/globalize-js"}')}}]);

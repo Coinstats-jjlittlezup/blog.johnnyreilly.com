@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[34422],{96293:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tooltip","name":"tooltip","count":1,"permalink":"/tags/tooltip"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[34371],{39894:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"css-animation","name":"css animation","count":1,"permalink":"/tags/css-animation"}')}}]);

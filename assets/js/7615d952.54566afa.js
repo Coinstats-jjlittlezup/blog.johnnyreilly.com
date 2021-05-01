@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[79175],{41472:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"asp-net","name":"asp.net","count":8,"permalink":"/tags/asp-net"}')}}]);

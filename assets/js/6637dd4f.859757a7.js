@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[64975],{6603:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"amstrad","name":"amstrad","count":1,"permalink":"/tags/amstrad"}')}}]);

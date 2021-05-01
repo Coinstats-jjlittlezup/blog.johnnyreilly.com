@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[748],{899:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"database-snapshots","name":"database snapshots","count":1,"permalink":"/tags/database-snapshots"}')}}]);

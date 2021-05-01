@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[3729],{44315:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"fade-in","name":"fadein","count":1,"permalink":"/tags/fade-in"}')}}]);

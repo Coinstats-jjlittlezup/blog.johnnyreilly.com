@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[82430],{84114:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"type-script-language-service","name":"typescript language service","count":1,"permalink":"/tags/type-script-language-service"}')}}]);

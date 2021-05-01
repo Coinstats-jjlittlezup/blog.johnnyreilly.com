@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[64227],{76354:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"cybersquatting","name":"cybersquatting","count":1,"permalink":"/tags/cybersquatting"}')}}]);

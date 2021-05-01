@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[62991],{55447:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"metaphysics","name":"metaphysics","count":1,"permalink":"/tags/metaphysics"}')}}]);

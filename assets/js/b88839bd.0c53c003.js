@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[59060],{46178:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"happy-pack","name":"happypack","count":2,"permalink":"/tags/happy-pack"}')}}]);

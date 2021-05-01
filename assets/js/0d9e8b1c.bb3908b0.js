@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[45842],{87146:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"transitionend","name":"transitionend","count":1,"permalink":"/tags/transitionend"}')}}]);

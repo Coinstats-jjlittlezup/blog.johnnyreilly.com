@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[879],{1004:function(n){n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"nu-get","name":"nuget","count":2,"permalink":"/tags/nu-get"}')}}]);

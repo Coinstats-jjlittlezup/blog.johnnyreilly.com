@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[43541],{27097:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"binding-handler","name":"bindinghandler","count":1,"permalink":"/tags/binding-handler"}')}}]);

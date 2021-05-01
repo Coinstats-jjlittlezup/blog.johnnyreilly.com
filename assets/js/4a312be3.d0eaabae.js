@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[88819],{66727:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"intranet","name":"intranet","count":1,"permalink":"/tags/intranet"}')}}]);

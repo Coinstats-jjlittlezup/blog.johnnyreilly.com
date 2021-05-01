@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[19385],{70454:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"materialized","name":"materialized","count":1,"permalink":"/tags/materialized"}')}}]);

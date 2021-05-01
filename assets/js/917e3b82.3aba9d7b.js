@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[31426],{33469:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"browserify","name":"browserify","count":1,"permalink":"/tags/browserify"}')}}]);

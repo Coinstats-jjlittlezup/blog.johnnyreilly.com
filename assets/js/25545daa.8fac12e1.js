@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[174],{444:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"table-api","name":"table api","count":1,"permalink":"/tags/table-api"}')}}]);

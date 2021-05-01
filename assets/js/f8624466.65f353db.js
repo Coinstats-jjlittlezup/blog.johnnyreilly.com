@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[31628],{9498:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"net-4-5","name":".net 4.5","count":1,"permalink":"/tags/net-4-5"}')}}]);

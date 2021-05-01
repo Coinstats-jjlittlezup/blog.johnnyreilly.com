@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[23427],{8527:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"asp-net-mvc","name":"asp.net mvc","count":11,"permalink":"/tags/asp-net-mvc"}')}}]);

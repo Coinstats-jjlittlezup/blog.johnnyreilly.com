@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[787],{928:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"cross-env","name":"cross-env","count":1,"permalink":"/tags/cross-env"}')}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[272],{521:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"observer-pattern","name":"observer pattern","count":1,"permalink":"/tags/observer-pattern"}')}}]);

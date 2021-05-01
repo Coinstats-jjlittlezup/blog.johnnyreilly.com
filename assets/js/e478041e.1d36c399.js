@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[81603],{92694:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ef-core","name":"ef core","count":1,"permalink":"/tags/ef-core"}')}}]);

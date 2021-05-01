@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[68894],{32949:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/tags","slug":"twitter-bootstrap","name":"twitter bootstrap","count":2,"permalink":"/tags/twitter-bootstrap"}')}}]);

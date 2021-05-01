@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2224],{78645:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"scott-gu","name":"scott gu","count":1,"permalink":"/tags/scott-gu"}')}}]);

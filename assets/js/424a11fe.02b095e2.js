@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[27009],{61202:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"isolated-scope","name":"isolated scope","count":1,"permalink":"/tags/isolated-scope"}')}}]);

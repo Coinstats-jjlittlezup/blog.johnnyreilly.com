@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[89099],{50799:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"implicit-references","name":"implicit references","count":2,"permalink":"/tags/implicit-references"}')}}]);

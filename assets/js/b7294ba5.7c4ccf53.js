@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[76023],{54375:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"jqlite","name":"jqlite","count":1,"permalink":"/tags/jqlite"}')}}]);

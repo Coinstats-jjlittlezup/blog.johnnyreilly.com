@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[39306],{51309:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"emmett-brown","name":"emmett brown","count":1,"permalink":"/tags/emmett-brown"}')}}]);

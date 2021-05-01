@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1077],{1174:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"system-web-script-serialization-java-script-serializer","name":"system.web.script.serialization.javascriptserializer","count":1,"permalink":"/tags/system-web-script-serialization-java-script-serializer"}')}}]);

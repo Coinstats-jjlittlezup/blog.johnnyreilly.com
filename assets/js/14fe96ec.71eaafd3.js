@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[48820],{41055:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"angular-js","name":"angularjs","count":9,"permalink":"/tags/angular-js"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[76875],{26259:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"yaml","name":"yaml","count":1,"permalink":"/tags/yaml"}')}}]);

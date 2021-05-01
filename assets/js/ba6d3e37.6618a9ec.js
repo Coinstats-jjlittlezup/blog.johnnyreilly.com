@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[816],{950:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"code-first-migrations","name":"code first migrations","count":1,"permalink":"/tags/code-first-migrations"}')}}]);

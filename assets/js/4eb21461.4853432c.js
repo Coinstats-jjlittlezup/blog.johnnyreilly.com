@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[65005],{13599:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"console","name":"console","count":1,"permalink":"/tags/console"}')}}]);

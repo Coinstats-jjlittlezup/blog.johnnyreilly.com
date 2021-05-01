@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[55477],{21301:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"team-foundation-server","name":"team foundation server","count":1,"permalink":"/tags/team-foundation-server"}')}}]);

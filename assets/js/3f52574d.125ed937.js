@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[42250],{28473:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ng-validation-for","name":"ngvalidationfor","count":1,"permalink":"/tags/ng-validation-for"}')}}]);

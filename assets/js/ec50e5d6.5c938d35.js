@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[59279],{30239:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"datagrid","name":"datagrid","count":1,"permalink":"/tags/datagrid"}')}}]);

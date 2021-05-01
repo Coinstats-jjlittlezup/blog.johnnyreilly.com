@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[968],{1080:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"asp-net-ajax","name":"asp.net ajax","count":1,"permalink":"/tags/asp-net-ajax"}')}}]);

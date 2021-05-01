@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[64178],{54264:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"modernizr","name":"modernizr","count":1,"permalink":"/tags/modernizr"}')}}]);

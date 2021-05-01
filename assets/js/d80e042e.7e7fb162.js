@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[68759],{88673:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"partial-view","name":"partialview","count":3,"permalink":"/tags/partial-view"}')}}]);

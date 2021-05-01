@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[28194],{74857:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"font-awesome","name":"font awesome","count":1,"permalink":"/tags/font-awesome"}')}}]);
