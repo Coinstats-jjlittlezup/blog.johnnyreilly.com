@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 01 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Create a Pipeline with the Azure DevOps API]]></title>
+            <link>https://blog.johnnyreilly.com/2021/05/08/create-pipeline-with-azure-devops-api</link>
+            <guid>Create a Pipeline with the Azure DevOps API</guid>
+            <pubDate>Sat, 08 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Creating an Azure Pipeline using the Azure DevOps REST API is possible, but badly documented. This post goes through how to do this.]]></description>
+        </item>
         <item>
             <title><![CDATA[Blog Archive for Docusaurus]]></title>
             <link>https://blog.johnnyreilly.com/2021/05/01/blog-archive-for-docusaurus</link>

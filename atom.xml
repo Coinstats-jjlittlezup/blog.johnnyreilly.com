@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-05-01T00:00:00.000Z</updated>
+    <updated>2021-05-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Create a Pipeline with the Azure DevOps API]]></title>
+        <id>Create a Pipeline with the Azure DevOps API</id>
+        <link href="https://blog.johnnyreilly.com/2021/05/08/create-pipeline-with-azure-devops-api"/>
+        <updated>2021-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating an Azure Pipeline using the Azure DevOps REST API is possible, but badly documented. This post goes through how to do this.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blog Archive for Docusaurus]]></title>
         <id>Blog Archive for Docusaurus</id>
