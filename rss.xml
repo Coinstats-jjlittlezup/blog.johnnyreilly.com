@@ -477,9 +477,9 @@
             <description><![CDATA[So project references eh? They shipped with TypeScript 3. We've just shipped initial support for project references in ts-loader v5.2.0. All the hard work was done by the amazing Andrew Branch. In fact I'd recommend taking a gander at the PR. Yay Andrew!]]></description>
         </item>
         <item>
-            <title><![CDATA[Ivan Drago and Definitely Typed]]></title>
-            <link>https://blog.johnnyreilly.com/2018/09/15/ivan-drago-and-definitely-typed</link>
-            <guid>Ivan Drago and Definitely Typed</guid>
+            <title><![CDATA[Semantic Versioning and Definitely Typed]]></title>
+            <link>https://blog.johnnyreilly.com/2018/09/15/semantic-versioning-and-definitely-typed</link>
+            <guid>Semantic Versioning and Definitely Typed</guid>
             <pubDate>Sat, 15 Sep 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[This a tale of things that are and things that aren't. It's a tale of semantic versioning, the lack thereof and heartbreak. It's a story of terror and failing builds. But it has a bittersweet ending wherein our heroes learn a lesson and understand the need for compromise. We all come out better and wiser people. Hopefully there's something for everybody; let's start with an exciting opener and see where it goes...]]></description>
         </item>
