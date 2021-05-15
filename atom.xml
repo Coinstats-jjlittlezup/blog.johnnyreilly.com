@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-05-08T00:00:00.000Z</updated>
+    <updated>2021-05-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Azurite and Table Storage in a dev container]]></title>
+        <id>Azurite and Table Storage in a dev container</id>
+        <link href="https://blog.johnnyreilly.com/2021/05/15/azurite-and-table-storage-dev-container"/>
+        <updated>2021-05-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's great to be able to develop locally without needing a "real" database to connect to. Azurite is an Azure Storage emulator which exists to support just that. This post demonstrates how to run Azurite v3 in a dev container, such that you can access the Table Storage API, which is currently in preview.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a Pipeline with the Azure DevOps API]]></title>
         <id>Create a Pipeline with the Azure DevOps API</id>

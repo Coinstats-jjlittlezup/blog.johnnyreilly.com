@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 08 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Azurite and Table Storage in a dev container]]></title>
+            <link>https://blog.johnnyreilly.com/2021/05/15/azurite-and-table-storage-dev-container</link>
+            <guid>Azurite and Table Storage in a dev container</guid>
+            <pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's great to be able to develop locally without needing a "real" database to connect to. Azurite is an Azure Storage emulator which exists to support just that. This post demonstrates how to run Azurite v3 in a dev container, such that you can access the Table Storage API, which is currently in preview.]]></description>
+        </item>
         <item>
             <title><![CDATA[Create a Pipeline with the Azure DevOps API]]></title>
             <link>https://blog.johnnyreilly.com/2021/05/08/create-pipeline-with-azure-devops-api</link>
