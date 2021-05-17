@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[61128],{37087:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"create-react-app","name":"create react app","count":1,"permalink":"/tags/create-react-app"}')}}]);

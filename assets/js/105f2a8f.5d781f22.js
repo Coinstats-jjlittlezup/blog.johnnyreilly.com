@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[16671],{60977:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"redirect","name":"redirect","count":1,"permalink":"/tags/redirect"}')}}]);

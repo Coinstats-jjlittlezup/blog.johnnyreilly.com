@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[78813],{33172:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"c-sharpier","name":"csharpier","count":1,"permalink":"/tags/c-sharpier"}')}}]);

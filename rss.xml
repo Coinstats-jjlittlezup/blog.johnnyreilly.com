@@ -85,9 +85,9 @@
             <description><![CDATA[Managed Identity offers a very secure way for applications running in Azure to connect to Azure SQL databases. It's an approach that does not require code changes; merely configuration of connection string and associated resources. Hence it has a good developer experience. Importantly, it allows us to avoid exposing our database to username / password authentication, and hence making it a tougher target for bad actors.]]></description>
         </item>
         <item>
-            <title><![CDATA[Generate TypeScript and CSharp clients with NSwag based on an API]]></title>
+            <title><![CDATA[NSwag: TypeScript and CSharp client generation based on an API]]></title>
             <link>https://blog.johnnyreilly.com/2021/03/06/generate-typescript-and-csharp-clients-with-nswag</link>
-            <guid>Generate TypeScript and CSharp clients with NSwag based on an API</guid>
+            <guid>NSwag: TypeScript and CSharp client generation based on an API</guid>
             <pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Generating clients for APIs is a tremendous way to reduce the amount of work you have to do when you're building a project. Why handwrite that code when it can be auto-generated for you quickly and accurately by a tool like NSwag? To quote the docs:]]></description>
         </item>
@@ -169,18 +169,18 @@
             <description><![CDATA[This post explains how to integrate the tremendous test runner Jest with the continuous integration platform Azure Pipelines. Perhaps we're setting up a new project and we've created a new React app with Create React App. This ships with Jest support out of the box. How do we get that plugged into Pipelines such that:]]></description>
         </item>
         <item>
-            <title><![CDATA[Prettier your CSharp with dotnet-format and lint-staged]]></title>
+            <title><![CDATA[dotnet-format: Prettier your CSharp with lint-staged]]></title>
             <link>https://blog.johnnyreilly.com/2020/12/22/prettier-your-csharp-with-dotnet-format-and-lint-staged</link>
-            <guid>Prettier your CSharp with dotnet-format and lint-staged</guid>
+            <guid>dotnet-format: Prettier your CSharp with lint-staged</guid>
             <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Consistent formatting is a good thing. It makes code less confusing to newcomers and it allows whoever is working on the codebase to reliably focus on the task at hand. Not "fixing curly braces because Janice messed them up with her last commit". (A git commit message that would be tragic in so many ways.)]]></description>
         </item>
         <item>
-            <title><![CDATA[How to make Azure AD 403]]></title>
+            <title><![CDATA[Azure AD should 403]]></title>
             <link>https://blog.johnnyreilly.com/2020/12/21/how-to-make-azure-ad-403</link>
-            <guid>How to make Azure AD 403</guid>
+            <guid>Azure AD should 403</guid>
             <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[This post is about how you can customise ASP.NETs integration with Azure Active Directory to customise the behaviour that redirects unauthorized requests to the AccessDenied endpoint. If you're using the tremendous Azure Active Directory for authentication with ASP.NET then there's a good chance you're using the Microsoft.Identity.Web library. It's this that allows us to drop the following statement into the ConfigureServices method of our Startup class:]]></description>
+            <description><![CDATA[By default Microsoft.Identity.Web responds to unauthorized requests with a 302 (redirect). Do you want a 403 (forbidden) instead? Here's how.]]></description>
         </item>
         <item>
             <title><![CDATA[Nullable reference types; CSharp's very own strictNullChecks]]></title>
@@ -197,9 +197,9 @@
             <description><![CDATA[Some blog posts are insightful treatises on the future of web development, some are "here's how I solved my problem". This is most assuredly the latter.]]></description>
         </item>
         <item>
-            <title><![CDATA[Images in MarkDown for the Azure DevOps Marketplace!]]></title>
+            <title><![CDATA[Visual Studio Marketplace: Images in MarkDown!]]></title>
             <link>https://blog.johnnyreilly.com/2020/11/28/images-in-markdown-for-azure-devops-marketplace</link>
-            <guid>Images in MarkDown for the Azure DevOps Marketplace!</guid>
+            <guid>Visual Studio Marketplace: Images in MarkDown!</guid>
             <pubDate>Sat, 28 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[I've recently found myself developing custom pipelines task extensions for Azure DevOps. The extensions being developed end up in the Azure DevOps Marketplace. What you see there when you look at existing extensions is some pretty lovely documentation.]]></description>
         </item>
@@ -225,11 +225,11 @@
             <description><![CDATA[I've been taking a good look at the REST API for Azure DevOps. I'm delighted to say that it's a very full API. However, there's quirks.]]></description>
         </item>
         <item>
-            <title><![CDATA[The Mysterious Case of Safari and the Empty Download]]></title>
+            <title><![CDATA[Safari: The Mysterious Case of the Empty Download]]></title>
             <link>https://blog.johnnyreilly.com/2020/10/19/safari-empty-download-content-type</link>
-            <guid>The Mysterious Case of Safari and the Empty Download</guid>
+            <guid>Safari: The Mysterious Case of the Empty Download</guid>
             <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[TL;DR 0. Without this, Safari can attempt to trigger an empty download. Don't argue; just go with it; some browsers are strange.]]></description>
+            <description><![CDATA[Safari wants a Content-Type header in responses. Even if the response is Content-Length: 0. Without this, Safari can attempt to trigger an empty download. Don't argue; just go with it; some browsers are strange.]]></description>
         </item>
         <item>
             <title><![CDATA[Autofac 6, integration tests and .NET generic hosting]]></title>
@@ -295,9 +295,9 @@
             <description><![CDATA[When you are building any kind of application it's typical to want to store information which persists beyond a single user session. Sometimes that will be information that you'll want to live in some kind of centralised database, but not always.]]></description>
         </item>
         <item>
-            <title><![CDATA[Dual boot authentication with ASP.Net Core]]></title>
+            <title><![CDATA[Dual boot authentication with ASP.NET]]></title>
             <link>https://blog.johnnyreilly.com/2020/03/22/dual-boot-authentication-with-aspnetcore</link>
-            <guid>Dual boot authentication with ASP.Net Core</guid>
+            <guid>Dual boot authentication with ASP.NET</guid>
             <pubDate>Sun, 22 Mar 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[This is a post about having two kinds of authentication working at the same time in ASP.Net Core. But choosing which authentication method to use dynamically at runtime; based upon the criteria of your choice.]]></description>
         </item>
@@ -330,11 +330,11 @@
             <description><![CDATA[Just recently my team took on the challenge of upgrading our codebase from .NET Core 2.2 to .NET Core 3.1. Along the way we encountered a quirky issue which caused us much befuddlement. Should you be befuddled too, then maybe this can help you.]]></description>
         </item>
         <item>
-            <title><![CDATA[Automating Teams Notifications]]></title>
-            <link>https://blog.johnnyreilly.com/2019/12/18/automating-teams-notifications-recently</link>
-            <guid>Automating Teams Notifications</guid>
+            <title><![CDATA[Teams notification webhooks]]></title>
+            <link>https://blog.johnnyreilly.com/2019/12/18/teams-notification-webhooks</link>
+            <guid>Teams notification webhooks</guid>
             <pubDate>Wed, 18 Dec 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Recently, my team transitioned from using Slack to using Microsoft Teams. It's fair to say that the team had a lot of love for Slack. Teams is a poorer product from the perspective of UI / UX. Maybe as you read this in the future that's all changed. But here on December 18th 2019, Teams is a solid 2 stars out of 5.]]></description>
+            <description><![CDATA[Teams notifications are mighty useful. This post will explain the following:]]></description>
         </item>
         <item>
             <title><![CDATA[Definitely Typed: The Movie]]></title>
@@ -491,9 +491,9 @@
             <description><![CDATA[This a tale of things that are and things that aren't. It's a tale of semantic versioning, the lack thereof and heartbreak. It's a story of terror and failing builds. But it has a bittersweet ending wherein our heroes learn a lesson and understand the need for compromise. We all come out better and wiser people. Hopefully there's something for everybody; let's start with an exciting opener and see where it goes...]]></description>
         </item>
         <item>
-            <title><![CDATA[💣ing Relative Paths with TypeScript and webpack]]></title>
+            <title><![CDATA[TypeScript, webpack: goodbye relative paths]]></title>
             <link>https://blog.johnnyreilly.com/2018/08/21/killing-relative-paths-with-typescript-and</link>
-            <guid>💣ing Relative Paths with TypeScript and webpack</guid>
+            <guid>TypeScript, webpack: goodbye relative paths</guid>
             <pubDate>Tue, 21 Aug 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[I write a lot of TypeScript. Because I like modularity, I split up my codebases into discreet modules and import from them as necessary.]]></description>
         </item>
@@ -1496,7 +1496,7 @@
             <link>https://blog.johnnyreilly.com/2012/04/16/simple-technique-for-initialising</link>
             <guid>A Simple Technique for Initialising Properties with Internal Setters for Unit Testing</guid>
             <pubDate>Mon, 16 Apr 2012 00:00:00 GMT</pubDate>
-            <description><![CDATA[I was recently working with my colleagues on refactoring a legacy application. We didn't have an immense amount of time available for this but the plan was to try and improve what was there as much as possible. In its initial state the application had no unit tests in place at all and so the plan was to refactor the code base in such a way as to make testing it a realistic proposition. To that end the domain layer was being heavily adjusted and the GUI was being migrated from WebForms to MVC 3. The intention was to build up a pretty solid collection of unit tests. However, as we were working on this we realised we had a problem with properties on our models with internal setters...]]></description>
+            <description><![CDATA[I was recently working with my colleagues on refactoring a legacy application. We didn't have an immense amount of time available for this but the plan was to try and improve what was there as much as possible. In its initial state the application had no unit tests in place at all and so the plan was to refactor the code base in such a way as to make testing it a realistic proposition. To that end the domain layer was being heavily adjusted and the GUI was being migrated from WebForms to MVC 3. The intention was to build up a pretty solid collection of unit tests. However, as we were working on this we realised we had a problem with properties on our models with internal.aspx) setters...]]></description>
         </item>
         <item>
             <title><![CDATA[Making PDFs from HTML in C# using WKHTMLtoPDF]]></title>
@@ -1552,7 +1552,7 @@
             <link>https://blog.johnnyreilly.com/2012/02/05/potted-history-of-using-ajax-on</link>
             <guid>A Potted History of using Ajax (on the Microsoft Stack of Love)</guid>
             <pubDate>Sun, 05 Feb 2012 00:00:00 GMT</pubDate>
-            <description><![CDATA[This post originally started out as an explanation of JSON. However as I wrote this quickly got abandoned in favour of writing about how I came to use JSON in the first place - which was through the use of Ajax. Having written a goodly amount I've now decided to move the actual JSON stuff into another post since I think Ajax is probably worth thinking about by itself rather than as an aside. So let me start at the beginning and explain how I came to use Ajax in the first place (this may take some time so please bear with me). In late 2004 I first started working on a project which I was to remain involved with (on and off) for a very long time indeed. The project was part financial reporting system and part sales incentivisation tool; it was used internally in the investment bank in which I was working. The project had been in existence for a number of years and had a web front end which at that point would been built in a combination of HTML, JavaScript, classic ASP and with a Visual Basic 6.0 back end. One of the reasons I had been brought on to the project was to help ".Net-ify" the thing and migrate it to ASP.NET and C#. I digress. The interesting thing about this app was that there were actually some quite advanced things being done with it (despite the classic ASP / VB). The users could enter trades into the system which represented actual trades that had been entered into a trading system elsewhere in the organisation. These trades would be assigned a reporting value which would be based on their various attributes. (Stay with me people this will get more interesting I \*promise\*.) The calculation of the reporting value was quite an in depth process and needed to be performed server-side. However, the users had decreed that it wasn't acceptable to do a full postback to the server to perform this calculation; they wanted it done "on-the-fly". Now if you asked me at the time I'd have said "can't be done". Fortunately the other people working on the project then weren't nearly so defeatist. Instead they went away and found Microsoft's webservice.htc library. For those of you that don't know this was a JavaScript library that Microsoft came up with to enable the access of Web Services on the client. Given that it was designed to work with IE 5 I suspect it was created between 1999-2001 (but I'm not certain about that). Now it came as a revelation to me but this was a JavaScript library that talked to our web services through the medium of XML. In short it was my first encounter with anything remotely Ajax\-y. It was exciting! However, the possibilities of what we could do didn't actually become apparent to me for some years. It's worth saying that the way we were using webservice.htc was exceedingly simplistic and rather than investigating further I took the limited ways we were using it as indications of the limitations of Ajax and / or webservice.htc. So for a long time I thought the following: - The only way to pass multiple arguments to a web service was to package up arguments into a single string with delimiters which you could split and unpackage as your first step on the server.]]></description>
+            <description><![CDATA[This post originally started out as an explanation of JSON. However as I wrote this quickly got abandoned in favour of writing about how I came to use JSON in the first place - which was through the use of Ajax. Having written a goodly amount I've now decided to move the actual JSON stuff into another post since I think Ajax is probably worth thinking about by itself rather than as an aside. So let me start at the beginning and explain how I came to use Ajax in the first place (this may take some time so please bear with me). In late 2004 I first started working on a project which I was to remain involved with (on and off) for a very long time indeed. The project was part financial reporting system and part sales incentivisation tool; it was used internally in the investment bank in which I was working. The project had been in existence for a number of years and had a web front end which at that point would been built in a combination of HTML, JavaScript, classic ASP and with a Visual Basic 6.0 back end. One of the reasons I had been brought on to the project was to help ".Net-ify" the thing and migrate it to ASP.NET and C#. I digress. The interesting thing about this app was that there were actually some quite advanced things being done with it (despite the classic ASP / VB). The users could enter trades into the system which represented actual trades that had been entered into a trading system elsewhere in the organisation. These trades would be assigned a reporting value which would be based on their various attributes. (Stay with me people this will get more interesting I \*promise\*.) The calculation of the reporting value was quite an in depth process and needed to be performed server-side. However, the users had decreed that it wasn't acceptable to do a full postback to the server to perform this calculation; they wanted it done "on-the-fly". Now if you asked me at the time I'd have said "can't be done". Fortunately the other people working on the project then weren't nearly so defeatist. Instead they went away and found Microsoft's webservice.htc library. For those of you that don't know this was a JavaScript library that Microsoft came up with to enable the access of Web Services on the client. Given that it was designed to work with IE 5 I suspect it was created between 1999-2001 (but I'm not certain about that). Now it came as a revelation to me but this was a JavaScript library that talked to our web services through the medium of XML. In short it was my first encounter with anything remotely Ajax)\-y. It was exciting! However, the possibilities of what we could do didn't actually become apparent to me for some years. It's worth saying that the way we were using webservice.htc was exceedingly simplistic and rather than investigating further I took the limited ways we were using it as indications of the limitations of Ajax and / or webservice.htc. So for a long time I thought the following: - The only way to pass multiple arguments to a web service was to package up arguments into a single string with delimiters which you could split#split) and unpackage as your first step on the server.]]></description>
         </item>
         <item>
             <title><![CDATA[JavaScript - getting to know the beast...]]></title>

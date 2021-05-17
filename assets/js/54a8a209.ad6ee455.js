@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[92030],{48131:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"azure-ad","name":"azure ad","count":1,"permalink":"/tags/azure-ad"}')}}]);

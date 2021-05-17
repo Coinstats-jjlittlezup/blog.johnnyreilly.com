@@ -1,0 +1,1 @@
+(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[49690],{5949:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"idb-keyval","name":"idb-keyval","count":1,"permalink":"/tags/idb-keyval"}')}}]);
