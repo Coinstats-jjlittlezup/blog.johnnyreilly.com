@@ -334,7 +334,7 @@
         <id>Teams notification webhooks</id>
         <link href="https://blog.johnnyreilly.com/2019/12/18/teams-notification-webhooks"/>
         <updated>2019-12-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams notifications are mighty useful. This post will explain the following:]]></summary>
+        <summary type="html"><![CDATA[Teams notifications are mighty useful. You can send them using Markdown via a webhook.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Definitely Typed: The Movie]]></title>
