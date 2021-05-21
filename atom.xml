@@ -197,8 +197,8 @@
         <summary type="html"><![CDATA[Some blog posts are insightful treatises on the future of web development, some are "here's how I solved my problem". This is most assuredly the latter.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Studio Marketplace: Images in MarkDown!]]></title>
-        <id>Visual Studio Marketplace: Images in MarkDown!</id>
+        <title type="html"><![CDATA[Visual Studio Marketplace: images in Markdown!]]></title>
+        <id>Visual Studio Marketplace: images in Markdown!</id>
         <link href="https://blog.johnnyreilly.com/2020/11/28/images-in-markdown-for-azure-devops-marketplace"/>
         <updated>2020-11-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Publish your README.md and associated images to Visual Studio Marketplace.]]></summary>

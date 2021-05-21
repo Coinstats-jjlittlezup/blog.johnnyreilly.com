@@ -197,9 +197,9 @@
             <description><![CDATA[Some blog posts are insightful treatises on the future of web development, some are "here's how I solved my problem". This is most assuredly the latter.]]></description>
         </item>
         <item>
-            <title><![CDATA[Visual Studio Marketplace: Images in MarkDown!]]></title>
+            <title><![CDATA[Visual Studio Marketplace: images in Markdown!]]></title>
             <link>https://blog.johnnyreilly.com/2020/11/28/images-in-markdown-for-azure-devops-marketplace</link>
-            <guid>Visual Studio Marketplace: Images in MarkDown!</guid>
+            <guid>Visual Studio Marketplace: images in Markdown!</guid>
             <pubDate>Sat, 28 Nov 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Publish your README.md and associated images to Visual Studio Marketplace.]]></description>
         </item>
