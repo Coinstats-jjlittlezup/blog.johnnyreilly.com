@@ -201,7 +201,7 @@
             <link>https://blog.johnnyreilly.com/2020/11/28/images-in-markdown-for-azure-devops-marketplace</link>
             <guid>Visual Studio Marketplace: Images in MarkDown!</guid>
             <pubDate>Sat, 28 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[I've recently found myself developing custom pipelines task extensions for Azure DevOps. The extensions being developed end up in the Azure DevOps Marketplace. What you see there when you look at existing extensions is some pretty lovely documentation.]]></description>
+            <description><![CDATA[Publish your README.md and associated images to Visual Studio Marketplace.]]></description>
         </item>
         <item>
             <title><![CDATA[Bulletproof uniq with TypeScript generics (yay code reviews!)]]></title>
