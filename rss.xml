@@ -96,7 +96,7 @@
             <link>https://blog.johnnyreilly.com/2021/02/27/goodbye-client-affinity-hello-data-protection-with-azure</link>
             <guid>Goodbye Client Affinity, Hello Data Protection with Azure</guid>
             <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[I've written lately about zero downtime releases with Azure App Service. Zero downtime releases are only successful if your authentication mechanism survives a new deployment. We looked in my last post at how to achieve this with Azure's in-built authentication mechanism; Easy Auth.]]></description>
+            <description><![CDATA[How to use ASP.NET Data Protection to remove the need for sticky sessions with Client Affinity]]></description>
         </item>
         <item>
             <title><![CDATA[Making Easy Auth tokens survive releases on Linux Azure App Service]]></title>
