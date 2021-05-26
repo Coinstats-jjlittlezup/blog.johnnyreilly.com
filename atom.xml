@@ -269,9 +269,9 @@
     <entry>
         <title type="html"><![CDATA[Autofac, WebApplicationFactory and integration tests]]></title>
         <id>Autofac, WebApplicationFactory and integration tests</id>
-        <link href="https://blog.johnnyreilly.com/2020/05/21/autofac-webapplicationfactory-and"/>
+        <link href="https://blog.johnnyreilly.com/2020/05/21/autofac-webapplicationfactory-integration-tests"/>
         <updated>2020-05-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Updated 2nd Oct 2020: for an approach that works with Autofac 6 see this post.]]></summary>
+        <summary type="html"><![CDATA[Updated 2nd Oct 2020: for an approach that works with Autofac 6 and ConfigureTestContainer see this post.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[From react-window to react-virtual]]></title>
