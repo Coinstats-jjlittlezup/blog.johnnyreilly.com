@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-05-15T00:00:00.000Z</updated>
+    <updated>2021-06-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Azure Functions and .NET 5: Query params, Dependency Injection, Bicep & Build]]></title>
+        <id>Azure Functions and .NET 5: Query params, Dependency Injection, Bicep &amp; Build</id>
+        <link href="https://blog.johnnyreilly.com/2021/06/11/azure-functions-dotnet-5-query-params-di-bicep"/>
+        <updated>2021-06-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The upgrade of Azure Functions from .NET Core 3.1 to .NET 5 is significant. This post shows part of the upgrade: Query params, Dependency Injection, Bicep & Build]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azurite and Table Storage in a dev container]]></title>
         <id>Azurite and Table Storage in a dev container</id>

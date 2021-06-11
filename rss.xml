@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sat, 15 May 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Azure Functions and .NET 5: Query params, Dependency Injection, Bicep & Build]]></title>
+            <link>https://blog.johnnyreilly.com/2021/06/11/azure-functions-dotnet-5-query-params-di-bicep</link>
+            <guid>Azure Functions and .NET 5: Query params, Dependency Injection, Bicep &amp; Build</guid>
+            <pubDate>Fri, 11 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The upgrade of Azure Functions from .NET Core 3.1 to .NET 5 is significant. This post shows part of the upgrade: Query params, Dependency Injection, Bicep & Build]]></description>
+        </item>
         <item>
             <title><![CDATA[Azurite and Table Storage in a dev container]]></title>
             <link>https://blog.johnnyreilly.com/2021/05/15/azurite-and-table-storage-dev-container</link>
