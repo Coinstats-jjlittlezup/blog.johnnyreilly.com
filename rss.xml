@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Fri, 11 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[React 18 and TypeScript]]></title>
+            <link>https://blog.johnnyreilly.com/2021/06/30/react-18-and-typescript</link>
+            <guid>React 18 and TypeScript</guid>
+            <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[React 18 alpha has been released; but can we use it with TypeScript? The answer is "yes", but you need to do a couple of things to make that happen. This post will show you what to do.]]></description>
+        </item>
         <item>
             <title><![CDATA[Azure Functions and .NET 5: Query params, Dependency Injection, Bicep & Build]]></title>
             <link>https://blog.johnnyreilly.com/2021/06/11/azure-functions-dotnet-5-query-params-di-bicep</link>

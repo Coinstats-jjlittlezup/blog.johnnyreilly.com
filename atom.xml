@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-06-11T00:00:00.000Z</updated>
+    <updated>2021-06-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[React 18 and TypeScript]]></title>
+        <id>React 18 and TypeScript</id>
+        <link href="https://blog.johnnyreilly.com/2021/06/30/react-18-and-typescript"/>
+        <updated>2021-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[React 18 alpha has been released; but can we use it with TypeScript? The answer is "yes", but you need to do a couple of things to make that happen. This post will show you what to do.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Functions and .NET 5: Query params, Dependency Injection, Bicep & Build]]></title>
         <id>Azure Functions and .NET 5: Query params, Dependency Injection, Bicep &amp; Build</id>
