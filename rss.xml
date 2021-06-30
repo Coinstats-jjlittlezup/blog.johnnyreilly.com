@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Wed, 30 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[C# 9 in-process Azure Functions]]></title>
+            <link>https://blog.johnnyreilly.com/2021/07/01/c-sharp-9-azure-functions-in-process</link>
+            <guid>C# 9 in-process Azure Functions</guid>
+            <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[C# 9 has some amazing features. Azure Functions are have two modes: isolated and in-process. Whilst isolated supports .NET 5 (and hence C# 9), in-process supports .NET Core 3.1 (C# 8). This post shows how we can use C# 9 with in-process Azure Functions running on .NET Core 3.1.]]></description>
+        </item>
         <item>
             <title><![CDATA[React 18 and TypeScript]]></title>
             <link>https://blog.johnnyreilly.com/2021/06/30/react-18-and-typescript</link>
