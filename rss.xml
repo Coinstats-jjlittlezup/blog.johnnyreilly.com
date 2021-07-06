@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Thu, 01 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Output connection strings and keys from Azure Bicep]]></title>
+            <link>https://blog.johnnyreilly.com/2021/07/07/output-connection-strings-and-keys-from-azure-bicep</link>
+            <guid>Output connection strings and keys from Azure Bicep</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[If you're provisioning resources in Azure with Bicep, you may have a need to acquire the connection strings and keys of your newly deployed infrastructure.  For example, the connection strings of an event hub or the access keys of a storage account. Perhaps you'd like to use them to run an end-to-end test, perhaps you'd like to store these secrets somewhere for later consumption.  This post shows how to do that using Bicep and the listKeys helper.  Optionally it shows how you could consume this in Azure Pipelines.]]></description>
+        </item>
         <item>
             <title><![CDATA[C# 9 in-process Azure Functions]]></title>
             <link>https://blog.johnnyreilly.com/2021/07/01/c-sharp-9-azure-functions-in-process</link>
