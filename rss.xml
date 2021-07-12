@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[webpack? esbuild? Why not both?]]></title>
+            <link>https://blog.johnnyreilly.com/2021/07/11/webpack-esbuild-why-not-both</link>
+            <guid>webpack? esbuild? Why not both?</guid>
+            <pubDate>Sun, 11 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Builds can be made faster using tools like esbuild. However, if you're invested in webpack but would still like to take advantage of speedier builds, there is a way. This post takes us through using esbuild alongside webpack using esbuild-loader.]]></description>
+        </item>
         <item>
             <title><![CDATA[Output connection strings and keys from Azure Bicep]]></title>
             <link>https://blog.johnnyreilly.com/2021/07/07/output-connection-strings-and-keys-from-azure-bicep</link>
