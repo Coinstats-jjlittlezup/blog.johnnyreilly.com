@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sun, 11 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jul 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Directory.Build.props: C# 9 for all your projects]]></title>
+            <link>https://blog.johnnyreilly.com/2021/07/14/directory-build-props-c-sharp-9-for-all</link>
+            <guid>Directory.Build.props: C# 9 for all your projects</guid>
+            <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[.NET Core can make use of C# 9 by making some changes to your .csproj files. There is a way to opt all projects in a solution into this behaviour in a single place, through using a Directory.Build.props file and / or a Directory.Build.targets file. Here's how to do it.]]></description>
+        </item>
         <item>
             <title><![CDATA[webpack? esbuild? Why not both?]]></title>
             <link>https://blog.johnnyreilly.com/2021/07/11/webpack-esbuild-why-not-both</link>
