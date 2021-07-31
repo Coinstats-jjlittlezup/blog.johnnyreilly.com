@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Wed, 14 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TypeScript, abstract classes, and constructors]]></title>
+            <link>https://blog.johnnyreilly.com/2021/08/01/typescript-abstract-classes-and-constructors</link>
+            <guid>TypeScript, abstract classes, and constructors</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[TypeScript has the ability to define classes as abstract. This means they cannot be instantiated directly, only non-abstract subclasses can be. Let's take a look at what this means when it comes to constructor usage.]]></description>
+        </item>
         <item>
             <title><![CDATA[Directory.Build.props: C# 9 for all your projects]]></title>
             <link>https://blog.johnnyreilly.com/2021/07/14/directory-build-props-c-sharp-9-for-all</link>
