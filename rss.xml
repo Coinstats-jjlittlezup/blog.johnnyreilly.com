@@ -225,9 +225,9 @@
             <description><![CDATA[Consistent formatting is a good thing. It makes code less confusing to newcomers and it allows whoever is working on the codebase to reliably focus on the task at hand. Not "fixing curly braces because Janice messed them up with her last commit". (A git commit message that would be tragic in so many ways.)]]></description>
         </item>
         <item>
-            <title><![CDATA[Azure AD should 403]]></title>
+            <title><![CDATA[Make Microsoft.Identity.Web respond with 403 forbidden instead of a 302 redirect]]></title>
             <link>https://blog.johnnyreilly.com/2020/12/21/how-to-make-azure-ad-403</link>
-            <guid>Azure AD should 403</guid>
+            <guid>Make Microsoft.Identity.Web respond with 403 forbidden instead of a 302 redirect</guid>
             <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[By default Microsoft.Identity.Web responds to unauthorized requests with a 302 (redirect). Do you want a 403 (forbidden) instead? Here's how.]]></description>
         </item>
