@@ -267,11 +267,11 @@
         <summary type="html"><![CDATA[When an application loads data, typically relatively few HTTP requests will be made. For example, if we imagine we're making a student administration application, then a "view" screen might make a single HTTP request to load that student's data before displaying it.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azure DevOps Node API: The missing episodes]]></title>
-        <id>Azure DevOps Node API: The missing episodes</id>
+        <title type="html"><![CDATA[Azure DevOps Client for Node.js - working around limitations]]></title>
+        <id>Azure DevOps Client for Node.js - working around limitations</id>
         <link href="https://blog.johnnyreilly.com/2020/10/31/azure-devops-node-api-missing-episodes"/>
         <updated>2020-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been taking a good look at the REST API for Azure DevOps. I'm delighted to say that it's a very full API. However, there's quirks.]]></summary>
+        <summary type="html"><![CDATA[The Azure DevOps Client library for Node.js has limitations and missing features, such as the ability to paginate git refs and create wiki posts. This post details some of these issues and illustrates a workaround using the Azure DevOps REST API.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Safari: The Mysterious Case of the Empty Download]]></title>
