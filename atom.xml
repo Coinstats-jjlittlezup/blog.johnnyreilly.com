@@ -470,11 +470,11 @@
         <summary type="html"><![CDATA[It's time for the first major version of fork-ts-checker-webpack-plugin. It's been a long time coming :-)]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AllowList Proxying with ASP.Net Core]]></title>
-        <id>AllowList Proxying with ASP.Net Core</id>
-        <link href="https://blog.johnnyreilly.com/2019/02/22/allowlist-proxying-with-aspnet-core"/>
+        <title type="html"><![CDATA[ASP.NET Core: Proxying HTTP Requests with an AllowList]]></title>
+        <id>ASP.NET Core: Proxying HTTP Requests with an AllowList</id>
+        <link href="https://blog.johnnyreilly.com/2019/02/22/aspnet-core-allowlist-proxying-http-requests"/>
         <updated>2019-02-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Once upon a time there lived a young team who were building a product. They were ready to go live with their beta and so they set off on a journey to a mystical land they had heard tales of. This magical kingdom was called "Production". However, Production was a land with walls and but one gate. That gate was jealously guarded by a defender named "InfoSec". InfoSec was there to make sure that only the the right people, noble of thought and pure of deed were allowed into the promised land. InfoSec would ask questions like "are you serving over HTTPS" and "what are you doing about cross site scripting"?]]></summary>
+        <summary type="html"><![CDATA[This post demonstrates a mechanism for proxying HTTP requests in ASP.NET Core. It doesn't proxy all requests; it only proxies requests that match entries on an "allowlist" - so we only proxy the traffic that we've actively decided is acceptable as determined by taking the form of an expected URL and HTTP verb (GET / POST etc).]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript and webpack: Watch It]]></title>
