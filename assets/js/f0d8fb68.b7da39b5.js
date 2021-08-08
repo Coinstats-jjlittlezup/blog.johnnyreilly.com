@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[25470],{1422:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"forward-default-selector","name":"forwarddefaultselector","count":1,"permalink":"/tags/forward-default-selector"}')}}]);

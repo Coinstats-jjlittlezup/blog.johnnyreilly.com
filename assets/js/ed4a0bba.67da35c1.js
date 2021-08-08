@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[80619],{4446:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"react-router","name":"react-router","count":1,"permalink":"/tags/react-router"}')}}]);

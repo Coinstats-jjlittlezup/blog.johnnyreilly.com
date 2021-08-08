@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[17121],{12229:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"net-tcp-binding","name":"nettcpbinding","count":2,"permalink":"/tags/net-tcp-binding"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[15667],{12165:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"webservice-htc","name":"webservice.htc","count":1,"permalink":"/tags/webservice-htc"}')}}]);

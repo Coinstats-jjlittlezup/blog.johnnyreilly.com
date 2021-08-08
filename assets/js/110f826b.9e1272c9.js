@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[75613],{15907:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tony-tomov","name":"tony tomov","count":1,"permalink":"/tags/tony-tomov"}')}}]);

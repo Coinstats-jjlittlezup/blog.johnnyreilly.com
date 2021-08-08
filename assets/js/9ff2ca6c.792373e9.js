@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[65788],{64998:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"transitions","name":"transitions","count":1,"permalink":"/tags/transitions"}')}}]);

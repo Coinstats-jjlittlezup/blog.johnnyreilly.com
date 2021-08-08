@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[15808],{67881:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"compile-time-constants","name":"compile-time constants","count":1,"permalink":"/tags/compile-time-constants"}')}}]);

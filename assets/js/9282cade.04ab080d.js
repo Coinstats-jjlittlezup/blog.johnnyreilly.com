@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2445],{79188:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"mobx","name":"mobx","count":1,"permalink":"/tags/mobx"}')}}]);

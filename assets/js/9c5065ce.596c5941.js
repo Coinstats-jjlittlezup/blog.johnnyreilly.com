@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[3741],{52435:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"babel-loader","name":"babel-loader","count":1,"permalink":"/tags/babel-loader"}')}}]);

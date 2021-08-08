@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[51880],{52548:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"directives","name":"directives","count":1,"permalink":"/tags/directives"}')}}]);

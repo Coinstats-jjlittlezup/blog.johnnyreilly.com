@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[65065],{38670:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"cross-env","name":"cross-env","count":1,"permalink":"/tags/cross-env"}')}}]);

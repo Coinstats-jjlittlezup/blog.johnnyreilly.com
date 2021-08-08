@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[62842],{22138:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"emoji","name":"emoji","count":1,"permalink":"/tags/emoji"}')}}]);

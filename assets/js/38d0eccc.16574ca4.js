@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2397],{47395:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"open-xml","name":"open xml","count":1,"permalink":"/tags/open-xml"}')}}]);

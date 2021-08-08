@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[53357],{46318:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dictionary","name":"dictionary","count":1,"permalink":"/tags/dictionary"}')}}]);

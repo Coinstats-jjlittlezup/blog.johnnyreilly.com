@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[39515],{91478:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"sql-server","name":"sql server","count":2,"permalink":"/tags/sql-server"}')}}]);

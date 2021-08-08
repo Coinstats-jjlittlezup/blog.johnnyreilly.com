@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[50985],{99035:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"jqgrid","name":"jqgrid","count":2,"permalink":"/tags/jqgrid"}')}}]);

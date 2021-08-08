@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[63403],{80746:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tslint","name":"tslint","count":1,"permalink":"/tags/tslint"}')}}]);

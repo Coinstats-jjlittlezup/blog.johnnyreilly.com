@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[78379],{59322:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/tags","slug":"coding-bootcamp","name":"coding bootcamp","count":1,"permalink":"/tags/coding-bootcamp"}')}}]);

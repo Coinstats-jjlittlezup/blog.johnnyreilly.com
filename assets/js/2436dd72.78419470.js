@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[14614],{8072:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"notifications","name":"notifications","count":1,"permalink":"/tags/notifications"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[87238],{1788:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"server-validation","name":"server validation","count":1,"permalink":"/tags/server-validation"}')}}]);

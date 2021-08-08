@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[89432],{25315:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dependency-injection","name":"dependency injection","count":1,"permalink":"/tags/dependency-injection"}')}}]);

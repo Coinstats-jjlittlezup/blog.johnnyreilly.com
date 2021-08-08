@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[8374],{69383:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"project-references","name":"project references","count":1,"permalink":"/tags/project-references"}')}}]);

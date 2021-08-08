@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[41061],{38433:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dev-container","name":"dev container","count":1,"permalink":"/tags/dev-container"}')}}]);

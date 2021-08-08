@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[28634],{83990:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"jqueryui","name":"jqueryui","count":1,"permalink":"/tags/jqueryui"}')}}]);

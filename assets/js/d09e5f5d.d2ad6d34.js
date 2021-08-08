@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[50474],{66199:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"richard-d-worth","name":"richard d. worth","count":1,"permalink":"/tags/richard-d-worth"}')}}]);

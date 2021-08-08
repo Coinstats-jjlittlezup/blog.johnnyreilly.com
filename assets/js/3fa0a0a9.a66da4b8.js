@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[20755],{66474:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"chrome","name":"chrome","count":1,"permalink":"/tags/chrome"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[3427],{88250:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"type-script-compile","name":"typescriptcompile","count":1,"permalink":"/tags/type-script-compile"}')}}]);

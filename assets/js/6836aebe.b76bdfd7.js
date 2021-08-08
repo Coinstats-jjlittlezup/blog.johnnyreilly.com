@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[69331],{94399:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"gulpjs","name":"gulpjs","count":1,"permalink":"/tags/gulpjs"}')}}]);

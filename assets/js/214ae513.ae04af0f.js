@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[95525],{37003:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"data-annotations","name":"dataannotations","count":2,"permalink":"/tags/data-annotations"}')}}]);

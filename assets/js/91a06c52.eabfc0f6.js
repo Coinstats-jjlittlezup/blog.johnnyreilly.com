@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[7424],{15722:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"conditional-types","name":"conditional types","count":1,"permalink":"/tags/conditional-types"}')}}]);

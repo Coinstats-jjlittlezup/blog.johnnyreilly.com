@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[20085],{26583:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"elijah-manor","name":"elijah manor","count":1,"permalink":"/tags/elijah-manor"}')}}]);

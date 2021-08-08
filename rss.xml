@@ -414,11 +414,11 @@
             <description><![CDATA[I did ponder calling this post "how to enable a good TypeScript developer experience for npm modules that aren't written in TypeScript"... Not exactly pithy though.]]></description>
         </item>
         <item>
-            <title><![CDATA[Hard-coding a Claim in Development Mode in ASP.Net Core]]></title>
-            <link>https://blog.johnnyreilly.com/2019/08/02/hard-coding-claim-in-development-mode</link>
-            <guid>Hard-coding a Claim in Development Mode in ASP.Net Core</guid>
+            <title><![CDATA[ASP.NET Core authentication: hard-coding a claim in development]]></title>
+            <link>https://blog.johnnyreilly.com/2019/08/02/asp-net-authentication-hard-coding-claims</link>
+            <guid>ASP.NET Core authentication: hard-coding a claim in development</guid>
             <pubDate>Fri, 02 Aug 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[I was recently part of a hackathon team that put together an API in just 30 hours. We came second. (Not bitter, not bitter...)]]></description>
+            <description><![CDATA[This post demonstrates how you can hard code user authentication claims in ASP.NET Core; a useful technique to facilate testing during development.]]></description>
         </item>
         <item>
             <title><![CDATA[Using TypeScript and ESLint with webpack (fork-ts-checker-webpack-plugin new feature!)]]></title>
@@ -460,19 +460,19 @@
             <link>https://blog.johnnyreilly.com/2019/03/22/google-analytics-api-and-aspnet-core</link>
             <guid>Google Analytics API and ASP.Net Core</guid>
             <pubDate>Fri, 22 Mar 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Some of my posts are meaningful treaties on the nature of software development. Some are detailed explanations of approaches you can use. Some are effectively code dumps. This is one of those.]]></description>
+            <description><![CDATA[I recently had need to be able to access the API for Google Analytics from ASP.Net Core. Getting this up and running turned out to be surprisingly tough because of an absence of good examples. So here it is; an example of how you can access a simple page access stat using the API:]]></description>
         </item>
         <item>
-            <title><![CDATA[The Big One Point Oh]]></title>
-            <link>https://blog.johnnyreilly.com/2019/03/06/the-big-one-point-oh</link>
-            <guid>The Big One Point Oh</guid>
+            <title><![CDATA[fork-ts-checker-webpack-plugin v1.0]]></title>
+            <link>https://blog.johnnyreilly.com/2019/03/06/fork-ts-checker-webpack-plugin-v1</link>
+            <guid>fork-ts-checker-webpack-plugin v1.0</guid>
             <pubDate>Wed, 06 Mar 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[It's time for the first major version of fork-ts-checker-webpack-plugin. It's been a long time coming :-)]]></description>
         </item>
         <item>
-            <title><![CDATA[WhiteList Proxying with ASP.Net Core]]></title>
-            <link>https://blog.johnnyreilly.com/2019/02/22/whitelist-proxying-with-aspnet-core</link>
-            <guid>WhiteList Proxying with ASP.Net Core</guid>
+            <title><![CDATA[AllowList Proxying with ASP.Net Core]]></title>
+            <link>https://blog.johnnyreilly.com/2019/02/22/allowlist-proxying-with-aspnet-core</link>
+            <guid>AllowList Proxying with ASP.Net Core</guid>
             <pubDate>Fri, 22 Feb 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Once upon a time there lived a young team who were building a product. They were ready to go live with their beta and so they set off on a journey to a mystical land they had heard tales of. This magical kingdom was called "Production". However, Production was a land with walls and but one gate. That gate was jealously guarded by a defender named "InfoSec". InfoSec was there to make sure that only the the right people, noble of thought and pure of deed were allowed into the promised land. InfoSec would ask questions like "are you serving over HTTPS" and "what are you doing about cross site scripting"?]]></description>
         </item>
@@ -918,11 +918,11 @@
             <description><![CDATA[I’ve a love / hate relationship with Coded UI. Well hate / hate might be more accurate. Hate perhaps married with a very grudging respect still underpinned by a wary bitterness. Yes, that’s about the size of it. Why? Well, when Coded UI works, it’s fab. But it’s flaky as anything. Anybody who’s used the technology is presently nodding sagely and holding back the tears. It’s all a bit... tough.]]></description>
         </item>
         <item>
-            <title><![CDATA[UseStaticFiles for ASP.Net vOld]]></title>
+            <title><![CDATA[UseStaticFiles for ASP.Net Framework]]></title>
             <link>https://blog.johnnyreilly.com/2016/01/01/usestaticfiles-for-aspnet-vold</link>
-            <guid>UseStaticFiles for ASP.Net vOld</guid>
+            <guid>UseStaticFiles for ASP.Net Framework</guid>
             <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
-            <description><![CDATA[That's what we're calling the original ASP.Net now, right? This is a guide on how not]]></description>
+            <description><![CDATA[This is a guide on how not to expose all your static files to the world at large when working with the ASP.Net Framework. How to move from a blocklisting approach to a allowlisting approach.]]></description>
         </item>
         <item>
             <title><![CDATA[Live Reload Considered Harmful]]></title>

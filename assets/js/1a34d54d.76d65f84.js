@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[36731],{23964:function(i){"use strict";i.exports=JSON.parse('{"allTagsPath":"/tags","slug":"minification","name":"minification","count":1,"permalink":"/tags/minification"}')}}]);

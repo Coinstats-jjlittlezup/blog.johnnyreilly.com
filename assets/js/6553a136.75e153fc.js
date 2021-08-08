@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[68069],{797:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"encosia","name":"encosia","count":2,"permalink":"/tags/encosia"}')}}]);

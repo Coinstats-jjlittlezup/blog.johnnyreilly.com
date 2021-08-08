@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[98619],{47515:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"pwa","name":"pwa","count":3,"permalink":"/tags/pwa"}')}}]);

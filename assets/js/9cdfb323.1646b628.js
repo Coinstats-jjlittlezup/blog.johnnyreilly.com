@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[14240],{69466:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"brand-icons","name":"brand icons","count":1,"permalink":"/tags/brand-icons"}')}}]);

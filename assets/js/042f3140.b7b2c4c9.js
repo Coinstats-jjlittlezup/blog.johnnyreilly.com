@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[74581],{11500:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"cookie","name":"cookie","count":1,"permalink":"/tags/cookie"}')}}]);

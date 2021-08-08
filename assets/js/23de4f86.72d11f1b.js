@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[75261],{23535:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"hot-towel","name":"hottowel","count":1,"permalink":"/tags/hot-towel"}')}}]);

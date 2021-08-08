@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[22277],{53264:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ie-10","name":"ie 10","count":2,"permalink":"/tags/ie-10"}')}}]);

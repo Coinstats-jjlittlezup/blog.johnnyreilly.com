@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[73637],{50029:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"coded-ui","name":"coded ui","count":2,"permalink":"/tags/coded-ui"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[16351],{84519:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"jquery-remote-validation","name":"jquery remote validation","count":1,"permalink":"/tags/jquery-remote-validation"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[89117],{87614:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"kevin-craft","name":"kevin craft","count":1,"permalink":"/tags/kevin-craft"}')}}]);

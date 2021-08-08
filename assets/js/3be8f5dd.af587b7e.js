@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[60707],{79364:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"observer-pattern","name":"observer pattern","count":1,"permalink":"/tags/observer-pattern"}')}}]);

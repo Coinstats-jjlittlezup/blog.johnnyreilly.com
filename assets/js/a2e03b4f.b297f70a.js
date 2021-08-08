@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[6359],{7535:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"bootstrap-datepicker","name":"bootstrap datepicker","count":1,"permalink":"/tags/bootstrap-datepicker"}')}}]);

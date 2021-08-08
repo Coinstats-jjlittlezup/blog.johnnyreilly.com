@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[43114],{74307:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"m-de-leon","name":"mdeleon","count":1,"permalink":"/tags/m-de-leon"}')}}]);

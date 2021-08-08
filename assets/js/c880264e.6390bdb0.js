@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[87899],{88538:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"compatibility-mode","name":"compatibility mode","count":1,"permalink":"/tags/compatibility-mode"}')}}]);

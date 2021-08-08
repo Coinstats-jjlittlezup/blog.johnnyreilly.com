@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[539],{31353:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"fast-builds","name":"fast builds","count":1,"permalink":"/tags/fast-builds"}')}}]);

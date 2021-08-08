@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[45157],{54894:function(l){l.exports=JSON.parse('{"allTagsPath":"/tags","slug":"allowlist","name":"allowlist","count":1,"permalink":"/tags/allowlist"}')}}]);

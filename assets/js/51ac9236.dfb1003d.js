@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[62679],{34508:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dual-authentication","name":"dual authentication","count":1,"permalink":"/tags/dual-authentication"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[94629],{66172:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"web-sockets","name":"websockets","count":1,"permalink":"/tags/web-sockets"}')}}]);

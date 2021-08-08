@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[16166],{19110:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"marc-talary","name":"marc talary","count":1,"permalink":"/tags/marc-talary"}')}}]);

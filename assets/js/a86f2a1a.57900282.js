@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[4406],{67478:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"database-snapshots","name":"database snapshots","count":1,"permalink":"/tags/database-snapshots"}')}}]);

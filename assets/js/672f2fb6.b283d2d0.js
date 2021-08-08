@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2419],{60635:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"nathan-vonnahme","name":"nathan vonnahme","count":1,"permalink":"/tags/nathan-vonnahme"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[65089],{19240:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"tsconfig-json","name":"tsconfig.json","count":3,"permalink":"/tags/tsconfig-json"}')}}]);

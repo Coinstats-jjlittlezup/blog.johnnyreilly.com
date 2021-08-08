@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[89722],{74205:function(n){"use strict";n.exports=JSON.parse('{"allTagsPath":"/tags","slug":"naming-convention","name":"naming convention","count":1,"permalink":"/tags/naming-convention"}')}}]);

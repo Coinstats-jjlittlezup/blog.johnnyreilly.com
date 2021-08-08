@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[98724],{37137:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"cassette","name":"cassette","count":4,"permalink":"/tags/cassette"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[85735],{55848:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"migration","name":"migration","count":1,"permalink":"/tags/migration"}')}}]);

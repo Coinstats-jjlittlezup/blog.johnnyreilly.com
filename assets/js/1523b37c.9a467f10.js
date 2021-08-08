@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[5891],{2523:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"delphi","name":"delphi","count":1,"permalink":"/tags/delphi"}')}}]);

@@ -1,1 +1,0 @@
-(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[17600],{85811:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"comlink","name":"comlink","count":1,"permalink":"/tags/comlink"}')}}]);
