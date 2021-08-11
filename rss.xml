@@ -176,11 +176,11 @@
             <description><![CDATA[If you're deploying an ASP.NET application to Azure App Services, there's a decent chance you'll also be using the fantastic Serilog and will want to plug it into Azure's Application Insights.]]></description>
         </item>
         <item>
-            <title><![CDATA[Surfacing Azure Pipelines Build Info in a .NET React SPA]]></title>
-            <link>https://blog.johnnyreilly.com/2021/01/29/surfacing-azure-pipelines-build-info-in</link>
-            <guid>Surfacing Azure Pipelines Build Info in a .NET React SPA</guid>
+            <title><![CDATA[Azure Pipelines Build Info in an ASP.NET React app]]></title>
+            <link>https://blog.johnnyreilly.com/2021/01/29/surfacing-azure-pipelines-build-info-in-an-aspnet-react-app</link>
+            <guid>Azure Pipelines Build Info in an ASP.NET React app</guid>
             <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[The title of this post is hugely specific, but the idea is simple. We want to answer the question "Hey! I'm version 1.2.3.4 of your app; built from this commit hash, I was built on Wednesday, I was the nineth build that day and I was built from the main branch. And I'm an Aries." Or something like that.]]></description>
+            <description><![CDATA[How do you answer the question: "what version of my application is running in Production right now?" This post demonstrates how to surface the build metadata that represents the version of your app, from your app using Azure Pipelines and ASP.NET.]]></description>
         </item>
         <item>
             <title><![CDATA[Azure Easy Auth and Roles with .NET and Microsoft.Identity.Web]]></title>
@@ -197,11 +197,11 @@
             <description><![CDATA[If this post is interesting to you, you may also want to look at this one where we try to use Microsoft.Identity.Web for the same purpose.]]></description>
         </item>
         <item>
-            <title><![CDATA[Strongly typing react-querys useQueries]]></title>
+            <title><![CDATA[react-query: strongly typing useQueries]]></title>
             <link>https://blog.johnnyreilly.com/2021/01/03/strongly-typing-react-query-s-usequeries</link>
-            <guid>Strongly typing react-querys useQueries</guid>
+            <guid>react-query: strongly typing useQueries</guid>
             <pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[If you haven't used react-query then I heartily recommend it. It provides (to quote the docs):]]></description>
+            <description><![CDATA[react-query has a weakly typed hook named useQueries. It's possible to turn that into a strong typed hook; this post shows you how.]]></description>
         </item>
         <item>
             <title><![CDATA[Create React App with ts-loader and CRACO]]></title>
