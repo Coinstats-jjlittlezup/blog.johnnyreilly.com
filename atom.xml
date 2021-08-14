@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-08-01T00:00:00.000Z</updated>
+    <updated>2021-08-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 4.4 and more readable code]]></title>
+        <id>TypeScript 4.4 and more readable code</id>
+        <link href="https://blog.johnnyreilly.com/2021/08/14/typescript-4-4-more-readable-code"/>
+        <updated>2021-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An exciting feature is shipping with TypeScript 4.4. It has the name "Control Flow Analysis of Aliased Conditions" which is quite a mouthful. This post unpacks what this feature is, and demonstrates the contribution it makes to improving the readability of code.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript, abstract classes, and constructors]]></title>
         <id>TypeScript, abstract classes, and constructors</id>
