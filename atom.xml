@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.johnnyreilly.com/</id>
     <title>I CAN MAKE THIS WORK Blog</title>
-    <updated>2021-08-14T00:00:00.000Z</updated>
+    <updated>2021-08-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.johnnyreilly.com/"/>
     <subtitle>I CAN MAKE THIS WORK Blog</subtitle>
     <icon>https://blog.johnnyreilly.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Publish Azure Static Web Apps with Bicep and Azure DevOps]]></title>
+        <id>Publish Azure Static Web Apps with Bicep and Azure DevOps</id>
+        <link href="https://blog.johnnyreilly.com/2021/08/15/bicep-azure-static-web-apps-azure-devops"/>
+        <updated>2021-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This post demonstrates how to deploy Azure Static Web Apps using Bicep and Azure DevOps. It includes a workaround for the "Provider is invalid.  Cannot change the Provider. Please detach your static site first if you wish to use to another deployment provider." issue.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 4.4 and more readable code]]></title>
         <id>TypeScript 4.4 and more readable code</id>
