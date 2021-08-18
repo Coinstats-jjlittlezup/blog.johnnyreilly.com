@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Sun, 15 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bicep: syntax highlighting with PrismJS (and Docusaurus)]]></title>
+            <link>https://blog.johnnyreilly.com/2021/08/19/bicep-syntax-highlighting-with-prismjs</link>
+            <guid>Bicep: syntax highlighting with PrismJS (and Docusaurus)</guid>
+            <pubDate>Thu, 19 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bicep is an amazing language, it's also very new. If you want to write attractive code snippets about Bicep, you can by using PrismJS (and Docusaurus). This post shows you how.]]></description>
+        </item>
         <item>
             <title><![CDATA[Publish Azure Static Web Apps with Bicep and Azure DevOps]]></title>
             <link>https://blog.johnnyreilly.com/2021/08/15/bicep-azure-static-web-apps-azure-devops</link>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[34753],{97154:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"bicep","name":"bicep","count":7,"permalink":"/tags/bicep"}')}}]);
