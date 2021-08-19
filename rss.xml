@@ -561,18 +561,18 @@
             <description><![CDATA[This a tale of things that are and things that aren't. It's a tale of semantic versioning, the lack thereof and heartbreak. It's a story of terror and failing builds. But it has a bittersweet ending wherein our heroes learn a lesson and understand the need for compromise. We all come out better and wiser people. Hopefully there's something for everybody; let's start with an exciting opener and see where it goes...]]></description>
         </item>
         <item>
-            <title><![CDATA[TypeScript, webpack: goodbye relative paths]]></title>
-            <link>https://blog.johnnyreilly.com/2018/08/21/killing-relative-paths-with-typescript-and</link>
-            <guid>TypeScript, webpack: goodbye relative paths</guid>
+            <title><![CDATA[Using TypeScript and webpack alias: goodbye relative paths]]></title>
+            <link>https://blog.johnnyreilly.com/2018/08/21/typescript-webpack-alias-goodbye-relative-paths</link>
+            <guid>Using TypeScript and webpack alias: goodbye relative paths</guid>
             <pubDate>Tue, 21 Aug 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[I write a lot of TypeScript. Because I like modularity, I split up my codebases into discreet modules and import from them as necessary.]]></description>
+            <description><![CDATA[This post shows how you can use TypeScript with webpack alias to move away from using relative paths in your import statements.]]></description>
         </item>
         <item>
-            <title><![CDATA[Docker and Configuration on Azure Web App for Containers: Whither Colons?]]></title>
-            <link>https://blog.johnnyreilly.com/2018/07/28/configuring-docker-azure-web-app-containers</link>
-            <guid>Docker and Configuration on Azure Web App for Containers: Whither Colons?</guid>
+            <title><![CDATA[Azure App Service: nested configuration for ASP.NET running in Web App for Containers using Application Settings]]></title>
+            <link>https://blog.johnnyreilly.com/2018/07/28/azure-app-service-web-app-containers-asp-net-nested-configuration</link>
+            <guid>Azure App Service: nested configuration for ASP.NET running in Web App for Containers using Application Settings</guid>
             <pubDate>Sat, 28 Jul 2018 00:00:00 GMT</pubDate>
-            <description><![CDATA[App Services have long been a super simple way to spin up a web app in Azure. The barrier to entry is low, maintenance is easy. It just works. App Services recently got a turbo boost in the form of Azure App Service on Linux. Being able to deploy to Linux is exciting enough; but the real reason this is notable because you can deploy Docker images that will be run as app services.]]></description>
+            <description><![CDATA[How can we configure an ASP.NET application with nested properties Azure App Service Web App for Containers using Application Settings in Azure? Colons don't work.]]></description>
         </item>
         <item>
             <title><![CDATA[Cypress and Auth0]]></title>
