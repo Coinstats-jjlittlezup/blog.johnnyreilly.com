@@ -183,11 +183,11 @@
             <description><![CDATA[I've been working recently on zero downtime deployments using Azure App Service. They're facilitated by a combination of Health checks and deployment slots. This post will talk about why this is important and how it works.]]></description>
         </item>
         <item>
-            <title><![CDATA[ARM templates, security, role assignments and magic GUIDs]]></title>
+            <title><![CDATA[Azure RBAC: role assignments and ARM templates]]></title>
             <link>https://blog.johnnyreilly.com/2021/02/08/arm-templates-security-role-assignments</link>
-            <guid>ARM templates, security, role assignments and magic GUIDs</guid>
+            <guid>Azure RBAC: role assignments and ARM templates</guid>
             <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[If you're deploying to Azure, there's a good chance you're using ARM templates to do so. Once you've got past "Hello World", you'll probably find yourself in a situation when you're deploying multiple types of resource to make your solution. For instance, you may be deploying an App Service alongside Key Vault and Storage.]]></description>
+            <description><![CDATA[This post is about Azure's role assignments and ARM templates. Role assignments can be thought of as "permissions for Azure".]]></description>
         </item>
         <item>
             <title><![CDATA[ASP.NET, Serilog and Application Insights]]></title>
