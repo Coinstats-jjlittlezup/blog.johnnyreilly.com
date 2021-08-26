@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[89007],{90830:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/wcf-data-services","name":"WCF Data Services","count":1,"permalink":"/tags/wcf-data-services"}')}}]);

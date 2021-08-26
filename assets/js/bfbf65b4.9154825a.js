@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[62634],{37628:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/john-papa","name":"JohnPapa","count":1,"permalink":"/tags/john-papa"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[59108],{30184:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"azurite","name":"azurite","count":1,"permalink":"/tags/azurite"}')}}]);

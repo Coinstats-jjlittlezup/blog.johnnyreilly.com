@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[87935],{86098:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/docking-station","name":"Docking station","count":1,"permalink":"/tags/docking-station"}')}}]);

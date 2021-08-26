@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[71872],{33609:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/definitely-typed","name":"Definitely Typed","count":7,"permalink":"/tags/definitely-typed"}')}}]);

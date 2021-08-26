@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[40657],{15797:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"code-style","name":"code style","count":1,"permalink":"/tags/code-style"}')}}]);

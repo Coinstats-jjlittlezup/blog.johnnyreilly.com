@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[76959],{34185:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/azure-dev-ops-api","name":"Azure DevOps API","count":1,"permalink":"/tags/azure-dev-ops-api"}')}}]);

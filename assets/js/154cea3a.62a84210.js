@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[95746],{56828:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"mocking","name":"mocking","count":1,"permalink":"/tags/mocking"}')}}]);

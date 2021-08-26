@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[55491],{4753:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/directory-build-props","name":"Directory.Build.props","count":1,"permalink":"/tags/directory-build-props"}')}}]);

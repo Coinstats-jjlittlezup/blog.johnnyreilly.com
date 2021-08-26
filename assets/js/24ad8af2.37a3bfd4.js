@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[84554],{21274:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/amd","name":"AMD","count":2,"permalink":"/tags/amd"}')}}]);

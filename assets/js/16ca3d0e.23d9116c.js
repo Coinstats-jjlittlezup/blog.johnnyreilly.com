@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[60448],{66111:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"union-types","name":"union types","count":1,"permalink":"/tags/union-types"}')}}]);

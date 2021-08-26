@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[64091],{18574:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/semantic-versioning","name":"semantic versioning","count":2,"permalink":"/tags/semantic-versioning"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[99500],{21668:function(t){t.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/atom-typescript","name":"atom-typescript","count":1,"permalink":"/tags/atom-typescript"}')}}]);

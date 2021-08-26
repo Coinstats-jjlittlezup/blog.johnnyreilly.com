@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[61097],{527:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/react-select","name":"react-select","count":1,"permalink":"/tags/react-select"}')}}]);

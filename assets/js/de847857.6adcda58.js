@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[58735],{73467:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"linq","name":"linq","count":4,"permalink":"/tags/linq"}')}}]);

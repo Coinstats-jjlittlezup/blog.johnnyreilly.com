@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[76647],{73420:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"wiredep","name":"wiredep","count":1,"permalink":"/tags/wiredep"}')}}]);

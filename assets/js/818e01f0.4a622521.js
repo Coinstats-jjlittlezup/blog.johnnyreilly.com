@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[50737],{79428:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ui-router","name":"ui router","count":1,"permalink":"/tags/ui-router"}')}}]);

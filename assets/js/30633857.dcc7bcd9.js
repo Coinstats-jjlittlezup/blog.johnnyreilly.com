@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2328],{42313:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"indexed-db","name":"indexeddb","count":1,"permalink":"/tags/indexed-db"}')}}]);

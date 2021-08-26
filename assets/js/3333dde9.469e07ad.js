@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[71761],{97877:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/routing","name":"Routing","count":1,"permalink":"/tags/routing"}')}}]);

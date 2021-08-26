@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[23665],{53105:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/second-monitor","name":"Second monitor","count":1,"permalink":"/tags/second-monitor"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[30427],{28011:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"wcf","name":"wcf","count":3,"permalink":"/tags/wcf"}')}}]);

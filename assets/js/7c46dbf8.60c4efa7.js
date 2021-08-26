@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[66078],{79804:function(l){l.exports=JSON.parse('{"allTagsPath":"/tags","slug":"mild-trolling","name":"mild trolling","count":1,"permalink":"/tags/mild-trolling"}')}}]);

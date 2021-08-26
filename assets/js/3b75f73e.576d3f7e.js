@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[39306],{88177:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/emmett-brown","name":"Emmett Brown","count":1,"permalink":"/tags/emmett-brown"}')}}]);

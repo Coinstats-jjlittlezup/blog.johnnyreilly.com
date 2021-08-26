@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[70384],{21764:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/area-registration-register-all-areas","name":"AreaRegistration.RegisterAllAreas()","count":1,"permalink":"/tags/area-registration-register-all-areas"}')}}]);

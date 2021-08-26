@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[19638],{27893:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"service-worker","name":"service worker","count":1,"permalink":"/tags/service-worker"}')}}]);

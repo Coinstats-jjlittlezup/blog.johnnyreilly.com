@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[29904],{89505:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/hungarian-notation","name":"Hungarian Notation","count":1,"permalink":"/tags/hungarian-notation"}')}}]);

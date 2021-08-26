@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2615],{48837:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"ternary-operator","name":"ternary operator","count":1,"permalink":"/tags/ternary-operator"}')}}]);

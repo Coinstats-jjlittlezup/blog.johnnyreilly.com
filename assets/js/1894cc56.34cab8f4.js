@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[61787],{17555:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/moq","name":"MOQ","count":4,"permalink":"/tags/moq"}')}}]);

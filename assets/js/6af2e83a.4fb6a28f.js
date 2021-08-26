@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[22443],{72022:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"html-5-mode","name":"html5mode","count":1,"permalink":"/tags/html-5-mode"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[93634],{70990:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/table-api","name":"Table API","count":1,"permalink":"/tags/table-api"}')}}]);

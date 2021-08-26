@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[53385],{32541:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/poor-clares","name":"Poor Clares","count":1,"permalink":"/tags/poor-clares"}')}}]);

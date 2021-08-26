@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[71301],{3902:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/c-6","name":"C# 6","count":1,"permalink":"/tags/c-6"}')}}]);

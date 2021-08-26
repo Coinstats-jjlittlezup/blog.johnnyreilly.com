@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[62012],{67715:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/douglas-crockford","name":"douglas crockford","count":3,"permalink":"/tags/douglas-crockford"}')}}]);

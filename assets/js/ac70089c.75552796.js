@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[96080],{62837:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"prettier","name":"prettier","count":1,"permalink":"/tags/prettier"}')}}]);

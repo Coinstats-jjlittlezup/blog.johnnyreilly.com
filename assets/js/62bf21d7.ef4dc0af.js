@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[80554],{94893:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/linq-to-xml","name":"LINQ to XML","count":1,"permalink":"/tags/linq-to-xml"}')}}]);

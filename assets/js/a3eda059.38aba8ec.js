@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[71159],{71034:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/dojo","name":"DOJO","count":1,"permalink":"/tags/dojo"}')}}]);

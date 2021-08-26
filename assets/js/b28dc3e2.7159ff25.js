@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[21890],{24952:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"i-enumerable-vs-i-queryable","name":"ienumerable vs iqueryable","count":1,"permalink":"/tags/i-enumerable-vs-i-queryable"}')}}]);

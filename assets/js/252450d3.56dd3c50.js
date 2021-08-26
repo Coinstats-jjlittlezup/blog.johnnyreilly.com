@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[12351],{36300:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/navigation-property","name":"navigation property","count":1,"permalink":"/tags/navigation-property"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[45727],{59945:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"azure-pipelines","name":"azure pipelines","count":7,"permalink":"/tags/azure-pipelines"}')}}]);

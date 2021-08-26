@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[51622],{84297:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/prism-js","name":"PrismJS","count":1,"permalink":"/tags/prism-js"}')}}]);

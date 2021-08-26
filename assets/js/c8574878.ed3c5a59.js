@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[51610],{69278:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"service-now","name":"service now","count":1,"permalink":"/tags/service-now"}')}}]);

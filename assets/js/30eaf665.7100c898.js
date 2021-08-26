@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[54302],{69501:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/local-storage","name":"localStorage","count":1,"permalink":"/tags/local-storage"}')}}]);

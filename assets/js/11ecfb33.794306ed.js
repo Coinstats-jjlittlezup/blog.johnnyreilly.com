@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2975],{96508:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/compromise","name":"compromise","count":1,"permalink":"/tags/compromise"}')}}]);

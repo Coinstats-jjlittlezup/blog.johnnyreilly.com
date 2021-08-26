@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[9148],{41768:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/sem-ver","name":"SemVer","count":1,"permalink":"/tags/sem-ver"}')}}]);

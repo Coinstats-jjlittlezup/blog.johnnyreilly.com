@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[53833],{69003:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"dead-code-elimination","name":"dead code elimination","count":1,"permalink":"/tags/dead-code-elimination"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[69669],{17877:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/ui-bootstrap","name":"UI Bootstrap","count":1,"permalink":"/tags/ui-bootstrap"}')}}]);

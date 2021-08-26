@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[46945],{51045:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/lexical-scoping","name":"Lexical scoping","count":1,"permalink":"/tags/lexical-scoping"}')}}]);

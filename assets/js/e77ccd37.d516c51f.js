@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[23979],{85128:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/no-postback","name":"no postback","count":1,"permalink":"/tags/no-postback"}')}}]);

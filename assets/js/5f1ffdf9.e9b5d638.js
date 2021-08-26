@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[79664],{55326:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"wu-tang","name":"wu-tang","count":1,"permalink":"/tags/wu-tang"}')}}]);

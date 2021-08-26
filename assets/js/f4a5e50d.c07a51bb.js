@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[62310],{53005:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/system-web-script-serialization-java-script-serializer","name":"System.Web.Script.Serialization.JavaScriptSerializer","count":1,"permalink":"/tags/system-web-script-serialization-java-script-serializer"}')}}]);

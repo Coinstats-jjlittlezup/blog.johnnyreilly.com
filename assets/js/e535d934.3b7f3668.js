@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[81466],{21654:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/validation","name":"validation","count":1,"permalink":"/tags/validation"}')}}]);

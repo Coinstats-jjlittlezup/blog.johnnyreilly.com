@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[18244],{46248:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"azure-table-storage","name":"azure table storage","count":1,"permalink":"/tags/azure-table-storage"}')}}]);

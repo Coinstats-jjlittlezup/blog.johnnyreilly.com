@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[81713],{44579:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/j-query-validation-unobtrusive-native","name":"jQuery.Validation.Unobtrusive.Native","count":1,"permalink":"/tags/j-query-validation-unobtrusive-native"}')}}]);

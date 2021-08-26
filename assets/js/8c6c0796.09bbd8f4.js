@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[2816],{59123:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/retrospective","name":"retrospective","count":1,"permalink":"/tags/retrospective"}')}}]);

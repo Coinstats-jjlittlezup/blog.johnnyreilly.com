@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[86850],{66048:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/ng-href","name":"ng-href","count":1,"permalink":"/tags/ng-href"}')}}]);

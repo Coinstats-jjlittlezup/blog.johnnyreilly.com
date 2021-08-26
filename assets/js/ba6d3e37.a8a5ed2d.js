@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[31136],{5773:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/code-first-migrations","name":"Code First Migrations","count":1,"permalink":"/tags/code-first-migrations"}')}}]);

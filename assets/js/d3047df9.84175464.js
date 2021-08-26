@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[30209],{13141:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/j-query-validate","name":"jQuery Validate","count":1,"permalink":"/tags/j-query-validate"}')}}]);

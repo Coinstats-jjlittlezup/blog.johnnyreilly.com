@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[78389],{24736:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/angular-ui-bootstrap-datepicker","name":"Angular UI Bootstrap Datepicker","count":1,"permalink":"/tags/angular-ui-bootstrap-datepicker"}')}}]);

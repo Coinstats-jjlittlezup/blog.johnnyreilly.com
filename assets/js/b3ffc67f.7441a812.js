@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[35066],{95486:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/watch-api","name":"watch API","count":2,"permalink":"/tags/watch-api"}')}}]);

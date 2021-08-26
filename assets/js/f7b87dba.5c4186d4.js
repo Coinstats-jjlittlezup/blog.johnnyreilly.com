@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[27468],{55684:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"web-application-factory","name":"webapplicationfactory","count":1,"permalink":"/tags/web-application-factory"}')}}]);

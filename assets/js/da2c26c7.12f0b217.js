@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[24885],{19093:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/windows-account","name":"Windows Account","count":1,"permalink":"/tags/windows-account"}')}}]);

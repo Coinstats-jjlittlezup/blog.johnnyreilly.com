@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[59949],{27205:function(s){s.exports=JSON.parse('{"allTagsPath":"/tags","slug":"/tags/instance-methods","name":"Instance methods","count":1,"permalink":"/tags/instance-methods"}')}}]);

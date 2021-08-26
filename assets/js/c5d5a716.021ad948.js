@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_website=self.webpackChunkblog_website||[]).push([[78859],{17763:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","slug":"web-api-2","name":"web api 2","count":1,"permalink":"/tags/web-api-2"}')}}]);
