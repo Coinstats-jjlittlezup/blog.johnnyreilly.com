@@ -15,7 +15,7 @@
         <summary type="html"><![CDATA[Bicep is an amazing language, it's also very new. If you want to write attractive code snippets about Bicep, you can by using PrismJS (and Docusaurus). This post shows you how.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -26,7 +26,7 @@
         <summary type="html"><![CDATA[This post demonstrates how to deploy Azure Static Web Apps using Bicep and Azure DevOps. It includes a workaround for the "Provider is invalid.  Cannot change the Provider. Please detach your static site first if you wish to use to another deployment provider." issue.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -37,7 +37,7 @@
         <summary type="html"><![CDATA[An exciting feature is shipping with TypeScript 4.4. It has the name "Control Flow Analysis of Aliased Conditions" which is quite a mouthful. This post unpacks what this feature is, and demonstrates the contribution it makes to improving the readability of code.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -48,7 +48,7 @@
         <summary type="html"><![CDATA[TypeScript has the ability to define classes as abstract. This means they cannot be instantiated directly, only non-abstract subclasses can be. Let's take a look at what this means when it comes to constructor usage.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -59,7 +59,7 @@
         <summary type="html"><![CDATA[.NET Core can make use of C# 9 by making some changes to your .csproj files. There is a way to opt all projects in a solution into this behaviour in a single place, through using a Directory.Build.props file and / or a Directory.Build.targets file. Here's how to do it.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -70,7 +70,7 @@
         <summary type="html"><![CDATA[Builds can be made faster using tools like esbuild. However, if you're invested in webpack but would still like to take advantage of speedier builds, there is a way. This post takes us through using esbuild alongside webpack using esbuild-loader.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -81,7 +81,7 @@
         <summary type="html"><![CDATA[If you're provisioning resources in Azure with Bicep, you may have a need to acquire the connection strings and keys of your newly deployed infrastructure.  For example, the connection strings of an event hub or the access keys of a storage account. Perhaps you'd like to use them to run an end-to-end test, perhaps you'd like to store these secrets somewhere for later consumption.  This post shows how to do that using Bicep and the listKeys helper.  Optionally it shows how you could consume this in Azure Pipelines.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -92,7 +92,7 @@
         <summary type="html"><![CDATA[C# 9 has some amazing features. Azure Functions are have two modes: isolated and in-process. Whilst isolated supports .NET 5 (and hence C# 9), in-process supports .NET Core 3.1 (C# 8). This post shows how we can use C# 9 with in-process Azure Functions running on .NET Core 3.1.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -103,7 +103,7 @@
         <summary type="html"><![CDATA[React 18 alpha has been released; but can we use it with TypeScript? The answer is "yes", but you need to do a couple of things to make that happen. This post will show you what to do.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -114,7 +114,7 @@
         <summary type="html"><![CDATA[The upgrade of Azure Functions from .NET Core 3.1 to .NET 5 is significant. This post shows part of the upgrade: Query params, Dependency Injection, Bicep & Build]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -125,7 +125,7 @@
         <summary type="html"><![CDATA[It's great to be able to develop locally without needing a "real" database to connect to. Azurite is an Azure Storage emulator which exists to support just that. This post demonstrates how to run Azurite v3 in a dev container, such that you can access the Table Storage API, which is currently in preview.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -136,7 +136,7 @@
         <summary type="html"><![CDATA[Creating an Azure Pipeline using the Azure DevOps REST API is possible, but badly documented. This post goes through how to do this.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -147,7 +147,7 @@
         <summary type="html"><![CDATA[Docusaurus doesn't ship with "blog archive" functionality. By which I mean, something that allows you to look at an overview of your historic blog posts. It turns out it is fairly straightforward to implement your own.  This post does just that.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -158,7 +158,7 @@
         <summary type="html"><![CDATA[The Service Now REST API is an API which allows you to interact with Service Now. It produces different shaped results based upon the sysparmdisplayvalue query parameter. This post looks at how we can model these API results with TypeScripts conditional types. The aim being to minimise repetition whilst remaining strongly typed. This post is specifically about the Service Now API, but the principles around conditional type usage are generally applicable.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -169,7 +169,7 @@
         <summary type="html"><![CDATA[ts-loader has just released v9.0.0. This post goes through what this release is all about, and what it took to ship this version. For intrigue, it includes a brief scamper into my mental health along the way. Some upgrades go smoothly - this one had some hiccups. But we'll get into that.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -180,7 +180,7 @@
         <summary type="html"><![CDATA[Bicep makes Azure Resource Management a great deal simpler than ARM templates. The selling point here is grokkability. This post takes a look at the "Hello World" example recently added to the Bicep repo to appreciate quite what a difference it makes.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -191,7 +191,7 @@
         <summary type="html"><![CDATA[Last time I wrote about how to use the Azure CLI to run Bicep within the context of an Azure Pipeline. The solution was relatively straightforward, and involved using az deployment group create in a task. There's an easier way.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -202,7 +202,7 @@
         <summary type="html"><![CDATA[Bicep is a terser and more readable alternative language to ARM templates. Running ARM templates in Azure Pipelines is straightforward. However, there isn't yet a first class experience for running Bicep in Azure Pipelines. This post demonstrates an approach that can be used until a Bicep task is available.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -213,7 +213,7 @@
         <summary type="html"><![CDATA[My blog lived happily on Blogger for the past decade.  It's now built with Docusaurus and hosted on GitHub Pages. To understand the why, read my last post. This post serves purely to share details of feed updates for RSS / Atom subscribers.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -224,7 +224,7 @@
         <summary type="html"><![CDATA[Docusaurus is, amongst other things, a Markdown powered blogging platform. My blog has lived happily on Blogger for the past decade.  I'm considering moving, but losing my historic content as part of the move was never an option. This post goes through what it would look like to move from Blogger to Docusaurus without losing your content.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -235,7 +235,7 @@
         <summary type="html"><![CDATA[Managed Identity offers a very secure way for applications running in Azure to connect to Azure SQL databases. It's an approach that does not require code changes; merely configuration of connection string and associated resources. Hence it has a good developer experience. Importantly, it allows us to avoid exposing our database to username / password authentication, and hence making it a tougher target for bad actors.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -246,7 +246,7 @@
         <summary type="html"><![CDATA[Generating clients for APIs is a tremendous way to reduce the amount of work you have to do when you're building a project. Why handwrite that code when it can be auto-generated for you quickly and accurately by a tool like NSwag? To quote the docs:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -257,7 +257,7 @@
         <summary type="html"><![CDATA[How to use ASP.NET Data Protection to remove the need for sticky sessions with Client Affinity]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -268,7 +268,7 @@
         <summary type="html"><![CDATA[I wrote recently about zero downtime deployments on Azure App Service. Many applications require authentication, and ours is no exception. In our case we're using Azure Active Directory facilitated by "Easy Auth" which provides authentication to our App Service.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -279,7 +279,7 @@
         <summary type="html"><![CDATA[I've been working recently on zero downtime deployments using Azure App Service. They're facilitated by a combination of Health checks and deployment slots. This post will talk about why this is important and how it works.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -290,7 +290,7 @@
         <summary type="html"><![CDATA[This post is about Azure's role assignments and ARM templates. Role assignments can be thought of as "permissions for Azure".]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -301,7 +301,7 @@
         <summary type="html"><![CDATA[If you're deploying an ASP.NET application to Azure App Services, there's a decent chance you'll also be using the fantastic Serilog and will want to plug it into Azure's Application Insights.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -312,7 +312,7 @@
         <summary type="html"><![CDATA[How do you answer the question: "what version of my application is running in Production right now?" This post demonstrates how to surface the build metadata that represents the version of your app, from your app using Azure Pipelines and ASP.NET.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -323,7 +323,7 @@
         <summary type="html"><![CDATA[I wrote recently about how to get Azure Easy Auth to work with roles. This involved borrowing the approach used by MaximeRouiller.Azure.AppService.EasyAuth.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -334,7 +334,7 @@
         <summary type="html"><![CDATA[If this post is interesting to you, you may also want to look at this one where we try to use Microsoft.Identity.Web for the same purpose.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -345,7 +345,7 @@
         <summary type="html"><![CDATA[react-query has a weakly typed hook named useQueries. It's possible to turn that into a strong typed hook; this post shows you how.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -356,7 +356,7 @@
         <summary type="html"><![CDATA[Create React App is a fantastic way to get up and running building a web app with React. It also supports using TypeScript with React. Simply entering the following:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -367,7 +367,7 @@
         <summary type="html"><![CDATA[This post explains how to integrate the tremendous test runner Jest with the continuous integration platform Azure Pipelines. Perhaps we're setting up a new project and we've created a new React app with Create React App. This ships with Jest support out of the box. How do we get that plugged into Pipelines such that:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -378,7 +378,7 @@
         <summary type="html"><![CDATA[Consistent formatting is a good thing. It makes code less confusing to newcomers and it allows whoever is working on the codebase to reliably focus on the task at hand. Not "fixing curly braces because Janice messed them up with her last commit". (A git commit message that would be tragic in so many ways.)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -389,7 +389,7 @@
         <summary type="html"><![CDATA[By default Microsoft.Identity.Web responds to unauthorized requests with a 302 (redirect). Do you want a 403 (forbidden) instead? Here's how.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -400,7 +400,7 @@
         <summary type="html"><![CDATA['Tis the season to play with new compiler settings! I'm a very keen TypeScript user and have been merrily using strictNullChecks since it shipped. I was dimly aware that C# was also getting a similar feature by the name of nullable reference types.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -411,7 +411,7 @@
         <summary type="html"><![CDATA[Some blog posts are insightful treatises on the future of web development, some are "here's how I solved my problem". This is most assuredly the latter.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -422,7 +422,7 @@
         <summary type="html"><![CDATA[Publish your README.md and associated images to Visual Studio Marketplace.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -433,7 +433,7 @@
         <summary type="html"><![CDATA[Never neglect the possibilities of a code review. There are times when you raise a PR and all you want is for everyone to hit approve so you can merge, merge and ship, ship! This can be a missed opportunity. For as much as I'd like to imagine my code is perfect, it's patently not. There's always scope for improvement.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -444,7 +444,7 @@
         <summary type="html"><![CDATA[When an application loads data, typically relatively few HTTP requests will be made. For example, if we imagine we're making a student administration application, then a "view" screen might make a single HTTP request to load that student's data before displaying it.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -455,7 +455,7 @@
         <summary type="html"><![CDATA[The Azure DevOps Client library for Node.js has limitations and missing features, such as the ability to paginate git refs and create wiki posts. This post details some of these issues and illustrates a workaround using the Azure DevOps REST API.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -466,7 +466,7 @@
         <summary type="html"><![CDATA[Safari wants a Content-Type header in responses. Even if the response is Content-Length: 0. Without this, Safari can attempt to trigger an empty download. Don't argue; just go with it; some browsers are strange.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -477,7 +477,7 @@
         <summary type="html"><![CDATA[I blogged a little while ago around to support integration tests using Autofac. This was specific to Autofac but documented a workaround for a long standing issue with ConfigureTestContainer that was introduced into .NET core 3.0 which affects all third-party containers that use ConfigureTestContainer in their tests.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -488,7 +488,7 @@
         <summary type="html"><![CDATA[I'm part of a team that builds an online platform. I'm often preoccupied by how to narrow the gap between our users and "us" - the people that build the platform. It's important we understand how people use and interact with what we've built. If we don't then we're liable to waste our time and energy building the wrong things. Or the wrong amount of the right things.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -499,7 +499,7 @@
         <summary type="html"><![CDATA[Many corporate machines arrive in engineers hands with a preponderance of pre-installed background tools; from virus checkers to backup utilities to port blockers; the list is long.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -510,7 +510,7 @@
         <summary type="html"><![CDATA[Devcontainers are cool. They are the infrastructure as code equivalent for developing software.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -521,7 +521,7 @@
         <summary type="html"><![CDATA[This post differs from my typical fayre. Most often I write "here's how to do a thing". This is not that. It's more "don't do this thing I did". And maybe also, "how can we avoid a situation like this happening again in future?". On this topic I very much don't have all the answers - but by putting my thoughts down maybe I'll learn and maybe others will educate me. I would love that!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -532,7 +532,7 @@
         <summary type="html"><![CDATA[Updated 2nd Oct 2020: for an approach that works with Autofac 6 and ConfigureTestContainer see this post.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -543,7 +543,7 @@
         <summary type="html"><![CDATA[The tremendous Tanner Linsley recently released react-virtual. react-virtual provides "hooks for virtualizing scrollable elements in React".]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -554,7 +554,7 @@
         <summary type="html"><![CDATA[This last four months has been quite the departure for me. Most typically I find myself building applications; for this last period of time I've been taking the platform that I work on, and been migrating it from running on our on premise servers to running in the cloud.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -565,7 +565,7 @@
         <summary type="html"><![CDATA[When you are building any kind of application it's typical to want to store information which persists beyond a single user session. Sometimes that will be information that you'll want to live in some kind of centralised database, but not always.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -576,7 +576,7 @@
         <summary type="html"><![CDATA[This is a post about having two kinds of authentication working at the same time in ASP.Net Core. But choosing which authentication method to use dynamically at runtime; based upon the criteria of your choice.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -587,7 +587,7 @@
         <summary type="html"><![CDATA[JavaScript is famously single threaded. However, if you're developing for the web, you may well know that this is not quite accurate. There are Web Workers:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -598,7 +598,7 @@
         <summary type="html"><![CDATA[Progressive Web Apps are a (terribly named) wonderful idea. You can build an app once using web technologies which serves all devices and form factors. It can be accessible over the web, but also surface on the home screen of your Android / iOS device. That app can work offline, have a splash screen when it launches and have notifications too.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -609,7 +609,7 @@
         <summary type="html"><![CDATA[Update: 26/01/2020 - LICENSE to kill revoked!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -620,7 +620,7 @@
         <summary type="html"><![CDATA[Just recently my team took on the challenge of upgrading our codebase from .NET Core 2.2 to .NET Core 3.1. Along the way we encountered a quirky issue which caused us much befuddlement. Should you be befuddled too, then maybe this can help you.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -631,7 +631,7 @@
         <summary type="html"><![CDATA[Teams notifications are mighty useful. You can send them using Markdown via a webhook.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -642,7 +642,7 @@
         <summary type="html"><![CDATA[I'd like to tell you a story. It's the tale of the ecosystem that grew up around a language: TypeScript. TypeScript is, for want of a better description, JavaScript after a trip to Saville Row. Essentially the same language, but a little more together, a little less wild west. JS with a decent haircut and a new suit. These days, the world seems to be written in TypeScript. And when you pause to consider just how young the language is, well, that's kind of amazing.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -653,7 +653,7 @@
         <summary type="html"><![CDATA[With TypeScript 3.4, a new behaviour landed and a magical new file type appeared; .tsbuildinfo]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -664,7 +664,7 @@
         <summary type="html"><![CDATA[A long time ago (well, 2012) in a galaxy far, far away (okay; Plovdiv, Bulgaria)....]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -675,7 +675,7 @@
         <summary type="html"><![CDATA[I did ponder calling this post "how to enable a good TypeScript developer experience for npm modules that aren't written in TypeScript"... Not exactly pithy though.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -686,7 +686,7 @@
         <summary type="html"><![CDATA[This post demonstrates how you can hard code user authentication claims in ASP.NET Core; a useful technique to facilate testing during development.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -697,7 +697,7 @@
         <summary type="html"><![CDATA[The fork-ts-checker-webpack-plugin has, since its inception, performed two classes of checking:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -708,7 +708,7 @@
         <summary type="html"><![CDATA[Yarn PnP is an innovation by the Yarn team designed to speed up module resolution by node. To quote the (excellent) docs:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -719,7 +719,7 @@
         <summary type="html"><![CDATA[I'm one of the maintainers of the fork-ts-checker-webpack-plugin. Hi there!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -730,7 +730,7 @@
         <summary type="html"><![CDATA[This is going out to all those people using react-select with 1000+ items to render. To those people typing into the select and saying out loud "it's so laggy.... This can't be... It's 2019... I mean, right?" To the people who read this GitHub issue top to bottom 30 times and still came back unsure of what to do. This is for you.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -741,7 +741,7 @@
         <summary type="html"><![CDATA[I'm somewhat into code golf. Placing restrictions on what you're "allowed" to do in code and seeing what the happens as a result. I'd like to share with you something that came out of some recent dabblings.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -752,7 +752,7 @@
         <summary type="html"><![CDATA[I recently had need to be able to access the API for Google Analytics from ASP.Net Core. Getting this up and running turned out to be surprisingly tough because of an absence of good examples. So here it is; an example of how you can access a simple page access stat using the API:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -763,7 +763,7 @@
         <summary type="html"><![CDATA[It's time for the first major version of fork-ts-checker-webpack-plugin. It's been a long time coming :-)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -774,7 +774,7 @@
         <summary type="html"><![CDATA[This post demonstrates a mechanism for proxying HTTP requests in ASP.NET Core. It doesn't proxy all requests; it only proxies requests that match entries on an "allowlist" - so we only proxy the traffic that we've actively decided is acceptable as determined by taking the form of an expected URL and HTTP verb (GET / POST etc).]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -785,7 +785,7 @@
         <summary type="html"><![CDATA[All I ask for is a compiler and a tight feedback loop. Narrowing the gap between making a change to a program and seeing the effect of that is a productivity boon. The TypeScript team are wise cats and dig this. They've taken strides to improve the developer experience of TypeScript users by introducing a "watch" API which can be leveraged by other tools. To quote the docs:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -796,7 +796,7 @@
         <summary type="html"><![CDATA[I'd been meaning to automate the npm publishing of ts-loader for the longest time. I had attempted to use Travis to do this in the same way as fork-ts-checker-webpack-plugin. Alas using secure environment variables in Travis has unfortunate implications for ts-loader's test pack.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -807,7 +807,7 @@
         <summary type="html"><![CDATA[It all started with a GitHub issue. Ernst Ammann reported:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -818,7 +818,7 @@
         <summary type="html"><![CDATA[One thing that ASP.Net Core really got right was caching. IMemoryCache is a caching implementation that does just what I want. I love it. I take it everywhere. I've introduced it to my family.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -829,7 +829,7 @@
         <summary type="html"><![CDATA[If you're a user of Jest, you've no doubt heard of and perhaps made use of snapshot testing.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -840,7 +840,7 @@
         <summary type="html"><![CDATA[I recently had the good fortune to help run a coding bootcamp. The idea was simple: there are many people around us who are interested in programming but don't know where to start. Let's take some folk who do and share the knowledge.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -851,7 +851,7 @@
         <summary type="html"><![CDATA[Love me some Font Awesome. Absolutely wonderful. However, I came a cropper when following the instructions on using the all new Font Awesome 5 with React. The instructions for standard icons work fine. But if you want to use brand icons then this does not help you out much. There's 2 problems:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -862,7 +862,7 @@
         <summary type="html"><![CDATA[So project references eh? They shipped with TypeScript 3. We've just shipped initial support for project references in ts-loader v5.2.0. All the hard work was done by the amazing Andrew Branch. In fact I'd recommend taking a gander at the PR. Yay Andrew!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -873,7 +873,7 @@
         <summary type="html"><![CDATA[This a tale of things that are and things that aren't. It's a tale of semantic versioning, the lack thereof and heartbreak. It's a story of terror and failing builds. But it has a bittersweet ending wherein our heroes learn a lesson and understand the need for compromise. We all come out better and wiser people. Hopefully there's something for everybody; let's start with an exciting opener and see where it goes...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -884,7 +884,7 @@
         <summary type="html"><![CDATA[This post shows how you can use TypeScript with webpack alias to move away from using relative paths in your import statements.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -895,7 +895,7 @@
         <summary type="html"><![CDATA[How can we configure an ASP.NET application with nested properties Azure App Service Web App for Containers using Application Settings in Azure? Colons don't work.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -906,7 +906,7 @@
         <summary type="html"><![CDATA[Cypress is a fantastic way to write UI tests for your web apps. Just world class. Wait, no. Galaxy class. I'm going to go one further: universe class. You get my drift.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -917,7 +917,7 @@
         <summary type="html"><![CDATA[Let me start by telling you a dirty secret. I have an ASP.Net Core project that I build with VSTS. It is deployed to Azure through a CI / CD setup in VSTS. That part I'm happy with. Proud of even. Now to the sordid hiddenness: try as I might, I've never found a nice way to deploy Entity Framework database migrations as part of the deployment flow. So I have [blushes with embarrassment] been using the Startup of my ASP.Net core app to run the migrations on my database. There. I said it. You all know. Absolutely filthy. Don't judge me.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -928,7 +928,7 @@
         <summary type="html"><![CDATA[For the longest time I've been using the likes of Travis and AppVeyor to build open source projects that I work on. They rock. I've also recently been dipping my toes back in the water of Visual Studio Team Services. VSTS offers a whole stack of stuff, but my own area of interest has been the Continuous Integration / Continuous Deployment offering.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -939,7 +939,7 @@
         <summary type="html"><![CDATA[It is a truth universally acknowledged, that a single developer, will not be short of an opinion. Opinions on tabs vs spaces. Upon OOP vs FP. Upon classes vs functions. Just opinions, opinions, opinions. Opinions that are felt with all the sincerity of a Witchfinder General. And, alas, not always the same level of empathy.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -950,7 +950,7 @@
         <summary type="html"><![CDATA[I having a web app which is fairly complex. It's made up of services, controllers and all sorts of things. So far, so unremarkable. However, I needed to ensure that the controllers did not attempt to access the database via any of their dependencies. Or their dependencies, dependencies. Or their dependencies. You get my point.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -961,7 +961,7 @@
         <summary type="html"><![CDATA[I spent today digging through our webpack 4 config trying to work out why a production bundle contained code like this:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -972,7 +972,7 @@
         <summary type="html"><![CDATA[I was recently checking out a very good post which explained how to upload images using React Dropzone and SuperAgent to Cloudinary.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -983,7 +983,7 @@
         <summary type="html"><![CDATA[Every now and then you can be surprised. Your assumptions turn out to be wrong.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -994,7 +994,7 @@
         <summary type="html"><![CDATA[webpack 4 has shipped!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1005,7 +1005,7 @@
         <summary type="html"><![CDATA[Update: 03/02/2018]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1016,7 +1016,7 @@
         <summary type="html"><![CDATA[The first webpack 4 beta dropped on Friday. Very exciting! Following hot on the heels of those announcements, I've some news to share too. Can you guess what it is?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1027,7 +1027,7 @@
         <summary type="html"><![CDATA[Most applications I write have some need for authentication and perhaps authorisation too. In fact, most apps most people write fall into that bracket. Here's the thing: Auth done well is a \big\ chunk of work. And the minute you start thinking about that you almost invariably lose focus on the thing you actually want to build and ship.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1038,7 +1038,7 @@
         <summary type="html"><![CDATA[2017 is drawing to a close, and it's been a big, big year in webpack-land. It's been a big year for ts-loader too. At the start of the year v1.3.3 was the latest version available, officially supporting webpack 1. (Old school!) We end the year with ts-loader sitting pretty at v3.2.0 and supporting webpack 2 and 3.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1049,7 +1049,7 @@
         <summary type="html"><![CDATA[So, there you sit, conflicted. You've got a lovely build setup; it's a thing of beauty. Precious, polished like a diamond, sharpened like a circular saw. There at the core of your carefully crafted setup sits webpack. Heaving, mysterious... powerful.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1060,7 +1060,7 @@
         <summary type="html"><![CDATA[A funny thing happened on the way to the registry the other day. Something changed in an npm package I was using and confusion arose. You can read my unfiltered confusion here but here's the slightly clearer explanation.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1071,7 +1071,7 @@
         <summary type="html"><![CDATA[I'm quite proud of this//www.extrahop.com/company/blog/2017/extrahop-webpack-accelerating-build-times/]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1082,7 +1082,7 @@
         <summary type="html"><![CDATA[My name is John Reilly and I'm a VS Code addict. There I said it. I'm also a big fan of TypeScript and webpack. I've recently switched to using the awesome fork-ts-checker-webpack-plugin to speed up my builds.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1093,7 +1093,7 @@
         <summary type="html"><![CDATA[This post also featured as a webpack Medium publication.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1104,7 +1104,7 @@
         <summary type="html"><![CDATA[Here's how my life panned out in the early hours of Wednesday 30th September 2017:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1115,7 +1115,7 @@
         <summary type="html"><![CDATA[Like pretty much everyone else I've been using PhantomJS to run my JavaScript (or compiled-to-JS) unit tests. It's been great. So when I heard the news that PhantomJS was dead I was genuinely sad. However, the King is dead.... Long live the King! For there is a new hope; it's called Chrome Headless . It's not a separate version of Chrome; rather the ability to run Chrome without a UI is now baked into Google's favourite browser as of v59. (For those history buffs I might as well be clear: the main reason PhantomJS died is because Chrome Headless was in the works.)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1126,7 +1126,7 @@
         <summary type="html"><![CDATA[Version numbers wrong We release breaking changes We don't know we do]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1137,7 +1137,7 @@
         <summary type="html"><![CDATA[One of the most exciting features to ship with TypeScript 2.4 was support for the dynamic import expression. To quote the release blog post:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1148,7 +1148,7 @@
         <summary type="html"><![CDATA[Update 18/06/2017]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1159,7 +1159,7 @@
         <summary type="html"><![CDATA[I've recently started a new role. Perhaps unsurprisingly, part of the technology stack is TypeScript. A couple of days into the new codebase I found a bug. Well, I say I found a bug, TypeScript and VS Code found the bug - I just let everyone else know.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1170,7 +1170,7 @@
         <summary type="html"><![CDATA[AppVeyor has support for setting the version of a binary during a build. However - this deals with the classic ASP.Net world of AssemblyInfo. I didn't find any reference to support for doing the same with dot net core. Remember, dot net core relies upon a &lt;Version&gt; or a &lt;VersionPrefix&gt; setting in the .csproj file. Personally, &lt;Version&gt; is my jam.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1181,7 +1181,7 @@
         <summary type="html"><![CDATA[My name is John Reilly. I'm a full stack developer based in London, UK. I'm just coming to the end of a contract (due to finish in April 2017) and I'm starting to look for my next role.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1192,7 +1192,7 @@
         <summary type="html"><![CDATA[I've been using Visual Studio for a long time. Very good it is too. However, it is heavyweight; it does far more than I need. What I really want when I'm working is a fast snappy editor, with intellisense and debugging. What I've basically described is VS Code. It rocks and has long become my go-to editor for TypeScript.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1203,7 +1203,7 @@
         <summary type="html"><![CDATA[Have you ever wondered what happens behind the scenes of open source projects? One that I'm involved with is ts-loader; a TypeScript loader for webpack. Yesterday was an interesting day in the life of ts-loader and webpack; things unexpectedly broke. Oh and don't worry, they're fixed now.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1214,7 +1214,7 @@
         <summary type="html"><![CDATA[Or perhaps I should call this "@types and repeatable builds"....]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1225,7 +1225,7 @@
         <summary type="html"><![CDATA[I have had a \*great\* week. You? Take a look at this blog. Can you see what I can see? Here's a clue:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1236,7 +1236,7 @@
         <summary type="html"><![CDATA[Sometimes you write a post for the ages. Sometimes you write one you hope is out of date before you hit "publish". This is one of those.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1247,7 +1247,7 @@
         <summary type="html"><![CDATA[webpack 2 is on it's way. As one of the maintainers of ts-loader I've been checking out that ts-loader works with webpack 2. It does: phew!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1258,7 +1258,7 @@
         <summary type="html"><![CDATA[Hands up, despite being one of the maintainers of ts-loader (a TypeScript loader for webpack) I have not been tracking webpack v2. My reasons? Well, I'm keen on cutting edge but bleeding edge is often not a ton of fun as dealing with regularly breaking changes is frustrating. I'm generally happy to wait for things to settle down a bit before leaping aboard. However, webpack 2 RC'd last week and so it's time to take a look!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1269,7 +1269,7 @@
         <summary type="html"><![CDATA[Like Captain Ahab I resolve to sync the white whale that is webpack's enhanced-resolve... English you say? Let me start again:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1280,7 +1280,7 @@
         <summary type="html"><![CDATA[Occasionally I flatter myself that I'm alright at this development lark. Such egotistical talk is foolish. What makes me pause even more when I consider the proposition is this: my subconscious is a better developer than I am.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1291,7 +1291,7 @@
         <summary type="html"><![CDATA[That's how I was feeling on the morning of October 6th 2016. I'd been feeling that way for some time. The target of my concern? ts-loader. ts-loader is a loader for webpack; the module bundler. ts-loader allows you use TypeScript with webpack. I'd been a merry user of it for at least a year or so. But, at that point, all was not well in the land of ts-loader. Come with me and I'll tell you a story...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1302,7 +1302,7 @@
         <summary type="html"><![CDATA[Everyone loves curry don't they? I don't know about you but I'm going for one on Friday.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1313,7 +1313,7 @@
         <summary type="html"><![CDATA[TypeScript 2.0 has shipped! Naturally I'm excited. For some time I've been using TypeScript to emit ES2015 code which I pass onto Babel to transpile to ES "old school". You can see how here.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1324,7 +1324,7 @@
         <summary type="html"><![CDATA[Once More With Feeling]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1335,7 +1335,7 @@
         <summary type="html"><![CDATA[I'm addicted to the ternary operator. For reasons I can't explain, I cannot get enough of:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1346,7 +1346,7 @@
         <summary type="html"><![CDATA[I've been searching for a way to describe what the DefinePlugin actually does. The docs say\*:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1357,7 +1357,7 @@
         <summary type="html"><![CDATA[I'm a great lover of ES2015's Map. However, just recently I tumbled over something I find a touch inconvenient about how you initialise a new Map from the contents of an Array in TypeScript.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1368,7 +1368,7 @@
         <summary type="html"><![CDATA[You may know that Angular ships with a cutdown version of jQuery called jQLite. It's still possible to use the full-fat jQuery; to quote the docs:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1379,7 +1379,7 @@
         <summary type="html"><![CDATA[This technique actually applies to pretty much any web stack where you have to supply templates; it just so happens that I'm using Angular 1.x in this case. Also I have an extra technique which is useful to handle the ng-include scenario.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1390,7 +1390,7 @@
         <summary type="html"><![CDATA[I'd like you to close your eyes and imagine a scenario. You're handed a prototype system. You're told it works. It has no documentation. It has 0 unit tests. The hope is that you can take it on, refactor it, make it better and (crucially) not break it. Oh, and you don't really understand what the code does or why it does it either; information on that front is, alas, sorely lacking.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1401,7 +1401,7 @@
         <summary type="html"><![CDATA[I hate LINQ's Enumerable.Concat when bringing together IEnumerables. Not the behaviour (I love that!) but rather how code ends up looking when you use it. Consider this:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1412,7 +1412,7 @@
         <summary type="html"><![CDATA[Every now and then when I try and update my packages in Atom I find this glaring back at me:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1423,7 +1423,7 @@
         <summary type="html"><![CDATA[To my lasting regret, TFS 2012 has no direct support for PowerShell. Such a shame as PowerShell scripts can do a lot of heavy lifting in a build process. Well, here we're going to brute force TFS 2012 into running PowerShell scripts. And along the way we'll also get Karma test results publishing into TFS 2012 as an example usage. Nice huh? Let's go!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1434,7 +1434,7 @@
         <summary type="html"><![CDATA[So you're creating a link with the Angular UI Router. You're passing more than a few parameters and it's getting kinda big. Something like this:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1445,7 +1445,7 @@
         <summary type="html"><![CDATA[TypeScript first gained support for tsconfig.json back with the 1\.5 release. However, to my lasting regret and surprise Visual Studio will not be gaining meaningful support for it until TypeScript 1.8 ships. However, if you want it now, it's already available to use in beta.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1456,7 +1456,7 @@
         <summary type="html"><![CDATA[So, you want to use C# 6 language features and you’re working on an older project that’s still rocking .NET 4.5. Well, with some caveats, you can.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1467,7 +1467,7 @@
         <summary type="html"><![CDATA[I’ve a love / hate relationship with Coded UI. Well hate / hate might be more accurate. Hate perhaps married with a very grudging respect still underpinned by a wary bitterness. Yes, that’s about the size of it. Why? Well, when Coded UI works, it’s fab. But it’s flaky as anything. Anybody who’s used the technology is presently nodding sagely and holding back the tears. It’s all a bit... tough.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1478,7 +1478,7 @@
         <summary type="html"><![CDATA[This is a guide on how not to expose all your static files to the world at large when working with the ASP.Net Framework. How to move from a blocklisting approach to a allowlisting approach.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1489,7 +1489,7 @@
         <summary type="html"><![CDATA[I've seen it go by many names; live reload, hot reload, browser sync... the list goes on. It's been the subject of a million demos. It's the focus of a thousand npm packages. Someone tweaks a file and... wait for it... doesn't have to refresh their browser to see the changes... The future is now!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1500,7 +1500,7 @@
         <summary type="html"><![CDATA[I wrote a while ago about how I was using some different tools in a current project:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1511,7 +1511,7 @@
         <summary type="html"><![CDATA[So there I was, tip-tapping away at my keyboard when I became aware of the slowly loudening noise of a debate. It wasn't about poverty, war, civil rights or anything like that. No; this was far more contentious. It was about the behaviour of IQueryable&lt;T&gt; when mixed with IEnumerable&lt;T&gt;. I know, right, how could I not get involved?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1522,7 +1522,7 @@
         <summary type="html"><![CDATA[...to protect my wallet.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1533,7 +1533,7 @@
         <summary type="html"><![CDATA[This is just a quick post - the tl;dr is this: jQuery Validation Globalize has been ported to Globalize 1.x. Yay! In one of those twists of fate I'm not actually using this plugin in my day job anymore but I thought it might be useful to other people. So here you go. You can read more about this plugin in an older post and you can see a demo of it in action here.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1544,7 +1544,7 @@
         <summary type="html"><![CDATA[OK - the title's total clickbait but stay with me; there's a point here.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1555,7 +1555,7 @@
         <summary type="html"><![CDATA[Some people fear change. Most people actually. I'm not immune to that myself, but not in the key area of technology. Any developer that fears change when it comes to the tools and languages that he / she is using is in the wrong business. Because what you're using to cut code today will not last. The language will evolve, the tools and frameworks that you love will die out and be replaced by new ones that are different and strange. In time, the language you feel you write as a native will fall out of favour, replaced by a new upstart.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1566,7 +1566,7 @@
         <summary type="html"><![CDATA[I was recently reading a post by Jaime González García which featured the following mind-bending proposition:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1577,7 +1577,7 @@
         <summary type="html"><![CDATA[Globalize has hit 1.0. Anyone who reads my blog will likely be aware that I'm a long time user of Globalize 0.1.x. I've been a little daunted by the leap that the move from 0.1.x to 1.x represents. It appears to be the very definition of "breaking changes". :-) But hey, this is Semantic Versioning being used correctly so how could I complain? Either way, I've decided to write up the migration here as I'm not expecting this to be easy.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1588,7 +1588,7 @@
         <summary type="html"><![CDATA[I don't know about you but I personally feel that the following sentence may well be the saddest in the English language:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1599,7 +1599,7 @@
         <summary type="html"><![CDATA[Code First Migrations. They look a little like this in Visual Studio:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1610,7 +1610,7 @@
         <summary type="html"><![CDATA[The Angular UI Bootstrap Datepicker is fan-dabby-dozy. But it has a ... pecularity. You can use the picker like this:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1621,7 +1621,7 @@
         <summary type="html"><![CDATA[I thought as I start the NgValidationFor project I'd journal my progress. I'm writing this with someone particular in mind welcome!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1632,7 +1632,7 @@
         <summary type="html"><![CDATA[So. You want to kick hash based routing to the kerb. You want real URLs. You've read the HTML5 mode section of the Angular $location docs and you're good to go. It's just a matter of dropping $locationProvider.html5Mode(true) into your app initialisation right?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1643,7 +1643,7 @@
         <summary type="html"><![CDATA[Further posts on this topic]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1654,7 +1654,7 @@
         <summary type="html"><![CDATA[A departure from from my normal content - I need to tell you about emoji! You'll probably already know about them - just imagine a emoticon but about 300,000 times better. They really add spice to to textual content. Oh and they're Japanese - which is also way cool.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1665,7 +1665,7 @@
         <summary type="html"><![CDATA[In the name of DRY I found myself puzzling how one could take a PartialViewResult and render it as a string. Simple, right?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1676,7 +1676,7 @@
         <summary type="html"><![CDATA[Sometimes, you just miss things. Something seismic happens and you had no idea. So it was with tsconfig.json.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1687,7 +1687,7 @@
         <summary type="html"><![CDATA[This is very probably the dullest title for a blog post I've ever come up with. Read on though folks - it's definitely going to pick up...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1698,7 +1698,7 @@
         <summary type="html"><![CDATA[I've done it. I've open sourced the website that I maintain for my aunt what is a nun. Because I think we can all agree that nuns need open source and continuous integration about as much as anyone else.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1709,7 +1709,7 @@
         <summary type="html"><![CDATA[(& How to Express Functions in UTs)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1720,7 +1720,7 @@
         <summary type="html"><![CDATA["Automation, automation, automation." Those were and are Tony Blair's priorities for keeping open source projects well maintained.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1731,7 +1731,7 @@
         <summary type="html"><![CDATA[There's a small open source project I'm responsible for called jQuery Validation Unobtrusive Native. (A catchy name is a must for any good open source project. Alas I'm not quite meeting my own exacting standards on this particular point... I should have gone with my gut and called it "Livingstone" instead. Too late now...)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1742,7 +1742,7 @@
         <summary type="html"><![CDATA[How I managed to gulp-angular-templatecache working inside Visual Studio]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1753,7 +1753,7 @@
         <summary type="html"><![CDATA[The observant amongst you may have noticed that this blog has a brand new and shiny domain name! That's right, after happily trading under "icanmakethiswork.blogspot.com" for the longest time it's now "blog.icanmakethiswork.io". Trumpets and fanfare!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1764,7 +1764,7 @@
         <summary type="html"><![CDATA[(Coded UI, IE 11 and the "runas" problem)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1775,7 +1775,7 @@
         <summary type="html"><![CDATA[Update 17/02/2015: I've taken the approach discussed in this post a little further - you can see here]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1786,7 +1786,7 @@
         <summary type="html"><![CDATA[Loading On-Demand and Caching]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1797,7 +1797,7 @@
         <summary type="html"><![CDATA[Enough with the horrific misquotes - this is about Moq and async (that's my slight justification for robbing Herman Melville).]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1808,7 +1808,7 @@
         <summary type="html"><![CDATA[I previously attempted to migrate my Jasmine tests from JavaScript to TypeScript. The last time I tried it didn't go so well and I bailed. Thank the Lord for source control. But feeling I shouldn't be deterred I decided to have another crack at it.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1819,7 +1819,7 @@
         <summary type="html"><![CDATA[Anyone who reads my blog will know that I have been long in the habit of writing unit tests for my C# code. I'm cool like that. However, it took me a while to get up and running writing unit tests for my JavaScript code. I finally got there using a combination of Jasmine 2.0 and Chutzpah. (Jasmine being my test framework and Chutzpah being my test runner.)]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1830,7 +1830,7 @@
         <summary type="html"><![CDATA[With a little help from Chutzpah...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1841,7 +1841,7 @@
         <summary type="html"><![CDATA[I wrote a little while ago about creating a directive to present server errors on the screen in an Angular application. In my own (not so humble opinion), it was really quite nice. I was particularly proud of my usage of isolate scope. However, pride comes before a fall.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1852,7 +1852,7 @@
         <summary type="html"><![CDATA[Up until, well yesterday really, I tended to have my Web API action methods all returning 200's no matter what. Successful request? 200 for you sir! Some validation error in the model? 200 for you too ma'am - but I'll wrap up the validation errors and send them back too. Database error? 200 and and an error message.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1863,7 +1863,7 @@
         <summary type="html"><![CDATA[So. You're using AngularJS to build your front end with ASP.Net running on the server side. You're a trustworthy dev - you know that validation on the client will only get you so far. You need to validate on the server.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1874,7 +1874,7 @@
         <summary type="html"><![CDATA[I've recently ported John Papa's popular Hot Towel Angular SPA Template to TypeScript. Why? Because it was there.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1885,7 +1885,7 @@
         <summary type="html"><![CDATA[If you ever take a step back from what you're doing it can sometimes seem pretty abstract. Here's an example. I was looking at an issue in an app that I was supporting. The problem concerned a field which was to store a date value. Let's call it, for the sake of argument, valuation_date. (Clearly in reality the field name was entirely different... Probably.) This field was supposed to represent a specific date, like June 15th 2012 or 19th August 2014. To be clear, a date and \*not\* in any way, a time.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1896,7 +1896,7 @@
         <summary type="html"><![CDATA[It started with nuns. Don't all good stories start that way? One of my (many) aunts is a Poor Clare nun. At some point in the distant past I was cajoled into putting together a simple website for her convent. This post is a walkthrough of how to migrate from AngularJS using JavaScript to AngularJS using TypeScript. It just so happens that the AngularJS app in question is the one that belongs to my mother's sister's convent.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1907,7 +1907,7 @@
         <summary type="html"><![CDATA[Do you like to separate out your unit tests from the project you are testing? I imagine so. My own practice when creating a new project in Visual Studio is to create a separate unit test project alongside whose responsibility is to house unit tests for that new project.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1918,7 +1918,7 @@
         <summary type="html"><![CDATA[Days of Yore]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1929,7 +1929,7 @@
         <summary type="html"><![CDATA[I was recently reading Jeff Walker's blog post "Why TypeScript Isn't the Answer". This is part of series in which Jeff goes through various compile-to-JavaScript technologies including TypeScript, CoffeeScript and Dart and explains his view of why he feels they don't quite hit the mark.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1940,7 +1940,7 @@
         <summary type="html"><![CDATA[Going off piste]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1951,7 +1951,7 @@
         <summary type="html"><![CDATA[I’ve long used Globalize for my JavaScript number formatting / parsing needs. In a current project I’m using Knockout for the UI. When it came to data-binding numeric values none of the default binding handlers seemed appropriate. What I wanted was a binding handler that:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1962,7 +1962,7 @@
         <summary type="html"><![CDATA[Having put together a demo of using TypeScript with RequireJS my attention turned quickly to caching. Or rather, IE forced me to think about caching.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1973,7 +1973,7 @@
         <summary type="html"><![CDATA[I'm not the first to take a look at mixing TypeScript and RequireJS but I wanted to get it clear in my head. Also, I've always felt the best way to learn is to do. So here we go. I'm going to create a TypeScript and RequireJS demo based on John Papa's "Keep It Simple RequireJS Demo".]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1984,7 +1984,7 @@
         <summary type="html"><![CDATA[Time for an unusual post. Most of what gets put down here is technical "how-to's". It's usually prompted by something I've been working on and serves, as much as anything else, as an aide-memoire. Not this time.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -1995,7 +1995,7 @@
         <summary type="html"><![CDATA[I've written before about how unit testing Entity Framework is a contentious and sometimes pointless activity. The TL;DR is that LINQ-to-Objects != Linq-to-Entities and so if you want some useful tests around your data tier then integration tests that actually hit a database are what you want.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2006,7 +2006,7 @@
         <summary type="html"><![CDATA[I recently made the step to upgrade from TypeScript 0.9.1.1 to 0.9.5. To my surprise this process was rather painful and certainly not an unalloyed pleasure. Since I'm now on the other side, so to speak, I thought I'd share my experience and cast back a rope bridge to those about to journey over the abyss.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2017,7 +2017,7 @@
         <summary type="html"><![CDATA[I've recently been experimenting with WebMatrix. If you haven't heard of it, WebMatrix is Microsoft's "free, lightweight, cloud-connected web development tool". All marketing aside, it's pretty cool. You can whip up a site in next to no time, it has source control, publishing abilities, intellisense. Much good stuff. And one thing it has, that I genuinely hadn't expected is NuGet. Brilliant!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2028,7 +2028,7 @@
         <summary type="html"><![CDATA[Caveat emptor folks... Let me start off by putting my hands up and saying I am no expert on CSS. And furthermore let me say that this blog post is essentially the distillation of a heady session of googling on the topic of CSS transitions. The credit for the technique detailed here belongs to many others, I'm just documenting it for my own benefit (and for anyone who stumbles upon this).]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2039,7 +2039,7 @@
         <summary type="html"><![CDATA[It is said that a picture speaks a thousand words. So here's two:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2050,7 +2050,7 @@
         <summary type="html"><![CDATA[As part of the known breaking changes between 0.9 and 0.9.1 there was this subtle but significant switch:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2061,7 +2061,7 @@
         <summary type="html"><![CDATA[Well sort of... Perhaps this post should more accurately called "How to get CI to ignore your TypeScript whilst Visual Studio still compiles it..."]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2072,7 +2072,7 @@
         <summary type="html"><![CDATA[So, you're looking at jQuery.Validation.Unobtrusive.Native. You're thinking to yourself "Yeah, I'd really like to use the native unobtrusive support in jQuery Validation. But I've already got this app which is using jquery.validate.unobtrusive.js \- actually how easy is switching over?" Well I'm here to tell you that it's pretty straightforward - here's a walkthrough of how it might be done.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2083,7 +2083,7 @@
         <summary type="html"><![CDATA[I love jQuery Validation. I was recently putting together a screen which had a lot of different bits of validation going on. And the default jQuery Validation approach of displaying the validation messages next to the element being validated wasn't working for me. That is to say, because of the amount of elements on the form, the appearance of validation messages was really making a mess of the presentation. So what to do?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2094,7 +2094,7 @@
         <summary type="html"><![CDATA[I've been busy working on an open source project called jQuery Validation Unobtrusive Native. To see it in action take a look here.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2105,7 +2105,7 @@
         <summary type="html"><![CDATA[The modern web is JavaScript. There's no two ways about it. HTML 5 has new CSS, new HTML but the most important aspect of it from an application development point of view is JavaScript. It's the engine. Without it HTML 5 wouldn't be the exciting application platform that it is. Half the posts on Hacker News would vanish.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2116,7 +2116,7 @@
         <summary type="html"><![CDATA[Did you know that jQuery Validate natively supports the use of HTML 5 data attributes to drive validation unobtrusively? Neither did I - I haven't seen any documentation for it. However, I was reading the jQuery Validate test suite and that's what I spotted being used in some of the tests.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2127,7 +2127,7 @@
         <summary type="html"><![CDATA[Last time I wrote about Cassette I was talking about how to generally get up and running. How to use Cassette within an ASP.Net MVC project. What I want to write about now is (in my eyes) the most useful feature of Cassette by a country mile. This is Cassettes ability to ensure scripts are served in dependency order.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2138,7 +2138,7 @@
         <summary type="html"><![CDATA[Backing into the light]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2149,7 +2149,7 @@
         <summary type="html"><![CDATA[The Vexation]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2160,7 +2160,7 @@
         <summary type="html"><![CDATA[OK the title of this post is a little verbose. I've just wasted a morning of my life trying to discover what happened to my ability to debug JavaScript in Visual Studio 2012. If you don't want to experience the same pain then read on...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2171,7 +2171,7 @@
         <summary type="html"><![CDATA[This morning when I logged on I was surprised to discover IE 10 had been installed onto my machine. I hadn't taken any action to trigger this myself and so I’m assuming that this was part of the general Windows Update mechanism. I know Microsoft had planned to push IE 10 out through this mechanism.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2182,7 +2182,7 @@
         <summary type="html"><![CDATA[For just over 10 years my bread and butter has been the development and maintenance of line of business apps. More particularly, web apps built on the Microsoft stack of love (© Scott Hanselman). These sort of apps are typically accessed via the company intranet and since "bring your own device" is still a relatively new innovation these apps are invariably built for everyones favourite browser: Internet Explorer. As we all know, enterprises are generally not that speedy when it comes to upgrades. So we're basically talking IE 9 at best, but more often than not, IE 8.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2193,7 +2193,7 @@
         <summary type="html"><![CDATA[My memory appears to be a sieve. Twice in the last year I've forgotten that MVCs ModelBinding doesn't handle regionalised numbers terribly well. Each time I've thought "hmmmm.... best Google that" and lo and behold come upon this post on the issue by the fantastic Phil Haack:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2204,7 +2204,7 @@
         <summary type="html"><![CDATA[- Me: "It can't be done"]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2215,7 +2215,7 @@
         <summary type="html"><![CDATA[I have put a name to my pain...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2226,7 +2226,7 @@
         <summary type="html"><![CDATA[Every now and then you think "x should be easy" - and it isn't. I had one of those situations this morning. Something I thought would take 5 minutes had me still pondering 30 minutes later. I finally cracked it (with the help of a colleague - thanks Marc!) and I wanted to note down what I did since I'm sure to forget this.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2237,7 +2237,7 @@
         <summary type="html"><![CDATA[Last time I wrote about marrying up Twitter.Bootstrap.MVC4 and Bootstrap Datepicker. It came together quite nicely but when I took a more in depth look at what I'd done I discovered a problem. The brief work on regionalisation / internationalisation / localisation / globalisation / whatever it's called this week... wasn't really working. We had problems with the validation.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2248,7 +2248,7 @@
         <summary type="html"><![CDATA[Update 14/01/2013]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2259,7 +2259,7 @@
         <summary type="html"><![CDATA[TL; DR - "Talk is cheap. Show me the code."]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2270,7 +2270,7 @@
         <summary type="html"><![CDATA[A good portion of any devs life is usually spent playing with APIs. If you need to integrate some other system into the system you're working on (and it's rare to come upon a situation where this doesn't happen at some point) then it's API time.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2281,7 +2281,7 @@
         <summary type="html"><![CDATA[Is it 2003 again?!?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2292,7 +2292,7 @@
         <summary type="html"><![CDATA[Documenting a JsonValueProviderFactory Gotcha]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2303,7 +2303,7 @@
         <summary type="html"><![CDATA[A while ago I wrote about optimally serving up JavaScript in web applications. I mentioned that Microsoft had come up with a NuGet package called Microsoft ASP.NET Web Optimization which could help with that by minifying and bundling CSS and JavaScript. At the time I was wondering if I would be able to to use this package with pre-existing MVC 3 projects (given that the package had been released together with MVC 4). Happily it turns out you can. But it's not quite as straightforward as I might have liked so I've documented how to get going with this here...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2314,7 +2314,7 @@
         <summary type="html"><![CDATA[Just recently I've noticed that there appears to be something of a controversy around Unit Testing and Entity Framework. I first came across it as I was Googling around for useful posts on using MOQ in conjunction with EF. I've started to notice the topic more and more and as I have mixed feelings on the subject (that is to say I don't have a settled opinion) I thought I'd write about this and see if I came to any kind of conclusion...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2325,7 +2325,7 @@
         <summary type="html"><![CDATA[Just recently I was tasked with seeing if we could provide a way to access our Dynamics CRM instance via OData. My initial investigations made it seem like there was nothing for me to do; CRM 2011 provides OData support out of the box. Small problem. We were running CRM 4.0.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2336,7 +2336,7 @@
         <summary type="html"><![CDATA[Update 05/10/2015]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2347,7 +2347,7 @@
         <summary type="html"><![CDATA[This post is plagiarism. But I'm plagiarising myself so I don't feel too bad.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2358,7 +2358,7 @@
         <summary type="html"><![CDATA[Simplicity appeals to me. It always has. Something that is simple is straightforward to comprehend and is consequently easy to use. It's clarity.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2369,7 +2369,7 @@
         <summary type="html"><![CDATA[I was recently working on a project which had client side validation manually set up which essentially duplicated the same logic on the server. Like many things this had started out small and grown and grown until it became arduos and tedious to maintain.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2380,7 +2380,7 @@
         <summary type="html"><![CDATA[Well done that man!]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2391,7 +2391,7 @@
         <summary type="html"><![CDATA[I have occasionally done some server-side JavaScript with Rhino and Node.js but this is the exception rather than the rule. Like most folk at the moment, almost all the JavaScript I write is in a web context.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2402,7 +2402,7 @@
         <summary type="html"><![CDATA[I've been a working as a developer in some way, shape or form for just over 10 years now. And it occurred to me the other day that I can't think of a better time to be a software developer than right now]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2413,7 +2413,7 @@
         <summary type="html"><![CDATA[Inspired by Hanselmans post on how he got started in programming I thought I'd shared my own tale about how it all began... I grew up the 80's just outside London. For those of you of a different vintage let me paint a picture. These were the days when "Personal Computers", as they were then styled, were taking the world by storm. Every house would be equipped with either a ZX Spectrum, a Commodore 64 or an Amstrad CPC. These were 8 bit computers which were generally plugged into the family television and spent a good portion of their time loading games like Target]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2424,7 +2424,7 @@
         <summary type="html"><![CDATA[I wanted to write about a JavaScript library which seems to have had very little attention so far. And that surprises me as it's]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2435,7 +2435,7 @@
         <summary type="html"><![CDATA[I've so named this blog post because it shamelessly borrows from the fine work of others 1. http]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2446,7 +2446,7 @@
         <summary type="html"><![CDATA[As I've started making greater use of JavaScript to give a richer GUI experience the amount of JS in my ASP.NET apps has unsurprisingly ballooned. If I'm honest, I hadn't given much consideration to the code quality of my JavaScript in the past. However, if I was going to make increasing use of it (and given the way the web is going at the moment I'd say that's a given) I didn't think this was tenable position to maintain. A friend of mine works for Coverity which is a company that provides tools for analysing code quality. I understand, from conversations with him, that their tools provide static analysis for compiled languages such as C++ / C# / Java etc. I was looking for something similar for JavaScript. Like many, I have read and loved Douglas Crockford's "JavaScript]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2457,7 +2457,7 @@
         <summary type="html"><![CDATA[I was recently working with my colleagues on refactoring a legacy application. We didn't have an immense amount of time available for this but the plan was to try and improve what was there as much as possible. In its initial state the application had no unit tests in place at all and so the plan was to refactor the code base in such a way as to make testing it a realistic proposition. To that end the domain layer was being heavily adjusted and the GUI was being migrated from WebForms to MVC 3. The intention was to build up a pretty solid collection of unit tests. However, as we were working on this we realised we had a problem with properties on our models with internal.aspx) setters...]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2468,7 +2468,7 @@
         <summary type="html"><![CDATA[Update 03/01/2013]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2479,7 +2479,7 @@
         <summary type="html"><![CDATA[Last time I wrote about WCF I was getting up and running with WCF Transport Windows authentication using NetTcpBinding in an Intranet environment. I ended up with a WCF service hosted in a Windows Service which did pretty much what the previous post name implies.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2490,7 +2490,7 @@
         <summary type="html"><![CDATA[Yes the title of this post is \*painfully\* verbose. Sorry about that. Couple of questions for you: - Have you ever liked the way you can have base classes in C# which can then be inherited and subclassed in a different file / class]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2501,7 +2501,7 @@
         <summary type="html"><![CDATA[Update]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2512,7 +2512,7 @@
         <summary type="html"><![CDATA[Just recently I have been particularly needing to make use of remote / server-side validation in my ASP.NET MVC application and found that the unobtrusive way of using this seemed to be rather inadequately documented (of course it's possible that it's well documented and I just didn't find the resources). Anyway I've rambled on much longer than I intended to in this post so here's the TL;DR:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2523,7 +2523,7 @@
         <summary type="html"><![CDATA[So back to JSON. For those of you that don't know JSON stands for JavaScript Object Notation and is lightweight text based data interchange format. Rather than quote other people verbatim you can find thorough explanations of JSON here: - Introducing JSON]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2534,7 +2534,7 @@
         <summary type="html"><![CDATA[Update]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2545,7 +2545,7 @@
         <summary type="html"><![CDATA[This post originally started out as an explanation of JSON. However as I wrote this quickly got abandoned in favour of writing about how I came to use JSON in the first place - which was through the use of Ajax. Having written a goodly amount I've now decided to move the actual JSON stuff into another post since I think Ajax is probably worth thinking about by itself rather than as an aside. So let me start at the beginning and explain how I came to use Ajax in the first place (this may take some time so please bear with me). In late 2004 I first started working on a project which I was to remain involved with (on and off) for a very long time indeed. The project was part financial reporting system and part sales incentivisation tool; it was used internally in the investment bank in which I was working. The project had been in existence for a number of years and had a web front end which at that point would been built in a combination of HTML, JavaScript, classic ASP and with a Visual Basic 6.0 back end. One of the reasons I had been brought on to the project was to help ".Net-ify" the thing and migrate it to ASP.NET and C#. I digress. The interesting thing about this app was that there were actually some quite advanced things being done with it (despite the classic ASP / VB). The users could enter trades into the system which represented actual trades that had been entered into a trading system elsewhere in the organisation. These trades would be assigned a reporting value which would be based on their various attributes. (Stay with me people this will get more interesting I \*promise\*.) The calculation of the reporting value was quite an in depth process and needed to be performed server-side. However, the users had decreed that it wasn't acceptable to do a full postback to the server to perform this calculation; they wanted it done "on-the-fly". Now if you asked me at the time I'd have said "can't be done". Fortunately the other people working on the project then weren't nearly so defeatist. Instead they went away and found Microsoft's webservice.htc library. For those of you that don't know this was a JavaScript library that Microsoft came up with to enable the access of Web Services on the client. Given that it was designed to work with IE 5 I suspect it was created between 1999-2001 (but I'm not certain about that). Now it came as a revelation to me but this was a JavaScript library that talked to our web services through the medium of XML. In short it was my first encounter with anything remotely Ajax)\-y. It was exciting! However, the possibilities of what we could do didn't actually become apparent to me for some years. It's worth saying that the way we were using webservice.htc was exceedingly simplistic and rather than investigating further I took the limited ways we were using it as indications of the limitations of Ajax and / or webservice.htc. So for a long time I thought the following: - The only way to pass multiple arguments to a web service was to package up arguments into a single string with delimiters which you could split#split) and unpackage as your first step on the server.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2556,7 +2556,7 @@
         <summary type="html"><![CDATA[So it's 2010 and I've started using jQuery. jQuery is a JavaScript library. This means that I'm writing JavaScript... Gulp! I should say that at this point in time I \*hated\* JavaScript (I have mentioned this previously). But what I know now is that I barely understood the language at all. All the JavaScript I knew was the result of copying and pasting after I'd hit "view source". I don't feel too bad about this - not because my ignorance was laudable but because I certainly wasn't alone in this. It seems that up until recently hardly anyone knew anything about JavaScript. It puzzles me now that I thought this was okay. I suppose like many people I didn't think JavaScript was capable of much and hence felt time spent researching it would be wasted. Just to illustrate where I was then, here is 2009 John's idea of some pretty "advanced" JavaScript: `html]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2567,7 +2567,7 @@
         <summary type="html"><![CDATA[What on earth is jQuery? What's a jQuery plugin?]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2578,7 +2578,7 @@
         <summary type="html"><![CDATA[The year was 2010 (not really that long ago I know) and the project that I was working on was sorely in need of a new grid component. It was an ASP.NET WebForms project and for some time we'd been using what was essentially a glorified datagrid which had a few extra features implemented to allow us to change column order / columns displayed / copy contents to clipboard etc. Our grid worked perfectly fine - it gave us the functionality we needed. However, it looked pretty terrible, and had some "quirky" approaches in place for supporting IE and Firefox side by side. Also, at the time we were attempting to make our app seem new and exciting again for the users. The surprising truth is that users seem to be more impressed with a visual revamp than with new or amended functionality. So I was looking for something which would make them sit up and say "oooh - isn't it pretty!". Unfortunately the nature of the organisation I was working for was not one that lended itself to paying for components. They were occasionally willing to do that but the hoops that would have to be jumped through first, the forms that would need to be signed in triplicate by people that had nearly nothing to do with the project made that an unattractive prospect. So I began my search initially looking at the various open source offerings that were around. As a minimum I was looking for something that would do what our home-grown component did already (change column order / columns displayed / copy contents to clipboard etc) but hopefully in a "nicer" way. Also, I had long been unhappy with the fact that to get our current grid to render results we did a \*full postback\* to the server and re-rendered the whole page. Pointless! Why should you need to do all this each time when you only wanted to refresh the data? Instead I was thinking about using an Ajax approach; a grid that could just get the data that it needed and render it to the client. This seemed to me a vastly "cleaner" solution - why update a whole screen when you only want to update a small part of it? Why not save yourself the trouble of having to ensure that all other screen controls are persisted just as you'd like them after the postback? I also thought it was probably something that would scale better as it would massively reduce the amount of data moving backwards and forwards between client and server. No need for a full page life cycle on the server each time the grid refreshes. Just simple data travelling down the pipes of web. With the above criteria in mind I set out on my Google quest for a grid. Quite soon I found that there was a component out there which seemed to do all that I wanted and far more besides. It was called jqGrid:]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
     <entry>
@@ -2589,7 +2589,7 @@
         <summary type="html"><![CDATA[It started with Scott Hanselman. I had no particular plans to start a blog at all. However, I was reading Scott Hanselman's turn of the year post and I was struck with an idea.]]></summary>
         <author>
             <name>John Reilly</name>
-            <uri>https://github.com/johnnyreilly</uri>
+            <uri>https://twitter.com/johnny_reilly</uri>
         </author>
     </entry>
 </feed>
