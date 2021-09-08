@@ -4,9 +4,16 @@
         <title>I CAN MAKE THIS WORK Blog</title>
         <link>https://blog.johnnyreilly.com/</link>
         <description>I CAN MAKE THIS WORK Blog</description>
-        <lastBuildDate>Thu, 19 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Google APIs: authentication with TypeScript]]></title>
+            <link>https://blog.johnnyreilly.com/2021/09/10/google-apis-authentication-with-typescript</link>
+            <guid>Google APIs: authentication with TypeScript</guid>
+            <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Google has a wealth of APIs which we can interact with.  At the time of writing, there's more than two hundred available; including YouTube, Google Calendar and GMail (alongside many others). To integrate with these APIs, it's necessary to authenticate and then use that credential with the API. This post will take you through how to do just that using TypeScript. It will also demonstrate how to use one of those APIs: the Google Calendar API.]]></description>
+        </item>
         <item>
             <title><![CDATA[Bicep: syntax highlighting with PrismJS (and Docusaurus)]]></title>
             <link>https://blog.johnnyreilly.com/2021/08/19/bicep-syntax-highlighting-with-prismjs</link>
